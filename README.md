@@ -1,4 +1,8 @@
-# Research Idea Summary
+# Research for 2024 President Election Based on polygon transactions and Polymarket data
+
+----
+
+# Research Idea Summary             
 
 This research aims to explore the behaviors of participants in social event betting, particularly during a major election, by analyzing user profiles, emotional fluctuations, and betting patterns, and comparing them with traditional polling methods. Additionally, the study examines the potential of using a Large Language Model (LLM) to simulate and model social event betting.
 
@@ -10,6 +14,7 @@ LLM Simulation: The research will also explore the use of an LLM API to simulate
 
 This multi-faceted approach provides a comprehensive understanding of the dynamics in social event betting and the potential for using AI models to simulate and predict future trends.
 
+## Table of Contents
 
 # 1. Research Questions
 
@@ -23,24 +28,39 @@ This multi-faceted approach provides a comprehensive understanding of the dynami
 - Simulate user behavior based on social media and Polymarket comments using an LLM API.
 - Analyze transactions related to Polygon (for context on event betting).
 
+# 3. Gaps and Research Goals    
+
+ 
+Based on an analysis of traditional polling methods for the 2024 U.S. presidential election, we found significant biases in predictions derived from conventional online and offline surveys and telephone interviews. These biases often stem from factors such as respondents' political affiliations and the prevailing sociopolitical atmosphere in their regions, which can result in discrepancies between the polling outcomes and actual voting behavior. This gap highlights the limitations of traditional polling approaches in capturing the true sentiments of the electorate.
+
+To date, major polling institutions have not introduced effective methods to eliminate subjective biases in data collection. However, through our observation of Polymarket, one of the most popular binary options cryptocurrency platforms, and its event dedicated to the 2024 presidential election `https://polymarket.com/event/presidential-election-winner-2024`, we identified its potential to address this gap. On this platform, users make financial investments to back their predictions—whether they are loyal supporters of a particular candidate or market-driven speculators, their monetary commitments are inherently more rational and reflective of true sentiment than verbal declarations.
+
+To scientifically bridge the gap in traditional polling and enhance research in the field of social behavior, we conducted a deeper analysis of Polygon transactions and Polymarket data related to this event.
+
 
 # Project Structure
 ## Code Directory
-The main scripts and relevant files are organized under the Code/ directory:
+The crawler for the polymarket event is organized under the Crawler/ directory:
 
-- `spider.py`:The crawler for polymarket comments.
-main.py:
-- `pre.py`: Preprocesses datasets for training.
+- `event_spider.py`:The crawler for polymarket comments to get `raw_comments.json`.
+ 
+## Data Processing Directory
+- `get_bettings.py`:Access the Polymarket profiles of all users who commented `user_wallets.json` on the "presidential-election-winner-2024" event to review their betting activity for this event `wallet_betting.json`. 
+- `remove_duplicates.py`:Remove duplicates to access `cleaned_wallet_betting.json`  .    
+## Data Directory        
+- `Raw Comments`: `raw_comments.json`        
+- `Preprocessed Data`:  `wallet_betting.json` `cleaned_wallet_betting.json` 
+- `wallets`:`user_wallets.json`  
 
-## Data Directory      
-- `Crwaler`:
-- `Raw Data`: raw_comments.json
-- `Preprocessed Data`:     
+
+  
   ____
 - ### introduction of Users' Betting Data on Polymarket
 
 
-After extracting users' `proxy_wallets` from Polymarket, we can leverage these wallets to analyze the following aspects:
+After extracting users' `proxy_wallets` from `raw_comments.json`, we can leverage these Polymarket wallets to analyze the following aspects:
+
+
 - Users' betting events
 - Betting targets
 - Betting amounts
