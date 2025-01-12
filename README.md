@@ -14,7 +14,13 @@ LLM Simulation: The research will also explore the use of an LLM API to simulate
 
 This multi-faceted approach provides a comprehensive understanding of the dynamics in social event betting and the potential for using AI models to simulate and predict future trends.
 
+# Project Structure
 ## Table of Contents
+1. [Project Structure](#project-structure)
+2. [Research Questions](#research-questions)
+3. [Research Methods](#research-methods)
+4. [Gaps and Research Goals](#gaps-and-research-goals)
+
 
 # 1. Research Questions
 
@@ -38,7 +44,6 @@ To date, major polling institutions have not introduced effective methods to eli
 To scientifically bridge the gap in traditional polling and enhance research in the field of social behavior, we conducted a deeper analysis of Polygon transactions and Polymarket data related to this event.
 
 
-# Project Structure
 ## Code Directory
 The crawler for the polymarket event is organized under the Crawler/ directory:
 
