@@ -22,6 +22,7 @@ async def fetch_position_data(session, proxy_wallet, semaphore, retries=3):
                     if not data:
                         logger.warning(f"Received empty data: {url}")
                     return data
+                
             except aiohttp.ClientError as e:
                 logger.error(f"Request failed (attempt {attempt + 1}/{retries}): {e} ({url})")
                 if attempt < retries - 1:
@@ -67,12 +68,12 @@ async def process_wallets():
     semaphore = asyncio.Semaphore(CONCURRENT_REQUESTS)  
     async with aiohttp.ClientSession() as session:
        
-        async with aiofiles.open('final_Comments_producer/proxy_wallets.json', 'r', encoding='utf-8') as infile:
+        async with aiofiles.open('data/processed_data/user_wallets.json', 'r', encoding='utf-8') as infile:
             wallets = json.loads(await infile.read())  
 
         tasks = []
         processed_count = 0
-        async with aiofiles.open('proxy_wallet_results.json', 'w', encoding='utf-8') as outfile:
+        async with aiofiles.open('data/processed_data/betting_data/wallet_bettings.json', 'w', encoding='utf-8') as outfile:
             for idx, wallet in enumerate(wallets):
                 tasks.append(process_wallet(session, wallet, semaphore))
 
@@ -81,7 +82,6 @@ async def process_wallets():
                     logger.info(f"Processed up to wallet {idx + 1}, writing to file...")
                     processed_results = await asyncio.gather(*tasks, return_exceptions=True)
                     tasks = []  
-
                     
                     for result in processed_results:
                         if isinstance(result, Exception):
@@ -96,7 +96,7 @@ async def process_wallets():
         if tasks:
             logger.info(f"Processing remaining wallets, count: {len(tasks)}")
             processed_results = await asyncio.gather(*tasks, return_exceptions=True)
-            async with aiofiles.open('proxy_wallet_results.json', 'a', encoding='utf-8') as outfile:
+            async with aiofiles.open('data/processed_data/betting_data/wallet_bettings.json', 'a', encoding='utf-8') as outfile:
                 for result in processed_results:
                     if isinstance(result, Exception):
                         logger.error(f"Error during processing: {result}")
@@ -105,6 +105,7 @@ async def process_wallets():
                             await outfile.write(json.dumps(entry, ensure_ascii=False) + "\n")
                             processed_count += 1
             logger.info("Remaining wallets written to file.")
+
 
 if __name__ == "__main__":
     try:
