@@ -1,0 +1,68 @@
+{
+    "harris_vs_trump": {
+      "polls": [
+        {
+          "source": "Research Co.",
+          "date": "11/04/2024",
+          "sample": "450 LV ±4.6%",
+          "Harris": "39%",
+          "Trump": "54%",
+          "Other": "7%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "9/17/2024",
+          "sample": "850 LV ±3.3%",
+          "Harris": "43%",
+          "Trump": "53%",
+          "Other": "4%"
+        },
+        {
+          "source": "Saint Louis Univ.",
+          "date": "8/29/2024",
+          "sample": "900 LV ±3.8%",
+          "Harris": "41%",
+          "Trump": "54%",
+          "Other": "5%"
+        }
+      ],
+      "note": "No Polls Available"
+    },
+    "biden_vs_trump": {
+      "polls": [
+        {
+          "source": "Emerson College",
+          "date": "6/21/2024",
+          "sample": "1,000 RV ±3%",
+          "Biden": "40%",
+          "Trump": "53%",
+          "Other": "7%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "2/02/2024",
+          "sample": "1,830 RV ±2.2%",
+          "Biden": "32%",
+          "Trump": "49%",
+          "Other": "19%"
+        },
+        {
+          "source": "Remington Research",
+          "date": "10/25/2023",
+          "sample": "806 LV ±3.6%",
+          "Biden": "39%",
+          "Trump": "52%",
+          "Other": "9%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "10/12/2023",
+          "sample": "491 RV ±4.4%",
+          "Biden": "33%",
+          "Trump": "50%",
+          "Other": "17%"
+        }
+      ]
+    }
+  }
+  

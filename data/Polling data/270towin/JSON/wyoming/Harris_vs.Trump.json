@@ -1,0 +1,47 @@
+{
+    "harris_vs_trump": {
+      "polls": [
+        {
+          "source": "Average of 2 Polls†",
+          "date": "N/A",
+          "sample": "N/A",
+          "Harris": "27.5%",
+          "Trump": "66.0%",
+          "Other": "-"
+        },
+        {
+          "source": "Cygnal",
+          "date": "11/01/2024",
+          "sample": "600 LV ±4%",
+          "Harris": "27%",
+          "Trump": "69%",
+          "Other": "4%"
+        },
+        {
+          "source": "Univ. of Wyoming",
+          "date": "11/01/2024",
+          "sample": "662 RV ±3.6%",
+          "Harris": "28%",
+          "Trump": "63%",
+          "Other": "9%"
+        }
+      ]
+    },
+    "harris_vs_other_candidates": {
+      "polls": [
+        {
+          "source": "Cygnal",
+          "date": "11/01/2024",
+          "sample": "600 LV ±4%",
+          "Harris": "27%",
+          "Stein": "-",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "2%",
+          "Trump": "69%",
+          "Other": "2%"
+        }
+      ]
+    }
+  }
+  

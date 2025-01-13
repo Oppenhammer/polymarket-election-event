@@ -1,0 +1,26 @@
+{
+    "title": "Harris vs. Trump",
+    "polls": [
+      {
+        "source": "Talk Business-Hendrix College",
+        "date": "9/13/2024",
+        "sample": "696 LV ±4.6%",
+        "Harris": "40%",
+        "Trump": "55%",
+        "Other": "5%"
+      },
+      {
+        "source": "Talk Business-Hendrix College",
+        "date": "9/13/2024",
+        "sample": "696 LV ±4.6%",
+        "Harris": "40%",
+        "Stein": "0%",
+        "Kennedy": "1%",
+        "West": "-",
+        "Oliver": "1%",
+        "Trump": "55%",
+        "Other": "3%"
+      }
+    ]
+  }
+  

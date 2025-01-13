@@ -1,0 +1,31 @@
+{
+    "harris_vs_trump": {
+      "polls": [
+        {
+          "source": "WPA Intelligence",
+          "date": "10/02/2024",
+          "sample": "500 LV ±4.4%",
+          "Harris": "32%",
+          "Trump": "59%",
+          "Other": "9%"
+        }
+      ]
+    },
+    "harris_vs_other_candidates": {
+      "polls": [
+        {
+          "source": "WPA Intelligence",
+          "date": "10/02/2024",
+          "sample": "500 LV ±4.4%",
+          "Harris": "32%",
+          "Stein": "-",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "1%",
+          "Trump": "59%",
+          "Other": "8%"
+        }
+      ]
+    }
+  }
+  

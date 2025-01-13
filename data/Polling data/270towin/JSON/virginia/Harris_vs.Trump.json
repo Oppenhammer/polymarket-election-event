@@ -1,0 +1,287 @@
+{
+    "harris_vs_trump": {
+      "polls": [
+        {
+          "source": "Average of 5 Polls†",
+          "date": "N/A",
+          "sample": "N/A",
+          "Harris": "49.2%",
+          "Trump": "43.4%",
+          "Other": "-"
+        },
+        {
+          "source": "Research Co.",
+          "date": "11/04/2024",
+          "sample": "450 LV ±4.6%",
+          "Harris": "51%",
+          "Trump": "45%",
+          "Other": "4%"
+        },
+        {
+          "source": "Chism Strategies",
+          "date": "11/02/2024",
+          "sample": "520 LV ±4.3%",
+          "Harris": "45%",
+          "Trump": "45%",
+          "Other": "10%"
+        },
+        {
+          "source": "Cygnal",
+          "date": "11/01/2024",
+          "sample": "600 LV ±4%",
+          "Harris": "50%",
+          "Trump": "43%",
+          "Other": "7%"
+        },
+        {
+          "source": "Roanoke College",
+          "date": "11/01/2024",
+          "sample": "851 LV ±4.6%",
+          "Harris": "51%",
+          "Trump": "41%",
+          "Other": "8%"
+        },
+        {
+          "source": "Wash. Post - Schar School",
+          "date": "10/26/2024",
+          "sample": "1,004 LV ±3.5%",
+          "Harris": "49%",
+          "Trump": "43%",
+          "Other": "8%"
+        },
+        {
+          "source": "Christopher Newport U.",
+          "date": "10/07/2024",
+          "sample": "800 LV ±4.4%",
+          "Harris": "52%",
+          "Trump": "41%",
+          "Other": "7%"
+        },
+        {
+          "source": "VCU Wilder School",
+          "date": "10/02/2024",
+          "sample": "762 RV",
+          "Harris": "47%",
+          "Trump": "37%",
+          "Other": "16%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "9/26/2024",
+          "sample": "860 LV ±3.3%",
+          "Harris": "52%",
+          "Trump": "44%",
+          "Other": "4%"
+        },
+        {
+          "source": "Univ. of Mary Washington",
+          "date": "9/20/2024",
+          "sample": "756 LV ±4.1%",
+          "Harris": "48%",
+          "Trump": "46%",
+          "Other": "6%"
+        },
+        {
+          "source": "Morning Consult",
+          "date": "9/19/2024",
+          "sample": "899 LV ±3.4%",
+          "Harris": "51%",
+          "Trump": "44%",
+          "Other": "5%"
+        },
+        {
+          "source": "VCU Wilder School",
+          "date": "9/11/2024",
+          "sample": "749 RV",
+          "Harris": "49%",
+          "Trump": "36%",
+          "Other": "15%"
+        },
+        {
+          "source": "Wash. Post - Schar School",
+          "date": "9/10/2024",
+          "sample": "1,005 LV ±3.5%",
+          "Harris": "51%",
+          "Trump": "43%",
+          "Other": "6%"
+        },
+        {
+          "source": "Morning Consult",
+          "date": "9/09/2024",
+          "sample": "873 LV ±3%",
+          "Harris": "52%",
+          "Trump": "42%",
+          "Other": "6%"
+        },
+        {
+          "source": "Roanoke College",
+          "date": "8/20/2024",
+          "sample": "691 LV ±4.5%",
+          "Harris": "47%",
+          "Trump": "44%",
+          "Other": "9%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "7/18/2024",
+          "sample": "1,000 RV ±3%",
+          "Harris": "45%",
+          "Trump": "47%",
+          "Other": "8%"
+        },
+        {
+          "source": "FAU / Mainstreet",
+          "date": "7/17/2024",
+          "sample": "544 LV",
+          "Harris": "46%",
+          "Trump": "42%",
+          "Other": "12%"
+        },
+        {
+          "source": "NY Times / Siena College",
+          "date": "7/15/2024",
+          "sample": "661 LV ±4.4%",
+          "Harris": "49%",
+          "Trump": "44%",
+          "Other": "7%"
+        }
+      ]
+    },
+    "harris_vs_other_candidates": {
+      "polls": [
+        {
+          "source": "Average of 4 Polls†",
+          "date": "N/A",
+          "sample": "N/A",
+          "Harris": "48.3%",
+          "Stein": "1.0%",
+          "Kennedy": "-",
+          "West": "1.7%",
+          "Oliver": "1.0%",
+          "Trump": "41.5%",
+          "Other": "-"
+        },
+        {
+          "source": "Chism Strategies",
+          "date": "11/02/2024",
+          "sample": "520 LV ±4.3%",
+          "Harris": "45%",
+          "Stein": "1%",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "1%",
+          "Trump": "45%",
+          "Other": "8%"
+        },
+        {
+          "source": "Cygnal",
+          "date": "11/01/2024",
+          "sample": "600 LV ±4%",
+          "Harris": "50%",
+          "Stein": "1%",
+          "Kennedy": "-",
+          "West": "1%",
+          "Oliver": "0%",
+          "Trump": "43%",
+          "Other": "5%"
+        },
+        {
+          "source": "Roanoke College",
+          "date": "11/01/2024",
+          "sample": "851 LV ±4.6%",
+          "Harris": "51%",
+          "Stein": "1%",
+          "Kennedy": "-",
+          "West": "2%",
+          "Oliver": "2%",
+          "Trump": "41%",
+          "Other": "3%"
+        },
+        {
+          "source": "VCU Wilder School",
+          "date": "10/02/2024",
+          "sample": "762 RV",
+          "Harris": "47%",
+          "Stein": "1%",
+          "Kennedy": "-",
+          "West": "2%",
+          "Oliver": "-",
+          "Trump": "37%",
+          "Other": "13%"
+        },
+        {
+          "source": "Univ. of Mary Washington",
+          "date": "9/20/2024",
+          "sample": "756 LV ±4.1%",
+          "Harris": "46%",
+          "Stein": "0%",
+          "Kennedy": "2%",
+          "West": "-",
+          "Oliver": "0%",
+          "Trump": "47%",
+          "Other": "5%"
+        },
+        {
+          "source": "VCU Wilder School",
+          "date": "9/11/2024",
+          "sample": "749 RV",
+          "Harris": "49%",
+          "Stein": "1%",
+          "Kennedy": "-",
+          "West": "1%",
+          "Oliver": "-",
+          "Trump": "36%",
+          "Other": "13%"
+        },
+        {
+          "source": "Wash. Post - Schar School",
+          "date": "9/10/2024",
+          "sample": "1,005 LV ±3.5%",
+          "Harris": "50%",
+          "Stein": "1%",
+          "Kennedy": "-",
+          "West": "0%",
+          "Oliver": "1%",
+          "Trump": "42%",
+          "Other": "6%"
+        },
+        {
+          "source": "Roanoke College",
+          "date": "8/20/2024",
+          "sample": "691 LV ±4.5%",
+          "Harris": "45%",
+          "Stein": "0%",
+          "Kennedy": "6%",
+          "West": "2%",
+          "Oliver": "2%",
+          "Trump": "42%",
+          "Other": "3%"
+        },
+        {
+          "source": "FAU / Mainstreet",
+          "date": "7/17/2024",
+          "sample": "544 LV",
+          "Harris": "43%",
+          "Stein": "-",
+          "Kennedy": "10%",
+          "West": "-",
+          "Oliver": "-",
+          "Trump": "38%",
+          "Other": "9%"
+        },
+        {
+          "source": "NY Times / Siena College",
+          "date": "7/15/2024",
+          "sample": "661 LV ±4.4%",
+          "Harris": "43%",
+          "Stein": "1%",
+          "Kennedy": "7%",
+          "West": "0%",
+          "Oliver": "0%",
+          "Trump": "39%",
+          "Other": "10%"
+        }
+      ]
+    }
+  }
+  

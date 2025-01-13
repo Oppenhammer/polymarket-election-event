@@ -1,0 +1,120 @@
+{
+    "harris_vs_trump": {
+      "average": {
+        "Harris": "39.5%",
+        "Trump": "57.5%",
+        "Other": "-"
+      },
+      "polls": [
+        {
+          "source": "Emerson College",
+          "date": "10/27/2024",
+          "sample": "1,000 LV ±3%",
+          "Harris": "39%",
+          "Trump": "58%",
+          "Other": "3%"
+        },
+        {
+          "source": "NY Times / Siena College",
+          "date": "10/10/2024",
+          "sample": "656 LV ±4.3%",
+          "Harris": "40%",
+          "Trump": "57%",
+          "Other": "3%"
+        },
+        {
+          "source": "RMG Research",
+          "date": "9/23/2024",
+          "sample": "491 LV ±4.4%",
+          "Harris": "38%",
+          "Trump": "59%",
+          "Other": "3%"
+        },
+        {
+          "source": "AARP",
+          "date": "9/05/2024",
+          "sample": "600 LV ±4%",
+          "Harris": "41%",
+          "Trump": "56%",
+          "Other": "3%"
+        },
+        {
+          "source": "RMG Research",
+          "date": "8/15/2024",
+          "sample": "540 RV ±4.2%",
+          "Harris": "39%",
+          "Trump": "57%",
+          "Other": "4%"
+        },
+        {
+          "source": "American Pulse",
+          "date": "8/14/2024",
+          "sample": "538 LV ±4.2%",
+          "Harris": "38%",
+          "Trump": "52%",
+          "Other": "10%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "8/08/2024",
+          "sample": "1,000 LV ±3%",
+          "Harris": "40%",
+          "Trump": "55%",
+          "Other": "5%"
+        }
+      ]
+    },
+    "harris_vs_other_candidates": {
+      "polls": [
+        {
+          "source": "NY Times / Siena College",
+          "date": "10/10/2024",
+          "sample": "656 LV ±4.3%",
+          "Harris": "39%",
+          "Stein": "0%",
+          "Kennedy": "0%",
+          "West": "0%",
+          "Oliver": "0%",
+          "Trump": "56%",
+          "Other": "5%"
+        },
+        {
+          "source": "RMG Research",
+          "date": "8/15/2024",
+          "sample": "540 RV ±4.2%",
+          "Harris": "39%",
+          "Stein": "-",
+          "Kennedy": "2%",
+          "West": "-",
+          "Oliver": "-",
+          "Trump": "57%",
+          "Other": "2%"
+        },
+        {
+          "source": "American Pulse",
+          "date": "8/14/2024",
+          "sample": "538 LV ±4.2%",
+          "Harris": "38%",
+          "Stein": "0%",
+          "Kennedy": "6%",
+          "West": "0%",
+          "Oliver": "2%",
+          "Trump": "52%",
+          "Other": "2%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "8/08/2024",
+          "sample": "1,000 LV ±3%",
+          "Harris": "39%",
+          "Stein": "0%",
+          "Kennedy": "5%",
+          "West": "0%",
+          "Oliver": "0%",
+          "Trump": "54%",
+          "Other": "2%"
+        }
+      ]
+    }
+  }
+  

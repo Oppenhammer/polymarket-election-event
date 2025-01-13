@@ -1,0 +1,39 @@
+{
+    "harris_vs_trump": {
+      "polls": [
+        {
+          "source": "Public Policy",
+          "date": "10/18/2024",
+          "sample": "715 LV ±3.7%",
+          "Harris": "53%",
+          "Trump": "41%",
+          "Other": "6%"
+        },
+        {
+          "source": "Hoffman Research",
+          "date": "7/30/2024",
+          "sample": "700 LV ±3.7%",
+          "Harris": "49%",
+          "Trump": "44%",
+          "Other": "7%"
+        }
+      ]
+    },
+    "harris_vs_other_candidates": {
+      "polls": [
+        {
+          "source": "Hoffman Research",
+          "date": "7/30/2024",
+          "sample": "700 LV ±3.7%",
+          "Harris": "45%",
+          "Stein": "1%",
+          "Kennedy": "7%",
+          "West": "-",
+          "Oliver": "-",
+          "Trump": "40%",
+          "Other": "7%"
+        }
+      ]
+    }
+  }
+  

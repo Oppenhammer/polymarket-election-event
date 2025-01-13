@@ -1,0 +1,101 @@
+{
+    "harris_vs_trump": {
+      "average_of_3_polls": {
+        "Harris": "42.7%",
+        "Trump": "48.7%",
+        "Other": "-"
+      },
+      "polls": [
+        {
+          "source": "Univ. of New Hampshire",
+          "date": "11/03/2024",
+          "sample": "683 LV ±3.7%",
+          "Harris": "44%",
+          "Trump": "48%",
+          "Other": "8%"
+        },
+        {
+          "source": "SurveyUSA",
+          "date": "11/01/2024",
+          "sample": "550 LV",
+          "Harris": "44%",
+          "Trump": "49%",
+          "Other": "7%"
+        },
+        {
+          "source": "Critical Insights",
+          "date": "10/23/2024",
+          "sample": "302 RV",
+          "Harris": "40%",
+          "Trump": "49%",
+          "Other": "11%"
+        },
+        {
+          "source": "Pan Atlantic Research",
+          "date": "9/18/2024",
+          "sample": "398 LV",
+          "Harris": "42%",
+          "Trump": "49%",
+          "Other": "9%"
+        },
+        {
+          "source": "Univ. of New Hampshire",
+          "date": "8/21/2024",
+          "sample": "443 LV ±4.7%",
+          "Harris": "52%",
+          "Trump": "47%",
+          "Other": "1%"
+        }
+      ]
+    },
+    "harris_vs_other_candidates": {
+      "average_of_2_polls": {
+        "Harris": "44.0%",
+        "Stein": "1.0%",
+        "Kennedy": "-",
+        "West": "1.0%",
+        "Oliver": "1.0%",
+        "Trump": "48.5%",
+        "Other": "-"
+      },
+      "polls": [
+        {
+          "source": "Univ. of New Hampshire",
+          "date": "11/03/2024",
+          "sample": "683 LV ±3.7%",
+          "Harris": "44%",
+          "Stein": "1%",
+          "Kennedy": "-",
+          "West": "1%",
+          "Oliver": "1%",
+          "Trump": "48%",
+          "Other": "5%"
+        },
+        {
+          "source": "SurveyUSA",
+          "date": "11/01/2024",
+          "sample": "550 LV",
+          "Harris": "44%",
+          "Stein": "1%",
+          "Kennedy": "-",
+          "West": "1%",
+          "Oliver": "1%",
+          "Trump": "49%",
+          "Other": "4%"
+        },
+        {
+          "source": "Univ. of New Hampshire",
+          "date": "8/21/2024",
+          "sample": "443 LV ±4.7%",
+          "Harris": "49%",
+          "Stein": "1%",
+          "Kennedy": "2%",
+          "West": "0%",
+          "Oliver": "1%",
+          "Trump": "44%",
+          "Other": "3%"
+        }
+      ]
+    }
+  }
+  

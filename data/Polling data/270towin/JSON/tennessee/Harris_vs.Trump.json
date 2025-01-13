@@ -1,0 +1,31 @@
+{
+    "harris_vs_trump": {
+      "polls": [
+        {
+          "source": "Beacon Poll",
+          "date": "10/15/2024",
+          "sample": "971 LV",
+          "Harris": "35%",
+          "Trump": "56%",
+          "Other": "9%"
+        }
+      ]
+    },
+    "harris_vs_other_candidates": {
+      "polls": [
+        {
+          "source": "Beacon Poll",
+          "date": "10/15/2024",
+          "sample": "971 LV",
+          "Harris": "35%",
+          "Stein": "0%",
+          "Kennedy": "5%",
+          "West": "-",
+          "Oliver": "1%",
+          "Trump": "56%",
+          "Other": "3%"
+        }
+      ]
+    }
+  }
+  

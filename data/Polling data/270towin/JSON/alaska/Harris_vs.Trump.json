@@ -1,0 +1,95 @@
+{
+    "title": "Harris vs. Trump",
+    "polls": [
+      {
+        "source": "Alaska Survey Research",
+        "date": "10/27/2024",
+        "sample": "1,703 LV ±2.4%",
+        "Harris": "43%",
+        "Trump": "51%",
+        "Other": "6%"
+      },
+      {
+        "source": "Alaska Survey Research",
+        "date": "10/16/2024",
+        "sample": "1,254 LV ±2.9%",
+        "Harris": "43%",
+        "Trump": "50%",
+        "Other": "7%"
+      },
+      {
+        "source": "Alaska Survey Research",
+        "date": "10/01/2024",
+        "sample": "1,182 LV ±2.9%",
+        "Harris": "43%",
+        "Trump": "52%",
+        "Other": "5%"
+      },
+      {
+        "source": "Alaska Survey Research",
+        "date": "9/13/2024",
+        "sample": "1,254 LV",
+        "Harris": "42%",
+        "Trump": "47%",
+        "Other": "11%"
+      }
+    ],
+    "unknown": {
+      "title": "Harris vs. Trump",
+      "data": [
+        {
+          "source": "Alaska Survey Research",
+          "date": "10/27/2024",
+          "sample": "1,703 LV ±2.4%",
+          "Harris": "43%",
+          "Stein": "-",
+          "Kennedy": "7%",
+          "West": "-",
+          "Oliver": "-",
+          "Trump": "51%",
+          "Other": "-1%"
+        },
+        {
+          "source": "Alaska Survey Research",
+          "date": "10/16/2024",
+          "sample": "1,254 LV ±2.9%",
+          "Harris": "43%",
+          "Stein": "-",
+          "Kennedy": "7%",
+          "West": "-",
+          "Oliver": "-",
+          "Trump": "50%",
+          "Other": "0%"
+        },
+        {
+          "source": "Alaska Survey Research",
+          "date": "10/01/2024",
+          "sample": "1,182 LV ±2.9%",
+          "Harris": "43%",
+          "Stein": "-",
+          "Kennedy": "6%",
+          "West": "-",
+          "Oliver": "-",
+          "Trump": "52%",
+          "Other": "-1%"
+        },
+        {
+          "source": "Alaska Survey Research",
+          "date": "9/13/2024",
+          "sample": "1,254 LV",
+          "Harris": "42%",
+          "Stein": "-",
+          "Kennedy": "5%",
+          "West": "-",
+          "Oliver": "-",
+          "Trump": "47%",
+          "Other": "6%"
+        }
+      ]
+    },
+    "average_of_17_polls": {
+      "Harris": "46.8%",
+      "Trump": "48.5%"
+    }
+  }
+  

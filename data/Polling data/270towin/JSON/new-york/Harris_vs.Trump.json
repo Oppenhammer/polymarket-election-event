@@ -1,0 +1,100 @@
+{
+    "harris_vs_trump": {
+      "average": {
+        "Harris": "57.3%",
+        "Trump": "39.7%",
+        "Other": "-"
+      },
+      "polls": [
+        {
+          "source": "Research Co.",
+          "date": "11/04/2024",
+          "sample": "450 LV ±4.6%",
+          "Harris": "57%",
+          "Trump": "41%",
+          "Other": "2%"
+        },
+        {
+          "source": "Cygnal",
+          "date": "10/29/2024",
+          "sample": "600 LV ±4%",
+          "Harris": "57%",
+          "Trump": "39%",
+          "Other": "4%"
+        },
+        {
+          "source": "Siena College",
+          "date": "10/22/2024",
+          "sample": "872 LV ±4.1%",
+          "Harris": "58%",
+          "Trump": "39%",
+          "Other": "3%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "9/27/2024",
+          "sample": "1,000 LV ±3%",
+          "Harris": "54%",
+          "Trump": "40%",
+          "Other": "6%"
+        },
+        {
+          "source": "Siena College",
+          "date": "9/19/2024",
+          "sample": "1,003 LV ±4.3%",
+          "Harris": "55%",
+          "Trump": "42%",
+          "Other": "3%"
+        },
+        {
+          "source": "Siena College",
+          "date": "8/06/2024",
+          "sample": "1,199 LV ±4%",
+          "Harris": "53%",
+          "Trump": "39%",
+          "Other": "8%"
+        }
+      ]
+    },
+    "harris_vs_other_candidates": {
+      "polls": [
+        {
+          "source": "Siena College",
+          "date": "10/22/2024",
+          "sample": "872 LV ±4.1%",
+          "Harris": "54%",
+          "Stein": "1%",
+          "Kennedy": "0%",
+          "West": "1%",
+          "Oliver": "1%",
+          "Trump": "37%",
+          "Other": "6%"
+        },
+        {
+          "source": "Siena College",
+          "date": "9/19/2024",
+          "sample": "1,003 LV ±4.3%",
+          "Harris": "52%",
+          "Stein": "2%",
+          "Kennedy": "0%",
+          "West": "1%",
+          "Oliver": "0%",
+          "Trump": "40%",
+          "Other": "5%"
+        },
+        {
+          "source": "Siena College",
+          "date": "8/06/2024",
+          "sample": "1,199 LV ±4%",
+          "Harris": "49%",
+          "Stein": "2%",
+          "Kennedy": "7%",
+          "West": "1%",
+          "Oliver": "1%",
+          "Trump": "37%",
+          "Other": "3%"
+        }
+      ]
+    }
+  }
+  

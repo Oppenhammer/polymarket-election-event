@@ -1,0 +1,56 @@
+{
+    "harris_vs_trump": {
+      "average": {
+        "Harris": "54.7%",
+        "Trump": "38.3%",
+        "Other": "-"
+      },
+      "polls": [
+        {
+          "source": "Research Co.",
+          "date": "11/04/2024",
+          "sample": "450 LV ±4.6%",
+          "Harris": "57%",
+          "Trump": "40%",
+          "Other": "3%"
+        },
+        {
+          "source": "Rutgers-Eagleton Poll",
+          "date": "10/30/2024",
+          "sample": "929 RV ±4.2%",
+          "Harris": "55%",
+          "Trump": "35%",
+          "Other": "10%"
+        },
+        {
+          "source": "Cygnal",
+          "date": "10/26/2024",
+          "sample": "600 LV ±4%",
+          "Harris": "52%",
+          "Trump": "40%",
+          "Other": "8%"
+        }
+      ]
+    },
+    "biden_vs_trump": {
+      "polls": [
+        {
+          "source": "co/efficient",
+          "date": "6/28/2024",
+          "sample": "810 LV ±3.4%",
+          "Biden": "40%",
+          "Trump": "41%",
+          "Other": "19%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "4/02/2024",
+          "sample": "1,000 RV ±3%",
+          "Biden": "46%",
+          "Trump": "39%",
+          "Other": "15%"
+        }
+      ]
+    }
+  }
+  

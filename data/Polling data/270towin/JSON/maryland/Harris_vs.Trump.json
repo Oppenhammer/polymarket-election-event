@@ -1,0 +1,177 @@
+{
+    "harris_vs_trump": {
+      "average_of_5_polls": {
+        "Harris": "60.2%",
+        "Trump": "33.0%",
+        "Other": "-"
+      },
+      "polls": [
+        {
+          "source": "Morning Consult",
+          "date": "11/03/2024",
+          "sample": "472 LV ±5%",
+          "Harris": "64%",
+          "Trump": "31%",
+          "Other": "5%"
+        },
+        {
+          "source": "Chism Strategies",
+          "date": "11/02/2024",
+          "sample": "510 LV ±4.3%",
+          "Harris": "56%",
+          "Trump": "33%",
+          "Other": "11%"
+        },
+        {
+          "source": "Wash. Post - Univ. of Md.",
+          "date": "10/24/2024",
+          "sample": "1,000 LV ±3.6%",
+          "Harris": "61%",
+          "Trump": "33%",
+          "Other": "6%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "10/23/2024",
+          "sample": "865 LV ±3.2%",
+          "Harris": "63%",
+          "Trump": "33%",
+          "Other": "4%"
+        },
+        {
+          "source": "Morning Consult",
+          "date": "10/17/2024",
+          "sample": "490 LV ±4%",
+          "Harris": "64%",
+          "Trump": "31%",
+          "Other": "5%"
+        },
+        {
+          "source": "UMBC Institute of Politics",
+          "date": "10/09/2024",
+          "sample": "863 LV ±3.3%",
+          "Harris": "57%",
+          "Trump": "35%",
+          "Other": "8%"
+        },
+        {
+          "source": "Wash. Post - Univ. of Md.",
+          "date": "9/26/2024",
+          "sample": "1,012 LV ±3.5%",
+          "Harris": "64%",
+          "Trump": "32%",
+          "Other": "4%"
+        },
+        {
+          "source": "Morning Consult",
+          "date": "9/19/2024",
+          "sample": "578 LV ±4.3%",
+          "Harris": "61%",
+          "Trump": "33%",
+          "Other": "6%"
+        },
+        {
+          "source": "Public Policy",
+          "date": "9/19/2024",
+          "sample": "543 RV ±4.2%",
+          "Harris": "64%",
+          "Trump": "33%",
+          "Other": "3%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "9/17/2024",
+          "sample": "890 LV ±3.2%",
+          "Harris": "63%",
+          "Trump": "32%",
+          "Other": "5%"
+        },
+        {
+          "source": "Morning Consult",
+          "date": "9/09/2024",
+          "sample": "640 LV ±4%",
+          "Harris": "62%",
+          "Trump": "34%",
+          "Other": "4%"
+        },
+        {
+          "source": "Gonzales Research & Media",
+          "date": "9/03/2024",
+          "sample": "820 LV ±3.5%",
+          "Harris": "56%",
+          "Trump": "35%",
+          "Other": "9%"
+        },
+        {
+          "source": "AARP",
+          "date": "8/27/2024",
+          "sample": "600 LV ±4%",
+          "Harris": "64%",
+          "Trump": "32%",
+          "Other": "4%"
+        }
+      ]
+    },
+    "harris_vs_other_candidates": {
+      "average_of_2_polls": {
+        "Harris": "56.5%",
+        "Stein": "1.0%",
+        "Kennedy": "1.0%",
+        "West": "-",
+        "Oliver": "0.0%",
+        "Trump": "34.0%",
+        "Other": "-"
+      },
+      "polls": [
+        {
+          "source": "Chism Strategies",
+          "date": "11/02/2024",
+          "sample": "510 LV ±4.3%",
+          "Harris": "56%",
+          "Stein": "1%",
+          "Kennedy": "0%",
+          "West": "-",
+          "Oliver": "0%",
+          "Trump": "33%",
+          "Other": "10%"
+        },
+        {
+          "source": "UMBC Institute of Politics",
+          "date": "10/09/2024",
+          "sample": "863 LV ±3.3%",
+          "Harris": "57%",
+          "Stein": "1%",
+          "Kennedy": "2%",
+          "West": "-",
+          "Oliver": "0%",
+          "Trump": "35%",
+          "Other": "5%"
+        },
+        {
+          "source": "Wash. Post - Univ. of Md.",
+          "date": "9/26/2024",
+          "sample": "1,012 LV ±3.5%",
+          "Harris": "63%",
+          "Stein": "1%",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "1%",
+          "Trump": "31%",
+          "Other": "4%"
+        },
+        {
+          "source": "AARP",
+          "date": "8/27/2024",
+          "sample": "600 LV ±4%",
+          "Harris": "59%",
+          "Stein": "1%",
+          "Kennedy": "5%",
+          "West": "-",
+          "Oliver": "1%",
+          "Trump": "29%",
+          "Other": "5%"
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,80 @@
+{
+    "harris_vs_trump": {
+      "average_of_4_polls": {
+        "Harris": "45.3%",
+        "Trump": "50.0%",
+        "Other": "-"
+      },
+      "polls": [
+        {
+          "source": "InsiderAdvantage",
+          "date": "11/04/2024",
+          "sample": "800 LV ±3.5%",
+          "Harris": "46%",
+          "Trump": "52%",
+          "Other": "2%"
+        },
+        {
+          "source": "Selzer & Company",
+          "date": "11/02/2024",
+          "sample": "808 LV ±3.4%",
+          "Harris": "47%",
+          "Trump": "44%",
+          "Other": "9%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "11/02/2024",
+          "sample": "800 LV ±3.4%",
+          "Harris": "43%",
+          "Trump": "53%",
+          "Other": "4%"
+        },
+        {
+          "source": "Cygnal",
+          "date": "10/02/2024",
+          "sample": "600 LV ±4%",
+          "Harris": "45%",
+          "Trump": "51%",
+          "Other": "4%"
+        },
+        {
+          "source": "Selzer & Company",
+          "date": "9/15/2024",
+          "sample": "656 LV ±3.8%",
+          "Harris": "43%",
+          "Trump": "47%",
+          "Other": "10%"
+        }
+      ]
+    },
+    "harris_vs_other_candidates": {
+      "polls": [
+        {
+          "source": "Selzer & Company",
+          "date": "11/02/2024",
+          "sample": "808 LV ±3.4%",
+          "Harris": "47%",
+          "Stein": "-",
+          "Kennedy": "3%",
+          "West": "-",
+          "Oliver": "0%",
+          "Trump": "44%",
+          "Other": "6%"
+        },
+        {
+          "source": "Selzer & Company",
+          "date": "9/15/2024",
+          "sample": "656 LV ±3.8%",
+          "Harris": "43%",
+          "Stein": "-",
+          "Kennedy": "6%",
+          "West": "-",
+          "Oliver": "1%",
+          "Trump": "47%",
+          "Other": "3%"
+        }
+      ]
+    }
+  }
+  

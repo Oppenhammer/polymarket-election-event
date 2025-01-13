@@ -1,0 +1,27 @@
+{
+    "harris_vs_trump": {
+      "polls": [
+        {
+          "source": "Research America",
+          "date": "8/30/2024",
+          "sample": "400 LV ±4.9%",
+          "Harris": "34%",
+          "Trump": "61%",
+          "Other": "5%"
+        }
+      ]
+    },
+    "biden_vs_trump": {
+      "polls": [
+        {
+          "source": "Emerson College",
+          "date": "10/13/2023",
+          "sample": "539 RV ±4.2%",
+          "Biden": "23%",
+          "Trump": "59%",
+          "Other": "18%"
+        }
+      ]
+    }
+  }
+  

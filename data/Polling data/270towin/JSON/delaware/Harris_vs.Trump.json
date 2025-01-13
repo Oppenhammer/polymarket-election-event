@@ -1,0 +1,43 @@
+{
+    "title": "Harris vs. Trump",
+    "average_of_2_polls": {
+      "Harris": "55.0%",
+      "Trump": "36.5%",
+      "Other": "-"
+    },
+    "polls": [
+      {
+        "source": "Univ. of Delaware",
+        "date": "9/27/2024",
+        "sample": "383 LV ±5.8%",
+        "Harris": "56%",
+        "Trump": "36%",
+        "Other": "8%"
+      },
+      {
+        "source": "Slingshot Strategies",
+        "date": "9/23/2024",
+        "sample": "500 RV",
+        "Harris": "54%",
+        "Trump": "37%",
+        "Other": "9%"
+      }
+    ],
+    "harris_vs_trump_with_others": {
+      "polls": [
+        {
+          "source": "Univ. of Delaware",
+          "date": "9/27/2024",
+          "sample": "383 LV ±5.8%",
+          "Harris": "56%",
+          "Stein": "0%",
+          "Kennedy": "3%",
+          "West": "0%",
+          "Oliver": "1%",
+          "Trump": "36%",
+          "Other": "4%"
+        }
+      ]
+    }
+  }
+  

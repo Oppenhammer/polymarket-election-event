@@ -1,0 +1,79 @@
+{
+    "harris_vs_trump": {
+      "polls": [
+        {
+          "source": "Average of 3 Polls†",
+          "date": "N/A",
+          "sample": "N/A",
+          "Harris": "42.0%",
+          "Trump": "53.7%",
+          "Other": "-"
+        },
+        {
+          "source": "The Citadel Poll",
+          "date": "10/31/2024",
+          "sample": "1,136 LV ±3.7%",
+          "Harris": "42%",
+          "Trump": "54%",
+          "Other": "4%"
+        },
+        {
+          "source": "East Carolina Univ.",
+          "date": "10/27/2024",
+          "sample": "950 LV ±3%",
+          "Harris": "42%",
+          "Trump": "55%",
+          "Other": "3%"
+        },
+        {
+          "source": "Winthrop University",
+          "date": "10/02/2024",
+          "sample": "1,068 LV ±3%",
+          "Harris": "42%",
+          "Trump": "52%",
+          "Other": "6%"
+        }
+      ]
+    },
+    "harris_vs_other_candidates": {
+      "polls": [
+        {
+          "source": "Average of 2 Polls†",
+          "date": "N/A",
+          "sample": "N/A",
+          "Harris": "42.0%",
+          "Stein": "0.0%",
+          "Kennedy": "-",
+          "West": "0.0%",
+          "Oliver": "0.5%",
+          "Trump": "54.5%",
+          "Other": "-"
+        },
+        {
+          "source": "The Citadel Poll",
+          "date": "10/31/2024",
+          "sample": "1,136 LV ±3.7%",
+          "Harris": "42%",
+          "Stein": "0%",
+          "Kennedy": "-",
+          "West": "0%",
+          "Oliver": "0%",
+          "Trump": "54%",
+          "Other": "4%"
+        },
+        {
+          "source": "East Carolina Univ.",
+          "date": "10/27/2024",
+          "sample": "950 LV ±3%",
+          "Harris": "42%",
+          "Stein": "-",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "1%",
+          "Trump": "55%",
+          "Other": "2%"
+        }
+      ]
+    }
+  }
+  

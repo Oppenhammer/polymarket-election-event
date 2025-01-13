@@ -1,0 +1,48 @@
+{
+    "harris_vs_trump": {
+      "average_of_2_polls": {
+        "Harris": "39.5%",
+        "Trump": "56.0%",
+        "Other": "-"
+      },
+      "polls": [
+        {
+          "source": "Indy Politics",
+          "date": "9/29/2024",
+          "sample": "600 LV ±4%",
+          "Harris": "39%",
+          "Trump": "55%",
+          "Other": "6%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "9/17/2024",
+          "sample": "1,000 LV ±3%",
+          "Harris": "40%",
+          "Trump": "57%",
+          "Other": "3%"
+        }
+      ]
+    },
+    "biden_vs_trump": {
+      "polls": [
+        {
+          "source": "Emerson College",
+          "date": "3/07/2024",
+          "sample": "1,000 RV ±3%",
+          "Biden": "34%",
+          "Trump": "55%",
+          "Other": "11%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "10/13/2023",
+          "sample": "462 RV ±4.5%",
+          "Biden": "29%",
+          "Trump": "48%",
+          "Other": "23%"
+        }
+      ]
+    }
+  }
+  

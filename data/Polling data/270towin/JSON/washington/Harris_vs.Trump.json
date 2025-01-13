@@ -1,0 +1,87 @@
+{
+    "harris_vs_trump": {
+      "polls": [
+        {
+          "source": "Average of 4 Polls†",
+          "date": "N/A",
+          "sample": "N/A",
+          "Harris": "55.8%",
+          "Trump": "36.5%",
+          "Other": "-"
+        },
+        {
+          "source": "Research Co.",
+          "date": "11/04/2024",
+          "sample": "450 LV ±4.6%",
+          "Harris": "54%",
+          "Trump": "39%",
+          "Other": "7%"
+        },
+        {
+          "source": "Public Policy",
+          "date": "10/18/2024",
+          "sample": "571 LV ±4.1%",
+          "Harris": "55%",
+          "Trump": "40%",
+          "Other": "5%"
+        },
+        {
+          "source": "Cascade PBS / Elway",
+          "date": "10/17/2024",
+          "sample": "401 LV ±5%",
+          "Harris": "57%",
+          "Trump": "32%",
+          "Other": "11%"
+        },
+        {
+          "source": "SurveyUSA",
+          "date": "10/16/2024",
+          "sample": "703 LV ±4%",
+          "Harris": "57%",
+          "Trump": "35%",
+          "Other": "8%"
+        },
+        {
+          "source": "Cascade PBS / Elway",
+          "date": "9/12/2024",
+          "sample": "403 RV ±5%",
+          "Harris": "53%",
+          "Trump": "32%",
+          "Other": "15%"
+        },
+        {
+          "source": "Public Policy",
+          "date": "7/26/2024",
+          "sample": "581 LV ±4%",
+          "Harris": "52%",
+          "Trump": "38%",
+          "Other": "10%"
+        },
+        {
+          "source": "SurveyUSA",
+          "date": "7/17/2024",
+          "sample": "708 LV ±5%",
+          "Harris": "51%",
+          "Trump": "36%",
+          "Other": "13%"
+        }
+      ]
+    },
+    "harris_vs_other_candidates": {
+      "polls": [
+        {
+          "source": "Public Policy",
+          "date": "7/26/2024",
+          "sample": "581 LV ±4%",
+          "Harris": "52%",
+          "Stein": "-",
+          "Kennedy": "6%",
+          "West": "-",
+          "Oliver": "-",
+          "Trump": "38%",
+          "Other": "4%"
+        }
+      ]
+    }
+  }
+  

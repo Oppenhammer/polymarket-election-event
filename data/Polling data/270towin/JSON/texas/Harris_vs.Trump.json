@@ -1,0 +1,299 @@
+{
+    "harris_vs_trump": {
+      "polls": [
+        {
+          "source": "Average of 5 Polls†",
+          "date": "N/A",
+          "sample": "N/A",
+          "Harris": "44.4%",
+          "Trump": "51.8%",
+          "Other": "-"
+        },
+        {
+          "source": "Morning Consult",
+          "date": "11/03/2024",
+          "sample": "2,120 LV ±2%",
+          "Harris": "45%",
+          "Trump": "52%",
+          "Other": "3%"
+        },
+        {
+          "source": "Cygnal",
+          "date": "10/29/2024",
+          "sample": "600 LV ±4%",
+          "Harris": "43%",
+          "Trump": "51%",
+          "Other": "6%"
+        },
+        {
+          "source": "NY Times / Siena College",
+          "date": "10/28/2024",
+          "sample": "1,180 LV ±3.3%",
+          "Harris": "42%",
+          "Trump": "52%",
+          "Other": "6%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "10/23/2024",
+          "sample": "815 LV ±3.4%",
+          "Harris": "46%",
+          "Trump": "53%",
+          "Other": "1%"
+        },
+        {
+          "source": "University of Texas",
+          "date": "10/18/2024",
+          "sample": "1,091 LV ±3%",
+          "Harris": "46%",
+          "Trump": "51%",
+          "Other": "3%"
+        },
+        {
+          "source": "Morning Consult",
+          "date": "10/17/2024",
+          "sample": "2,048 LV ±2%",
+          "Harris": "46%",
+          "Trump": "50%",
+          "Other": "4%"
+        },
+        {
+          "source": "University of Houston",
+          "date": "10/15/2024",
+          "sample": "1,329 LV ±2.7%",
+          "Harris": "46%",
+          "Trump": "51%",
+          "Other": "3%"
+        },
+        {
+          "source": "Marist Poll",
+          "date": "10/10/2024",
+          "sample": "1,186 LV ±3.6%",
+          "Harris": "46%",
+          "Trump": "53%",
+          "Other": "1%"
+        },
+        {
+          "source": "FAU / Mainstreet",
+          "date": "10/08/2024",
+          "sample": "775 LV",
+          "Harris": "45%",
+          "Trump": "50%",
+          "Other": "5%"
+        },
+        {
+          "source": "NY Times / Siena College",
+          "date": "10/08/2024",
+          "sample": "617 LV ±4.8%",
+          "Harris": "44%",
+          "Trump": "50%",
+          "Other": "6%"
+        },
+        {
+          "source": "RMG Research",
+          "date": "10/01/2024",
+          "sample": "779 LV ±3.5%",
+          "Harris": "46%",
+          "Trump": "53%",
+          "Other": "1%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "9/26/2024",
+          "sample": "950 LV ±3.1%",
+          "Harris": "46%",
+          "Trump": "51%",
+          "Other": "3%"
+        },
+        {
+          "source": "TX Hispanic Policy Foundation",
+          "date": "9/23/2024",
+          "sample": "1,200 LV ±2.8%",
+          "Harris": "44%",
+          "Trump": "50%",
+          "Other": "6%"
+        },
+        {
+          "source": "Morning Consult",
+          "date": "9/19/2024",
+          "sample": "2,716 LV ±1.9%",
+          "Harris": "46%",
+          "Trump": "50%",
+          "Other": "4%"
+        },
+        {
+          "source": "TPOR / Lake Research",
+          "date": "9/13/2024",
+          "sample": "800 LV ±3.5%",
+          "Harris": "43%",
+          "Trump": "51%",
+          "Other": "6%"
+        },
+        {
+          "source": "Morning Consult",
+          "date": "9/09/2024",
+          "sample": "2,940 LV ±2%",
+          "Harris": "43%",
+          "Trump": "52%",
+          "Other": "5%"
+        },
+        {
+          "source": "University of Texas",
+          "date": "9/06/2024",
+          "sample": "1,200 RV ±3.3%",
+          "Harris": "44%",
+          "Trump": "49%",
+          "Other": "7%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "9/06/2024",
+          "sample": "845 LV ±3.3%",
+          "Harris": "46%",
+          "Trump": "50%",
+          "Other": "4%"
+        },
+        {
+          "source": "University of Houston",
+          "date": "8/22/2024",
+          "sample": "1,365 LV ±2.7%",
+          "Harris": "45%",
+          "Trump": "50%",
+          "Other": "5%"
+        },
+        {
+          "source": "University of Houston",
+          "date": "1/30/2024",
+          "sample": "1,145 LV ±2.9%",
+          "Harris": "39%",
+          "Trump": "52%",
+          "Other": "9%"
+        }
+      ]
+    },
+    "harris_vs_other_candidates": {
+      "polls": [
+        {
+          "source": "Average of 4 Polls†",
+          "date": "N/A",
+          "sample": "N/A",
+          "Harris": "43.8%",
+          "Stein": "1.5%",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "1.0%",
+          "Trump": "51.0%",
+          "Other": "-"
+        },
+        {
+          "source": "Cygnal",
+          "date": "10/29/2024",
+          "sample": "600 LV ±4%",
+          "Harris": "43%",
+          "Stein": "2%",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "2%",
+          "Trump": "51%",
+          "Other": "2%"
+        },
+        {
+          "source": "NY Times / Siena College",
+          "date": "10/28/2024",
+          "sample": "1,180 LV ±3.3%",
+          "Harris": "40%",
+          "Stein": "1%",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "1%",
+          "Trump": "51%",
+          "Other": "7%"
+        },
+        {
+          "source": "University of Texas",
+          "date": "10/18/2024",
+          "sample": "1,091 LV ±3%",
+          "Harris": "46%",
+          "Stein": "2%",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "1%",
+          "Trump": "51%",
+          "Other": "0%"
+        },
+        {
+          "source": "University of Houston",
+          "date": "10/15/2024",
+          "sample": "1,329 LV ±2.7%",
+          "Harris": "46%",
+          "Stein": "1%",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "0%",
+          "Trump": "51%",
+          "Other": "2%"
+        },
+        {
+          "source": "NY Times / Siena College",
+          "date": "10/08/2024",
+          "sample": "617 LV ±4.8%",
+          "Harris": "42%",
+          "Stein": "2%",
+          "Kennedy": "0%",
+          "West": "0%",
+          "Oliver": "2%",
+          "Trump": "49%",
+          "Other": "5%"
+        },
+        {
+          "source": "TX Hispanic Policy Foundation",
+          "date": "9/23/2024",
+          "sample": "1,200 LV ±2.8%",
+          "Harris": "44%",
+          "Stein": "1%",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "1%",
+          "Trump": "50%",
+          "Other": "4%"
+        },
+        {
+          "source": "TPOR / Lake Research",
+          "date": "9/13/2024",
+          "sample": "800 LV ±3.5%",
+          "Harris": "43%",
+          "Stein": "2%",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "2%",
+          "Trump": "51%",
+          "Other": "2%"
+        },
+        {
+          "source": "University of Texas",
+          "date": "9/06/2024",
+          "sample": "1,200 RV ±3.3%",
+          "Harris": "44%",
+          "Stein": "2%",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "0%",
+          "Trump": "49%",
+          "Other": "5%"
+        },
+        {
+          "source": "University of Houston",
+          "date": "8/22/2024",
+          "sample": "1,365 LV ±2.7%",
+          "Harris": "45%",
+          "Stein": "1%",
+          "Kennedy": "2%",
+          "West": "-",
+          "Oliver": "1%",
+          "Trump": "50%",
+          "Other": "1%"
+        }
+      ]
+    }
+  }
+  

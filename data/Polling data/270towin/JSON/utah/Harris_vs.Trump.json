@@ -1,0 +1,111 @@
+{
+    "harris_vs_trump": {
+      "polls": [
+        {
+          "source": "Average of 2 Polls†",
+          "date": "N/A",
+          "sample": "N/A",
+          "Harris": "32.0%",
+          "Trump": "57.5%",
+          "Other": "-"
+        },
+        {
+          "source": "Noble Predictive Insights",
+          "date": "10/30/2024",
+          "sample": "695 LV ±3.7%",
+          "Harris": "34%",
+          "Trump": "54%",
+          "Other": "12%"
+        },
+        {
+          "source": "HarrisX",
+          "date": "10/25/2024",
+          "sample": "813 RV ±3.4%",
+          "Harris": "30%",
+          "Trump": "61%",
+          "Other": "9%"
+        },
+        {
+          "source": "Noble Predictive Insights",
+          "date": "10/16/2024",
+          "sample": "539 LV ±4.2%",
+          "Harris": "38%",
+          "Trump": "54%",
+          "Other": "8%"
+        },
+        {
+          "source": "HarrisX",
+          "date": "8/22/2024",
+          "sample": "800 RV ±3.5%",
+          "Harris": "28%",
+          "Trump": "60%",
+          "Other": "12%"
+        }
+      ]
+    },
+    "harris_vs_other_candidates": {
+      "polls": [
+        {
+          "source": "Average of 2 Polls†",
+          "date": "N/A",
+          "sample": "N/A",
+          "Harris": "32.0%",
+          "Stein": "0.5%",
+          "Kennedy": "-",
+          "West": "1.0%",
+          "Oliver": "1.0%",
+          "Trump": "57.5%",
+          "Other": "-"
+        },
+        {
+          "source": "Noble Predictive Insights",
+          "date": "10/30/2024",
+          "sample": "695 LV ±3.7%",
+          "Harris": "34%",
+          "Stein": "0%",
+          "Kennedy": "-",
+          "West": "0%",
+          "Oliver": "1%",
+          "Trump": "54%",
+          "Other": "11%"
+        },
+        {
+          "source": "HarrisX",
+          "date": "10/25/2024",
+          "sample": "813 RV ±3.4%",
+          "Harris": "30%",
+          "Stein": "1%",
+          "Kennedy": "-",
+          "West": "2%",
+          "Oliver": "-",
+          "Trump": "61%",
+          "Other": "6%"
+        },
+        {
+          "source": "Noble Predictive Insights",
+          "date": "10/16/2024",
+          "sample": "539 LV ±4.2%",
+          "Harris": "36%",
+          "Stein": "0%",
+          "Kennedy": "-",
+          "West": "2%",
+          "Oliver": "2%",
+          "Trump": "54%",
+          "Other": "6%"
+        },
+        {
+          "source": "HarrisX",
+          "date": "8/22/2024",
+          "sample": "800 RV ±3.5%",
+          "Harris": "25%",
+          "Stein": "-",
+          "Kennedy": "15%",
+          "West": "-",
+          "Oliver": "-",
+          "Trump": "51%",
+          "Other": "9%"
+        }
+      ]
+    }
+  }
+  

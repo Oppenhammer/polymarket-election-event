@@ -1,0 +1,27 @@
+{
+    "harris_vs_trump": {
+      "polls": [
+        {
+          "source": "Fort Hays State Univ.",
+          "date": "10/28/2024",
+          "sample": "522 RV",
+          "Harris": "43%",
+          "Trump": "48%",
+          "Other": "9%"
+        }
+      ]
+    },
+    "biden_vs_trump": {
+      "polls": [
+        {
+          "source": "Emerson College",
+          "date": "10/12/2023",
+          "sample": "487 RV ±4.4%",
+          "Biden": "31%",
+          "Trump": "47%",
+          "Other": "22%"
+        }
+      ]
+    }
+  }
+  

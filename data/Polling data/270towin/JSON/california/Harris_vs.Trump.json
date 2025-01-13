@@ -1,0 +1,162 @@
+{
+    "title": "Harris vs. Trump",
+    "average_of_5_polls": {
+      "Harris": "59.0%",
+      "Trump": "34.2%",
+      "Other": "-"
+    },
+    "polls": [
+      {
+        "source": "Research Co.",
+        "date": "11/04/2024",
+        "sample": "450 LV ±4.6%",
+        "Harris": "64%",
+        "Trump": "32%",
+        "Other": "4%"
+      },
+      {
+        "source": "Berkeley IGS",
+        "date": "11/01/2024",
+        "sample": "4,341 LV ±2%",
+        "Harris": "57%",
+        "Trump": "35%",
+        "Other": "8%"
+      },
+      {
+        "source": "Cygnal",
+        "date": "11/01/2024",
+        "sample": "611 LV ±4%",
+        "Harris": "55%",
+        "Trump": "31%",
+        "Other": "14%"
+      },
+      {
+        "source": "Emerson College",
+        "date": "10/16/2024",
+        "sample": "1,000 LV ±3%",
+        "Harris": "61%",
+        "Trump": "37%",
+        "Other": "2%"
+      },
+      {
+        "source": "Berkeley IGS",
+        "date": "10/10/2024",
+        "sample": "3,045 LV ±2.5%",
+        "Harris": "57%",
+        "Trump": "35%",
+        "Other": "8%"
+      },
+      {
+        "source": "California Elections & Policy Poll",
+        "date": "9/30/2024",
+        "sample": "1,685 LV ±2.4%",
+        "Harris": "58%",
+        "Trump": "36%",
+        "Other": "6%"
+      },
+      {
+        "source": "PPIC",
+        "date": "9/19/2024",
+        "sample": "1,071 LV ±3.7%",
+        "Harris": "60%",
+        "Trump": "29%",
+        "Other": "11%"
+      },
+      {
+        "source": "Emerson College",
+        "date": "9/06/2024",
+        "sample": "815 LV ±3.4%",
+        "Harris": "60%",
+        "Trump": "36%",
+        "Other": "4%"
+      },
+      {
+        "source": "Berkeley IGS",
+        "date": "8/14/2024",
+        "sample": "3,765 LV ±2%",
+        "Harris": "59%",
+        "Trump": "34%",
+        "Other": "7%"
+      },
+      {
+        "source": "Emerson College",
+        "date": "11/17/2023",
+        "sample": "1,000 RV ±3%",
+        "Harris": "47%",
+        "Trump": "40%",
+        "Other": "13%"
+      }
+    ],
+    "average_of_3_polls": {
+      "Harris": "56.7%",
+      "Stein": "1.7%",
+      "Kennedy": "2.3%",
+      "West": "-",
+      "Oliver": "0.5%",
+      "Trump": "34.0%",
+      "Other": "-"
+    },
+    "additional_polls": [
+      {
+        "source": "Berkeley IGS",
+        "date": "11/01/2024",
+        "sample": "4,341 LV ±2%",
+        "Harris": "57%",
+        "Stein": "1%",
+        "Kennedy": "1%",
+        "West": "-",
+        "Oliver": "-",
+        "Trump": "35%",
+        "Other": "6%"
+      },
+      {
+        "source": "Cygnal",
+        "date": "11/01/2024",
+        "sample": "611 LV ±4%",
+        "Harris": "55%",
+        "Stein": "2%",
+        "Kennedy": "4%",
+        "West": "-",
+        "Oliver": "1%",
+        "Trump": "31%",
+        "Other": "7%"
+      },
+      {
+        "source": "Berkeley IGS",
+        "date": "10/10/2024",
+        "sample": "3,045 LV ±2.5%",
+        "Harris": "57%",
+        "Stein": "1%",
+        "Kennedy": "2%",
+        "West": "1%",
+        "Oliver": "0%",
+        "Trump": "35%",
+        "Other": "4%"
+      },
+      {
+        "source": "California Elections & Policy Poll",
+        "date": "9/30/2024",
+        "sample": "1,685 LV ±2.4%",
+        "Harris": "58%",
+        "Stein": "2%",
+        "Kennedy": "2%",
+        "West": "-",
+        "Oliver": "0%",
+        "Trump": "36%",
+        "Other": "2%"
+      },
+      {
+        "source": "PPIC",
+        "date": "9/19/2024",
+        "sample": "1,071 LV ±3.7%",
+        "Harris": "60%",
+        "Stein": "1%",
+        "Kennedy": "6%",
+        "West": "-",
+        "Oliver": "1%",
+        "Trump": "29%",
+        "Other": "3%"
+      }
+    ]
+  }
+  

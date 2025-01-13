@@ -1,0 +1,732 @@
+{
+    "title": "Harris vs. Trump",
+    "average_of_15_polls": {
+      "Harris": "47.5%",
+      "Trump": "48.7%",
+      "Other": "-"
+    },
+    "polls": [
+      {
+        "source": "East Carolina Univ.",
+        "date": "11/04/2024",
+        "sample": "902 LV ±3%",
+        "Harris": "49%",
+        "Trump": "50%",
+        "Other": "1%"
+      },
+      {
+        "source": "Emerson College",
+        "date": "11/04/2024",
+        "sample": "800 LV",
+        "Harris": "49%",
+        "Trump": "50%",
+        "Other": "1%"
+      },
+      {
+        "source": "InsiderAdvantage",
+        "date": "11/04/2024",
+        "sample": "800 LV ±3.7%",
+        "Harris": "48%",
+        "Trump": "49%",
+        "Other": "3%"
+      },
+      {
+        "source": "NY Times / Siena College",
+        "date": "11/03/2024",
+        "sample": "1,004 LV ±4.1%",
+        "Harris": "48%",
+        "Trump": "47%",
+        "Other": "5%"
+      },
+      {
+        "source": "Morning Consult",
+        "date": "11/03/2024",
+        "sample": "1,009 LV ±3%",
+        "Harris": "48%",
+        "Trump": "50%",
+        "Other": "2%"
+      },
+      {
+        "source": "AtlasIntel",
+        "date": "11/02/2024",
+        "sample": "1,174 LV ±3%",
+        "Harris": "48%",
+        "Trump": "50%",
+        "Other": "2%"
+      },
+      {
+        "source": "Redfield & Wilton",
+        "date": "11/01/2024",
+        "sample": "1,779 LV ±2.1%",
+        "Harris": "47%",
+        "Trump": "48%",
+        "Other": "5%"
+      },
+      {
+        "source": "Data for Progress",
+        "date": "11/01/2024",
+        "sample": "972 LV ±3%",
+        "Harris": "49%",
+        "Trump": "48%",
+        "Other": "3%"
+      },
+      {
+        "source": "The Times (UK) / YouGov",
+        "date": "11/01/2024",
+        "sample": "939 LV ±3.9%",
+        "Harris": "47%",
+        "Trump": "48%",
+        "Other": "5%"
+      },
+      {
+        "source": "AtlasIntel",
+        "date": "10/31/2024",
+        "sample": "1,212 LV ±3%",
+        "Harris": "48%",
+        "Trump": "50%",
+        "Other": "2%"
+      },
+      {
+        "source": "The Citadel Poll",
+        "date": "10/31/2024",
+        "sample": "1,126 LV ±3.9%",
+        "Harris": "47%",
+        "Trump": "49%",
+        "Other": "4%"
+      },
+      {
+        "source": "CNN",
+        "date": "10/31/2024",
+        "sample": "732 LV ±4.7%",
+        "Harris": "47%",
+        "Trump": "48%",
+        "Other": "5%"
+      },
+      {
+        "source": "Redfield & Wilton",
+        "date": "10/29/2024",
+        "sample": "1,112 LV ±2.7%",
+        "Harris": "47%",
+        "Trump": "48%",
+        "Other": "5%"
+      },
+      {
+        "source": "AtlasIntel",
+        "date": "10/29/2024",
+        "sample": "1,429 LV ±3%",
+        "Harris": "48%",
+        "Trump": "51%",
+        "Other": "1%"
+      },
+      {
+        "source": "Trafalgar Group",
+        "date": "10/27/2024",
+        "sample": "1,087 LV ±2.9%",
+        "Harris": "46%",
+        "Trump": "48%",
+        "Other": "6%"
+      },
+      {
+        "source": "Redfield & Wilton",
+        "date": "10/25/2024",
+        "sample": "1,168 LV ±2.6%",
+        "Harris": "47%",
+        "Trump": "48%",
+        "Other": "5%"
+      },
+      {
+        "source": "Marist Poll",
+        "date": "10/24/2024",
+        "sample": "1,193 LV ±3.9%",
+        "Harris": "49%",
+        "Trump": "49%",
+        "Other": "2%"
+      },
+      {
+        "source": "Bloomberg / Morning Consult",
+        "date": "10/23/2024",
+        "sample": "855 LV ±3%",
+        "Harris": "48%",
+        "Trump": "50%",
+        "Other": "2%"
+      },
+      {
+        "source": "University of Georgia",
+        "date": "10/22/2024",
+        "sample": "1,000 LV ±3.1%",
+        "Harris": "43%",
+        "Trump": "47%",
+        "Other": "10%"
+      },
+      {
+        "source": "Redfield & Wilton",
+        "date": "10/21/2024",
+        "sample": "1,019 LV ±2.8%",
+        "Harris": "47%",
+        "Trump": "48%",
+        "Other": "5%"
+      },
+      {
+        "source": "Wash. Post - Schar School",
+        "date": "10/21/2024",
+        "sample": "730 LV ±4.5%",
+        "Harris": "51%",
+        "Trump": "47%",
+        "Other": "2%"
+      },
+      {
+        "source": "AtlasIntel",
+        "date": "10/19/2024",
+        "sample": "1,411 LV ±3%",
+        "Harris": "48%",
+        "Trump": "50%",
+        "Other": "2%"
+      },
+      {
+        "source": "East Carolina Univ.",
+        "date": "10/18/2024",
+        "sample": "701 LV ±4%",
+        "Harris": "46%",
+        "Trump": "49%",
+        "Other": "5%"
+      },
+      {
+        "source": "Morning Consult",
+        "date": "10/17/2024",
+        "sample": "1,002 LV ±3%",
+        "Harris": "48%",
+        "Trump": "49%",
+        "Other": "3%"
+      },
+      {
+        "source": "Quinnipiac",
+        "date": "10/16/2024",
+        "sample": "1,328 LV ±2.7%",
+        "Harris": "46%",
+        "Trump": "52%",
+        "Other": "2%"
+      },
+      {
+        "source": "Redfield & Wilton",
+        "date": "10/16/2024",
+        "sample": "768 LV ±3.5%",
+        "Harris": "47%",
+        "Trump": "47%",
+        "Other": "6%"
+      },
+      {
+        "source": "RMG Research",
+        "date": "10/14/2024",
+        "sample": "731 LV ±3.6%",
+        "Harris": "47%",
+        "Trump": "50%",
+        "Other": "3%"
+      },
+      {
+        "source": "Redfield & Wilton",
+        "date": "10/11/2024",
+        "sample": "608 LV ±3.6%",
+        "Harris": "47%",
+        "Trump": "48%",
+        "Other": "5%"
+      },
+      {
+        "source": "Wall Street Journal",
+        "date": "10/11/2024",
+        "sample": "600 RV ±4%",
+        "Harris": "48%",
+        "Trump": "46%",
+        "Other": "6%"
+      },
+      {
+        "source": "Emerson College",
+        "date": "10/10/2024",
+        "sample": "1,000 LV ±3%",
+        "Harris": "50%",
+        "Trump": "50%",
+        "Other": "0%"
+      },
+      {
+        "source": "GSG / NSOR",
+        "date": "10/09/2024",
+        "sample": "400 LV ±4.9%",
+        "Harris": "47%",
+        "Trump": "47%",
+        "Other": "6%"
+      },
+      {
+        "source": "Trafalgar Group",
+        "date": "10/09/2024",
+        "sample": "1,089 LV ±2.9%",
+        "Harris": "45%",
+        "Trump": "46%",
+        "Other": "9%"
+      },
+      {
+        "source": "Redfield & Wilton",
+        "date": "10/07/2024",
+        "sample": "3,783 LV ±1.4%",
+        "Harris": "47%",
+        "Trump": "47%",
+        "Other": "6%"
+      },
+      {
+        "source": "Cook Political/BSG/GS Strategy",
+        "date": "10/02/2024",
+        "sample": "411 LV",
+        "Harris": "47%",
+        "Trump": "49%",
+        "Other": "4%"
+      },
+      {
+        "source": "Quinnipiac",
+        "date": "10/01/2024",
+        "sample": "942 LV ±3.2%",
+        "Harris": "45%",
+        "Trump": "50%",
+        "Other": "5%"
+      },
+      {
+        "source": "InsiderAdvantage",
+        "date": "10/01/2024",
+        "sample": "800 LV ±3.7%",
+        "Harris": "48%",
+        "Trump": "48%",
+        "Other": "4%"
+      },
+      {
+        "source": "AtlasIntel",
+        "date": "9/28/2024",
+        "sample": "1,200 LV ±3%",
+        "Harris": "49%",
+        "Trump": "50%",
+        "Other": "1%"
+      },
+      {
+        "source": "Bloomberg / Morning Consult",
+        "date": "9/26/2024",
+        "sample": "913 LV ±3%",
+        "Harris": "49%",
+        "Trump": "49%",
+        "Other": "2%"
+      },
+      {
+        "source": "Fox News",
+        "date": "9/26/2024",
+        "sample": "707 LV ±3.5%",
+        "Harris": "51%",
+        "Trump": "48%",
+        "Other": "1%"
+      },
+      {
+        "source": "Marist Poll",
+        "date": "9/26/2024",
+        "sample": "1,220 LV ±3.9%",
+        "Harris": "49%",
+        "Trump": "50%",
+        "Other": "1%"
+      },
+      {
+        "source": "CBS / YouGov",
+        "date": "9/25/2024",
+        "sample": "1,417 LV ±3.5%",
+        "Harris": "49%",
+        "Trump": "51%",
+        "Other": "0%"
+      },
+      {
+        "source": "Independent Center",
+        "date": "9/24/2024",
+        "sample": "600 LV ±4%",
+        "Harris": "49%",
+        "Trump": "47%",
+        "Other": "4%"
+      },
+      {
+        "source": "Redfield & Wilton",
+        "date": "9/23/2024",
+        "sample": "1,043 LV ±2.8%",
+        "Harris": "46%",
+        "Trump": "48%",
+        "Other": "6%"
+      },
+      {
+        "source": "NY Times / Siena College",
+        "date": "9/23/2024",
+        "sample": "682 LV ±4.6%",
+        "Harris": "45%",
+        "Trump": "49%",
+        "Other": "6%"
+      },
+      {
+        "source": "American Greatness/TIPP",
+        "date": "9/19/2024",
+        "sample": "835 LV ±3.5%",
+        "Harris": "48%",
+        "Trump": "48%",
+        "Other": "4%"
+      },
+      {
+        "source": "Morning Consult",
+        "date": "9/19/2024",
+        "sample": "1,347 LV ±2.8%",
+        "Harris": "48%",
+        "Trump": "49%",
+        "Other": "3%"
+      },
+      {
+        "source": "Emerson College",
+        "date": "9/19/2024",
+        "sample": "975 LV ±3.1%",
+        "Harris": "47%",
+        "Trump": "50%",
+        "Other": "3%"
+      },
+      {
+        "source": "University of Georgia",
+        "date": "9/18/2024",
+        "sample": "1,000 LV ±3.1%",
+        "Harris": "44%",
+        "Trump": "47%",
+        "Other": "9%"
+      },
+      {
+        "source": "Trafalgar Group",
+        "date": "9/16/2024",
+        "sample": "1,098 LV ±2.9%",
+        "Harris": "45%",
+        "Trump": "46%",
+        "Other": "9%"
+      },
+      {
+        "source": "Redfield & Wilton",
+        "date": "9/10/2024",
+        "sample": "562 LV ±3.8%",
+        "Harris": "47%",
+        "Trump": "49%",
+        "Other": "4%"
+      },
+      {
+        "source": "Morning Consult",
+        "date": "9/09/2024",
+        "sample": "1,405 LV ±3%",
+        "Harris": "48%",
+        "Trump": "48%",
+        "Other": "4%"
+      },
+      {
+        "source": "FAU / Mainstreet",
+        "date": "9/09/2024",
+        "sample": "567 LV",
+        "Harris": "45%",
+        "Trump": "47%",
+        "Other": "8%"
+      },
+      {
+        "source": "Quinnipiac",
+        "date": "9/09/2024",
+        "sample": "969 LV ±3.2%",
+        "Harris": "46%",
+        "Trump": "49%",
+        "Other": "5%"
+      },
+      {
+        "source": "The Times (UK) / YouGov",
+        "date": "9/05/2024",
+        "sample": "1,000 RV ±3.8%",
+        "Harris": "45%",
+        "Trump": "47%",
+        "Other": "8%"
+      },
+      {
+        "source": "CNN",
+        "date": "9/04/2024",
+        "sample": "617 LV ±4.7%",
+        "Harris": "48%",
+        "Trump": "47%",
+        "Other": "5%"
+      },
+      {
+        "source": "InsiderAdvantage",
+        "date": "8/31/2024",
+        "sample": "800 LV ±3.7%",
+        "Harris": "48%",
+        "Trump": "48%",
+        "Other": "4%"
+      },
+      {
+        "source": "Redfield & Wilton",
+        "date": "8/30/2024",
+        "sample": "699 LV ±3.4%",
+        "Harris": "42%",
+        "Trump": "44%",
+        "Other": "14%"
+      },
+      {
+        "source": "Bloomberg / Morning Consult",
+        "date": "8/29/2024",
+        "sample": "801 LV ±3%",
+        "Harris": "49%",
+        "Trump": "47%",
+        "Other": "4%"
+      },
+      {
+        "source": "Emerson College",
+        "date": "8/29/2024",
+        "sample": "800 LV ±3.4%",
+        "Harris": "49%",
+        "Trump": "48%",
+        "Other": "3%"
+      },
+      {
+        "source": "Fox News",
+        "date": "8/28/2024",
+        "sample": "1,014 RV ±3%",
+        "Harris": "50%",
+        "Trump": "48%",
+        "Other": "2%"
+      },
+      {
+        "source": "Redfield & Wilton",
+        "date": "8/19/2024",
+        "sample": "692 LV ±3.4%",
+        "Harris": "46%",
+        "Trump": "46%",
+        "Other": "8%"
+      },
+      {
+        "source": "NY Times / Siena College",
+        "date": "8/17/2024",
+        "sample": "661 LV ±4.4%",
+        "Harris": "46%",
+        "Trump": "50%",
+        "Other": "4%"
+      },
+      {
+        "source": "Cook Political/BSG/GS Strategy",
+        "date": "8/14/2024",
+        "sample": "405 LV",
+        "Harris": "48%",
+        "Trump": "48%",
+        "Other": "4%"
+      },
+      {
+        "source": "AARP",
+        "date": "8/08/2024",
+        "sample": "600 LV ±4%",
+        "Harris": "48%",
+        "Trump": "48%",
+        "Other": "4%"
+      },
+      {
+        "source": "Redfield & Wilton",
+        "date": "8/06/2024",
+        "sample": "1,128 LV ±2.7%",
+        "Harris": "44%",
+        "Trump": "46%",
+        "Other": "10%"
+      },
+      {
+        "source": "Bloomberg / Morning Consult",
+        "date": "7/30/2024",
+        "sample": "799 RV ±3%",
+        "Harris": "47%",
+        "Trump": "47%",
+        "Other": "6%"
+      },
+      {
+        "source": "Redfield & Wilton",
+        "date": "7/26/2024",
+        "sample": "1,180 LV ±2.5%",
+        "Harris": "42%",
+        "Trump": "47%",
+        "Other": "11%"
+      },
+      {
+        "source": "Emerson College",
+        "date": "7/25/2024",
+        "sample": "800 RV ±3.4%",
+        "Harris": "46%",
+        "Trump": "48%",
+        "Other": "6%"
+      },
+      {
+        "source": "Landmark Communications",
+        "date": "7/23/2024",
+        "sample": "400 LV ±5%",
+        "Harris": "47%",
+        "Trump": "48%",
+        "Other": "5%"
+      },
+      {
+        "source": "University of Georgia",
+        "date": "7/22/2024",
+        "sample": "1,000 LV ±3.1%",
+        "Harris": "46%",
+        "Trump": "51%",
+        "Other": "3%"
+      },
+      {
+        "source": "FAU / Mainstreet",
+        "date": "7/17/2024",
+        "sample": "549 LV",
+        "Harris": "43%",
+        "Trump": "49%",
+        "Other": "8%"
+      },
+      {
+        "source": "InsiderAdvantage",
+        "date": "7/16/2024",
+        "sample": "800 RV ±4.1%",
+        "Harris": "37%",
+        "Trump": "47%",
+        "Other": "16%"
+      },
+      {
+        "source": "Bloomberg / Morning Consult",
+        "date": "4/24/2024",
+        "sample": "802 RV ±3%",
+        "Harris": "41%",
+        "Trump": "49%",
+        "Other": "10%"
+      },
+      {
+        "source": "Emerson College",
+        "date": "2/21/2024",
+        "sample": "1,000 RV ±3%",
+        "Harris": "41%",
+        "Trump": "51%",
+        "Other": "8%"
+      },
+      {
+        "source": "NY Times / Siena College",
+        "date": "11/05/2023",
+        "sample": "629 RV ±4.5%",
+        "Harris": "44%",
+        "Trump": "45%",
+        "Other": "11%"
+      }
+    ],
+    "harris_vs_trump_with_others": {
+      "average_of_9_polls": {
+        "Harris": "46.8%",
+        "Stein": "0.4%",
+        "Kennedy": "-",
+        "West": "0.0%",
+        "Oliver": "0.9%",
+        "Trump": "48.0%",
+        "Other": "-"
+      },
+      "polls": [
+        {
+          "source": "NY Times / Siena College",
+          "date": "11/03/2024",
+          "sample": "1,004 LV ±4.1%",
+          "Harris": "46%",
+          "Stein": "0%",
+          "Kennedy": "-",
+          "West": "0%",
+          "Oliver": "2%",
+          "Trump": "46%",
+          "Other": "6%"
+        },
+        {
+          "source": "AtlasIntel",
+          "date": "11/02/2024",
+          "sample": "1,174 LV ±3%",
+          "Harris": "47%",
+          "Stein": "2%",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "1%",
+          "Trump": "49%",
+          "Other": "1%"
+        },
+        {
+          "source": "Redfield & Wilton",
+          "date": "11/01/2024",
+          "sample": "1,779 LV ±2.1%",
+          "Harris": "47%",
+          "Stein": "0%",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "1%",
+          "Trump": "48%",
+          "Other": "4%"
+        },
+        {
+          "source": "Data for Progress",
+          "date": "11/01/2024",
+          "sample": "972 LV ±3%",
+          "Harris": "49%",
+          "Stein": "0%",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "1%",
+          "Trump": "48%",
+          "Other": "2%"
+        },
+        {
+          "source": "The Times (UK) / YouGov",
+          "date": "11/01/2024",
+          "sample": "939 LV ±3.9%",
+          "Harris": "47%",
+          "Stein": "0%",
+          "Kennedy": "-",
+          "West": "0%",
+          "Oliver": "-",
+          "Trump": "48%",
+          "Other": "5%"
+        },
+        {
+          "source": "AtlasIntel",
+          "date": "10/31/2024",
+          "sample": "1,212 LV ±3%",
+          "Harris": "47%",
+          "Stein": "2%",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "1%",
+          "Trump": "49%",
+          "Other": "1%"
+        },
+        {
+          "source": "The Citadel Poll",
+          "date": "10/31/2024",
+          "sample": "1,126 LV ±3.9%",
+          "Harris": "47%",
+          "Stein": "1%",
+          "Kennedy": "0%",
+          "West": "0%",
+          "Oliver": "0%",
+          "Trump": "49%",
+          "Other": "3%"
+        },
+        {
+          "source": "CNN",
+          "date": "10/31/2024",
+          "sample": "732 LV ±4.7%",
+          "Harris": "47%",
+          "Stein": "1%",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "1%",
+          "Trump": "48%",
+          "Other": "3%"
+        },
+        {
+          "source": "Redfield & Wilton",
+          "date": "10/29/2024",
+          "sample": "1,112 LV ±2.7%",
+          "Harris": "47%",
+          "Stein": "0%",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "1%",
+          "Trump": "48%",
+          "Other": "4%"
+        }
+      ]
+    }
+  }
+  

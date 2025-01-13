@@ -1,0 +1,30 @@
+{
+    "title": "Harris vs. Trump",
+    "polls": [
+      {
+        "source": "MassINC",
+        "date": "9/23/2024",
+        "sample": "800 LV ±3.7%",
+        "Harris": "57%",
+        "Trump": "41%",
+        "Other": "2%"
+      }
+    ],
+    "harris_vs_trump_with_others": {
+      "polls": [
+        {
+          "source": "MassINC",
+          "date": "9/23/2024",
+          "sample": "800 LV ±3.7%",
+          "Harris": "54%",
+          "Stein": "0%",
+          "Kennedy": "3%",
+          "West": "0%",
+          "Oliver": "-",
+          "Trump": "38%",
+          "Other": "5%"
+        }
+      ]
+    }
+  }
+  

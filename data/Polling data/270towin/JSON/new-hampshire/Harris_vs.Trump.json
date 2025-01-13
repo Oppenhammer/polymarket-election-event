@@ -1,0 +1,293 @@
+{
+    "harris_vs_trump": {
+      "average": {
+        "Harris": "50.5%",
+        "Trump": "45.5%",
+        "Other": "-"
+      },
+      "polls": [
+        {
+          "source": "Univ. of New Hampshire",
+          "date": "11/03/2024",
+          "sample": "2,814 LV ±1.9%",
+          "Harris": "51%",
+          "Trump": "46%",
+          "Other": "3%"
+        },
+        {
+          "source": "UMass Lowell",
+          "date": "10/31/2024",
+          "sample": "600 LV ±4.4%",
+          "Harris": "50%",
+          "Trump": "43%",
+          "Other": "7%"
+        },
+        {
+          "source": "Saint Anselm College",
+          "date": "10/30/2024",
+          "sample": "2,791 LV ±1.9%",
+          "Harris": "51%",
+          "Trump": "46%",
+          "Other": "3%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "10/24/2024",
+          "sample": "915 LV ±3.2%",
+          "Harris": "50%",
+          "Trump": "47%",
+          "Other": "3%"
+        },
+        {
+          "source": "UMass Lowell",
+          "date": "10/17/2024",
+          "sample": "600 LV ±4.8%",
+          "Harris": "50%",
+          "Trump": "41%",
+          "Other": "9%"
+        },
+        {
+          "source": "Saint Anselm College",
+          "date": "10/03/2024",
+          "sample": "2,104 LV ±2.1%",
+          "Harris": "51%",
+          "Trump": "44%",
+          "Other": "5%"
+        },
+        {
+          "source": "Univ. of New Hampshire",
+          "date": "9/18/2024",
+          "sample": "1,695 LV ±2.4%",
+          "Harris": "54%",
+          "Trump": "43%",
+          "Other": "3%"
+        },
+        {
+          "source": "Saint Anselm College",
+          "date": "9/13/2024",
+          "sample": "2,241 LV ±2.1%",
+          "Harris": "51%",
+          "Trump": "43%",
+          "Other": "6%"
+        },
+        {
+          "source": "Univ. of New Hampshire",
+          "date": "8/21/2024",
+          "sample": "2,048 LV ±2.2%",
+          "Harris": "52%",
+          "Trump": "47%",
+          "Other": "1%"
+        },
+        {
+          "source": "Saint Anselm College",
+          "date": "8/19/2024",
+          "sample": "1,656 RV ±2.4%",
+          "Harris": "51%",
+          "Trump": "44%",
+          "Other": "5%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "7/30/2024",
+          "sample": "1,000 LV ±3%",
+          "Harris": "50%",
+          "Trump": "46%",
+          "Other": "4%"
+        },
+        {
+          "source": "Saint Anselm College",
+          "date": "7/25/2024",
+          "sample": "2,083 RV ±2.1%",
+          "Harris": "50%",
+          "Trump": "44%",
+          "Other": "6%"
+        },
+        {
+          "source": "Univ. of New Hampshire",
+          "date": "7/25/2024",
+          "sample": "2,875 LV ±1.8%",
+          "Harris": "53%",
+          "Trump": "46%",
+          "Other": "1%"
+        },
+        {
+          "source": "NH Journal",
+          "date": "7/22/2024",
+          "sample": "601 RV ±4%",
+          "Harris": "39%",
+          "Trump": "40%",
+          "Other": "21%"
+        }
+      ]
+    },
+    "harris_vs_other_candidates": {
+      "average": {
+        "Harris": "50.7%",
+        "Stein": "0.3%",
+        "Kennedy": "-",
+        "West": "0.0%",
+        "Oliver": "1.0%",
+        "Trump": "45.0%",
+        "Other": "-"
+      },
+      "polls": [
+        {
+          "source": "Univ. of New Hampshire",
+          "date": "11/03/2024",
+          "sample": "2,814 LV ±1.9%",
+          "Harris": "51%",
+          "Stein": "0%",
+          "Kennedy": "-",
+          "West": "0%",
+          "Oliver": "1%",
+          "Trump": "46%",
+          "Other": "2%"
+        },
+        {
+          "source": "UMass Lowell",
+          "date": "10/31/2024",
+          "sample": "600 LV ±4.4%",
+          "Harris": "50%",
+          "Stein": "1%",
+          "Kennedy": "-",
+          "West": "0%",
+          "Oliver": "1%",
+          "Trump": "43%",
+          "Other": "5%"
+        },
+        {
+          "source": "Saint Anselm College",
+          "date": "10/30/2024",
+          "sample": "2,791 LV ±1.9%",
+          "Harris": "51%",
+          "Stein": "0%",
+          "Kennedy": "-",
+          "West": "0%",
+          "Oliver": "1%",
+          "Trump": "46%",
+          "Other": "2%"
+        },
+        {
+          "source": "UMass Lowell",
+          "date": "10/17/2024",
+          "sample": "600 LV ±4.8%",
+          "Harris": "50%",
+          "Stein": "1%",
+          "Kennedy": "-",
+          "West": "0%",
+          "Oliver": "1%",
+          "Trump": "41%",
+          "Other": "7%"
+        },
+        {
+          "source": "Saint Anselm College",
+          "date": "10/03/2024",
+          "sample": "2,104 LV ±2.1%",
+          "Harris": "51%",
+          "Stein": "1%",
+          "Kennedy": "-",
+          "West": "0%",
+          "Oliver": "1%",
+          "Trump": "44%",
+          "Other": "3%"
+        },
+        {
+          "source": "Univ. of New Hampshire",
+          "date": "9/18/2024",
+          "sample": "1,695 LV ±2.4%",
+          "Harris": "54%",
+          "Stein": "0%",
+          "Kennedy": "-",
+          "West": "0%",
+          "Oliver": "1%",
+          "Trump": "43%",
+          "Other": "2%"
+        },
+        {
+          "source": "Saint Anselm College",
+          "date": "9/13/2024",
+          "sample": "2,241 LV ±2.1%",
+          "Harris": "51%",
+          "Stein": "1%",
+          "Kennedy": "-",
+          "West": "0%",
+          "Oliver": "1%",
+          "Trump": "43%",
+          "Other": "4%"
+        },
+        {
+          "source": "Univ. of New Hampshire",
+          "date": "8/21/2024",
+          "sample": "2,048 LV ±2.2%",
+          "Harris": "50%",
+          "Stein": "0%",
+          "Kennedy": "4%",
+          "West": "0%",
+          "Oliver": "0%",
+          "Trump": "43%",
+          "Other": "3%"
+        },
+        {
+          "source": "Saint Anselm College",
+          "date": "8/19/2024",
+          "sample": "1,656 RV ±2.4%",
+          "Harris": "51%",
+          "Stein": "0%",
+          "Kennedy": "2%",
+          "West": "0%",
+          "Oliver": "0%",
+          "Trump": "44%",
+          "Other": "3%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "7/30/2024",
+          "sample": "1,000 LV ±3%",
+          "Harris": "48%",
+          "Stein": "1%",
+          "Kennedy": "6%",
+          "West": "0%",
+          "Oliver": "-",
+          "Trump": "41%",
+          "Other": "4%"
+        },
+        {
+          "source": "Saint Anselm College",
+          "date": "7/25/2024",
+          "sample": "2,083 RV ±2.1%",
+          "Harris": "50%",
+          "Stein": "0%",
+          "Kennedy": "3%",
+          "West": "0%",
+          "Oliver": "0%",
+          "Trump": "44%",
+          "Other": "3%"
+        },
+        {
+          "source": "Univ. of New Hampshire",
+          "date": "7/25/2024",
+          "sample": "2,875 LV ±1.8%",
+          "Harris": "49%",
+          "Stein": "0%",
+          "Kennedy": "4%",
+          "West": "0%",
+          "Oliver": "0%",
+          "Trump": "43%",
+          "Other": "4%"
+        },
+        {
+          "source": "NH Journal",
+          "date": "7/22/2024",
+          "sample": "601 RV ±4%",
+          "Harris": "39%",
+          "Stein": "-",
+          "Kennedy": "21%",
+          "West": "-",
+          "Oliver": "-",
+          "Trump": "40%",
+          "Other": "0%"
+        }
+      ]
+    }
+  }
+  

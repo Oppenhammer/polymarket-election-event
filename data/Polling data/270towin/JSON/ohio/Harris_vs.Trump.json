@@ -1,0 +1,160 @@
+{
+    "harris_vs_trump": {
+      "average": {
+        "Harris": "44.3%",
+        "Trump": "52.0%",
+        "Other": "-"
+      },
+      "polls": [
+        {
+          "source": "Emerson College",
+          "date": "11/04/2024",
+          "sample": "900 LV ±3.2%",
+          "Harris": "42%",
+          "Trump": "54%",
+          "Other": "4%"
+        },
+        {
+          "source": "Morning Consult",
+          "date": "11/03/2024",
+          "sample": "1,254 LV ±3%",
+          "Harris": "44%",
+          "Trump": "53%",
+          "Other": "3%"
+        },
+        {
+          "source": "Trafalgar Group",
+          "date": "10/29/2024",
+          "sample": "1,127 LV ±2.9%",
+          "Harris": "46%",
+          "Trump": "52%",
+          "Other": "2%"
+        },
+        {
+          "source": "Bowling Green State U.",
+          "date": "10/24/2024",
+          "sample": "1,000 LV ±3.6%",
+          "Harris": "43%",
+          "Trump": "50%",
+          "Other": "7%"
+        },
+        {
+          "source": "Morning Consult",
+          "date": "10/17/2024",
+          "sample": "1,243 LV ±3%",
+          "Harris": "45%",
+          "Trump": "52%",
+          "Other": "3%"
+        },
+        {
+          "source": "Washington Post",
+          "date": "10/10/2024",
+          "sample": "1,002 LV ±3.5%",
+          "Harris": "45%",
+          "Trump": "51%",
+          "Other": "4%"
+        },
+        {
+          "source": "Marist Poll",
+          "date": "10/10/2024",
+          "sample": "1,327 LV ±3.2%",
+          "Harris": "46%",
+          "Trump": "52%",
+          "Other": "2%"
+        },
+        {
+          "source": "Bowling Green State U.",
+          "date": "10/03/2024",
+          "sample": "1,000 LV ±3.6%",
+          "Harris": "44%",
+          "Trump": "51%",
+          "Other": "5%"
+        },
+        {
+          "source": "NY Times / Siena College",
+          "date": "9/28/2024",
+          "sample": "687 LV ±4.2%",
+          "Harris": "44%",
+          "Trump": "50%",
+          "Other": "6%"
+        },
+        {
+          "source": "RMG Research",
+          "date": "9/25/2024",
+          "sample": "781 LV ±3.5%",
+          "Harris": "43%",
+          "Trump": "54%",
+          "Other": "3%"
+        },
+        {
+          "source": "Morning Consult",
+          "date": "9/19/2024",
+          "sample": "1,488 LV ±2.6%",
+          "Harris": "43%",
+          "Trump": "52%",
+          "Other": "5%"
+        },
+        {
+          "source": "Morning Consult",
+          "date": "9/09/2024",
+          "sample": "1,558 LV ±3%",
+          "Harris": "44%",
+          "Trump": "52%",
+          "Other": "4%"
+        },
+        {
+          "source": "Emerson College",
+          "date": "9/06/2024",
+          "sample": "945 LV ±3.1%",
+          "Harris": "43%",
+          "Trump": "53%",
+          "Other": "4%"
+        },
+        {
+          "source": "AARP",
+          "date": "8/01/2024",
+          "sample": "600 LV ±4%",
+          "Harris": "42%",
+          "Trump": "52%",
+          "Other": "6%"
+        },
+        {
+          "source": "SurveyUSA",
+          "date": "3/14/2024",
+          "sample": "1,241 RV ±3.3%",
+          "Harris": "38%",
+          "Trump": "51%",
+          "Other": "11%"
+        }
+      ]
+    },
+    "harris_vs_other_candidates": {
+      "polls": [
+        {
+          "source": "NY Times / Siena College",
+          "date": "9/28/2024",
+          "sample": "687 LV ±4.2%",
+          "Harris": "43%",
+          "Stein": "2%",
+          "Kennedy": "-",
+          "West": "-",
+          "Oliver": "2%",
+          "Trump": "49%",
+          "Other": "4%"
+        },
+        {
+          "source": "AARP",
+          "date": "8/01/2024",
+          "sample": "600 LV ±4%",
+          "Harris": "39%",
+          "Stein": "1%",
+          "Kennedy": "9%",
+          "West": "-",
+          "Oliver": "1%",
+          "Trump": "48%",
+          "Other": "2%"
+        }
+      ]
+    }
+  }
+  

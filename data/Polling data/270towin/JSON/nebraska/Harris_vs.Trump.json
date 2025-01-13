@@ -1,0 +1,73 @@
+{
+    "harris_vs_trump": {
+      "average": {
+        "Harris": "40.0%",
+        "Trump": "55.0%",
+        "Other": "-"
+      },
+      "polls": [
+        {
+          "source": "Economist / YouGov",
+          "date": "10/29/2024",
+          "sample": "1,220 RV ±3.5%",
+          "Harris": "40%",
+          "Trump": "55%",
+          "Other": "5%"
+        },
+        {
+          "source": "NY Times / Siena College",
+          "date": "10/28/2024",
+          "sample": "1,194 LV ±3.2%",
+          "Harris": "40%",
+          "Trump": "55%",
+          "Other": "5%"
+        },
+        {
+          "source": "SurveyUSA",
+          "date": "8/31/2024",
+          "sample": "1,293 RV ±3.6%",
+          "Harris": "37%",
+          "Trump": "54%",
+          "Other": "9%"
+        }
+      ]
+    },
+    "harris_vs_other_candidates": {
+      "average": {
+        "Harris": "43.0%",
+        "Stein": "0.0%",
+        "Kennedy": "-",
+        "West": "0.0%",
+        "Oliver": "1.5%",
+        "Trump": "49.5%",
+        "Other": "-"
+      },
+      "polls": [
+        {
+          "source": "Economist / YouGov",
+          "date": "10/29/2024",
+          "sample": "408 RV",
+          "Harris": "43%",
+          "Stein": "0%",
+          "Kennedy": "-",
+          "West": "0%",
+          "Oliver": "3%",
+          "Trump": "51%",
+          "Other": "3%"
+        },
+        {
+          "source": "NY Times / Siena College",
+          "date": "10/28/2024",
+          "sample": "341 LV",
+          "Harris": "43%",
+          "Stein": "0%",
+          "Kennedy": "-",
+          "West": "0%",
+          "Oliver": "0%",
+          "Trump": "48%",
+          "Other": "9%"
+        }
+      ]
+    }
+  }
+  
