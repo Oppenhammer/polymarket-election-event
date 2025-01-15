@@ -1,0 +1,117 @@
+ Between Donald Trump and Kamala Harris, which candidate do you reject more?
+Kamala Harris: 50.6%
+Donald Trump: 48.1%
+Neither / don't know: 1.3%
+
+Gender
+Man
+I reject Harris: 49.3%
+I reject Trump: 48.9%
+Neither / don't know: 1.8%
+Woman
+I reject Harris: 51.8%
+I reject Trump: 47.5%
+Neither / don't know: 0.7%
+Other / prefer not to identify
+I reject Harris: 51.1%
+I reject Trump: 44.5%
+Neither / don't know: 4.3%
+Age
+18-29
+I reject Harris: 44.7%
+I reject Trump: 53.1%
+Neither / don't know: 2.2%
+30-44
+I reject Harris: 55.8%
+I reject Trump: 42.2%
+Neither / don't know: 2%
+45-64
+I reject Harris: 49.8%
+I reject Trump: 49%
+Neither / don't know: 1.1%
+65+
+I reject Harris: 50.5%
+I reject Trump: 49.5%
+Neither / don't know: 0%
+Education
+College degree or higher
+I reject Harris: 41.4%
+I reject Trump: 57%
+Neither / don't know: 1.6%
+All other
+I reject Harris: 57.7%
+I reject Trump: 41.2%
+Neither / don't know: 1.1%
+Income
+Below $50k
+I reject Harris: 50.9%
+I reject Trump: 47.7%
+Neither / don't know: 1.4%
+$50k - $100k
+I reject Harris: 53.4%
+I reject Trump: 45.6%
+Neither / don't know: 1%
+Above $100k
+I reject Harris: 46.2%
+I reject Trump: 52.3%
+Neither / don't know: 1.5%
+Location
+Urban
+I reject Harris: 45.9%
+I reject Trump: 52.5%
+Neither / don't know: 1.6%
+Sub-urban
+I reject Harris: 49%
+I reject Trump: 50%
+Neither / don't know: 1.1%
+Rural
+I reject Harris: 61.7%
+I reject Trump: 36.8%
+Neither / don't know: 1.4%
+Partisanship
+Democrat
+I reject Harris: 5.7%
+I reject Trump: 94.3%
+Neither / don't know: 0%
+Republican
+I reject Harris: 95%
+I reject Trump: 4.6%
+Neither / don't know: 0.4%
+Independent
+I reject Harris: 51.4%
+I reject Trump: 44.9%
+Neither / don't know: 3.7%
+Race
+Asian
+I reject Harris: 46.9%
+I reject Trump: 53.1%
+Neither / don't know: 0%
+Black
+I reject Harris: 31.2%
+I reject Trump: 67.4%
+Neither / don't know: 1.4%
+Hispanic
+I reject Harris: 43.8%
+I reject Trump: 53.4%
+Neither / don't know: 2.7%
+White
+I reject Harris: 55%
+I reject Trump: 44%
+Neither / don't know: 1%
+Other
+I reject Harris: 45.5%
+I reject Trump: 52%
+Neither / don't know: 2.5%
+2020 Vote for President
+Joe Biden
+I reject Harris: 9.4%
+I reject Trump: 89.2%
+Neither / don't know: 1.3%
+Donald Trump
+I reject Harris: 97%
+I reject Trump: 2.5%
+Neither / don't know: 0.5%
+Other, don't remember, didn't vote
+I reject Harris: 58.7%
+I reject Trump: 37.4%
+Neither / don't know: 3.9%

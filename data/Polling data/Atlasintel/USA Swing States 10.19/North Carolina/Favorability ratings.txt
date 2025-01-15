@@ -1,0 +1,54 @@
+Do you have a positive or negative image of the following political figures?
+Kamala Harris
+Positive: 52%
+Don't know: 2%
+Negative: 46%
+Net: +6pp
+Donald Trump
+Positive: 44%
+Don't know: 1%
+Negative: 55%
+Net: -11pp
+
+Kamala Harris
+Gender
+Positive (Man): 52.4%
+Positive (Woman): 52.8%
+Education
+Positive (College degree or higher): 57.6%
+Age
+Positive (18-29): 61.9%
+Positive (30-44): 55.5%
+Family Income
+Positive (Below $50k): 48.5%
+Positive (Above $100k): 55.3%
+Race
+Positive (Asian): 70.7%
+Positive (Black): 77.3%
+Partisanship
+Positive (Democrat): 93%
+Location Type
+Positive (Urban): 55.5%
+Positive (Sub-urban): 55.7%
+2020 Vote
+Positive (Joe Biden): 93.2%
+Donald Trump
+Gender
+Positive (Man): 41.9%
+Positive (Woman): 44.6%
+Education
+Positive (College degree or higher): 35.4%
+Age
+Positive (45-64): 51.2%
+Positive (65+): 57.5%
+Family Income
+Positive (Below $50k): 51.2%
+Positive ($50k-$100k): 50.1%
+Race
+Positive (White): 56.8%
+Partisanship
+Positive (Republican): 91.9%
+Location Type
+Positive (Rural): 61.7%
+2020 Vote
+Positive (Donald Trump): 92.8%

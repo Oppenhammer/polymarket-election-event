@@ -1,0 +1,80 @@
+ For which of these candidates on the Wisconsin ballot will you vote for in the 
+upcoming presidential election?
+Kamala Harris: 48.9%
+Donald Trump: 48.2%
+Undecided: 1.2%
+Chase Oliver: 0.8%
+Robert F. Kennedy Jr.: 0.7%
+Jill Stein: 0.2%
+Blank/null/won't vote: 0%
+Other: 0%
+Kamala Harris
+Gender
+Man: 44.5%
+Woman: 53.7%
+Other/prefer not to identify: 33.5%
+Education
+College degree or higher: 55.5%
+All other: 43.1%
+Age
+18-29: 52.2%
+30-44: 51.2%
+45-64: 47.6%
+65+: 47.1%
+Family Income
+Below $50k: 50.5%
+$50k-$100k: 50.5%
+Above $100k: 45.2%
+Race
+Asian: 46.4%
+Black: 72.5%
+Hispanic: 63.5%
+White: 47.7%
+Other: 41%
+Partisanship
+Democrat: 97.8%
+Republican: 6.6%
+Independent: 47.2%
+Location Type
+Urban: 58.3%
+Sub-urban: 49%
+Rural: 40.2%
+2020 Vote
+Joe Biden: 94.6%
+Donald Trump: 4.1%
+Other/don't remember/didn't vote: 37.2%
+Donald Trump
+Gender
+Man: 51.5%
+Woman: 40.3%
+Other/prefer not to identify: 47.3%
+Education
+College degree or higher: 40.3%
+All other: 53.4%
+Age
+18-29: 46.7%
+30-44: 44.5%
+45-64: 50.3%
+65+: 50.1%
+Family Income
+Below $50k: 44.9%
+$50k-$100k: 47.3%
+Above $100k: 52.7%
+Race
+Asian: 27.5%
+Black: 27.5%
+Hispanic: 36.5%
+White: 49.1%
+Other: 56.4%
+Partisanship
+Democrat: 1.8%
+Republican: 92.5%
+Independent: 44.9%
+Location Type
+Urban: 38.9%
+Sub-urban: 47.9%
+Rural: 57.7%
+2020 Vote
+Joe Biden: 4.1%
+Donald Trump: 94.1%
+Other/don't remember/didn't vote: 42.7%

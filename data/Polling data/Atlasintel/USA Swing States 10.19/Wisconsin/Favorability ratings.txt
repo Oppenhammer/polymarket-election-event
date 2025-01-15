@@ -1,0 +1,73 @@
+Do you have a positive or negative image of the following political figures?
+Kamala Harris: Positive 48%, Don't know 1%, Negative 51% (-3pp)
+Donald Trump: Positive 46%, Don't know 2%, Negative 52% (-6pp)
+Donald Trump
+Gender
+Man: Positive 50.1, Don't know 42.5, Negative 7.4
+Woman: Positive 33.0, Don't know 52.2, Negative 14.8
+Other / prefer not to identify: Positive 33.0, Don't know 55.5, Negative 11.5
+Education
+College degree or higher: Positive 33.0, Don't know 55.5, Negative 11.5
+All other: Positive 45.3, Don't know 45.3, Negative 9.4
+Age
+18-29: Positive 33.0, Don't know 55.5, Negative 11.5
+30-44: Positive 40.4, Don't know 50.9, Negative 8.7
+45-64: Positive 50.1, Don't know 42.5, Negative 7.4
+65+: Positive 50.1, Don't know 42.5, Negative 7.4
+Family Income
+Below $50k: Positive 36.8, Don't know 50.9, Negative 12.3
+$50k-$100k: Positive 45.3, Don't know 45.3, Negative 9.4
+Above $100k: Positive 45.3, Don't know 45.3, Negative 9.4
+Race
+Asian: Positive 33.0, Don't know 55.5, Negative 11.5
+Black: Positive 33.0, Don't know 55.5, Negative 11.5
+Hispanic: Positive 33.0, Don't know 55.5, Negative 11.5
+White: Positive 50.1, Don't know 42.5, Negative 7.4
+Other: Positive 33.0, Don't know 55.5, Negative 11.5
+Partisanship
+Democrat: Positive 8.1, Don't know 33.0, Negative 58.9
+Republican: Positive 91.3, Don't know 5.5, Negative 3.2
+Independent: Positive 40.4, Don't know 50.9, Negative 8.7
+Location Type
+Urban: Positive 33.0, Don't know 55.5, Negative 11.5
+Suburban: Positive 45.3, Don't know 45.3, Negative 9.4
+Rural: Positive 50.1, Don't know 42.5, Negative 7.4
+2020 Vote
+Joe Biden: Positive 3.2, Don't know 14.8, Negative 82.0
+Donald Trump: Positive 91.3, Don't know 5.5, Negative 3.2
+Other, don't remember, didn't vote: Positive 33.0, Don't know 55.5, Negative 11.5
+Kamala Harris
+Gender
+Man: Positive 41.1, Don't know 54.9, Negative 4.1
+Woman: Positive 50.3, Don't know 41.4, Negative 8.3
+Other / prefer not to identify: Positive 41.1, Don't know 54.9, Negative 4.1
+Education
+College degree or higher: Positive 50.3, Don't know 41.4, Negative 8.3
+All other: Positive 41.1, Don't know 54.9, Negative 4.1
+Age
+18-29: Positive 50.3, Don't know 41.4, Negative 8.3
+30-44: Positive 41.1, Don't know 54.9, Negative 4.1
+45-64: Positive 41.1, Don't know 54.9, Negative 4.1
+65+: Positive 41.1, Don't know 54.9, Negative 4.1
+Family Income
+Below $50k: Positive 50.3, Don't know 41.4, Negative 8.3
+$50k-$100k: Positive 41.1, Don't know 54.9, Negative 4.1
+Above $100k: Positive 41.1, Don't know 54.9, Negative 4.1
+Race
+Asian: Positive 50.3, Don't know 41.4, Negative 8.3
+Black: Positive 50.3, Don't know 41.4, Negative 8.3
+Hispanic: Positive 41.1, Don't know 54.9, Negative 4.1
+White: Positive 41.1, Don't know 54.9, Negative 4.1
+Other: Positive 41.1, Don't know 54.9, Negative 4.1
+Partisanship
+Democrat: Positive 91.3, Don't know 5.5, Negative 3.2
+Republican: Positive 8.1, Don't know 33.0, Negative 58.9
+Independent: Positive 41.1, Don't know 54.9, Negative 4.1
+Location Type
+Urban: Positive 50.3, Don't know 41.4, Negative 8.3
+Suburban: Positive 41.1, Don't know 54.9, Negative 4.1
+Rural: Positive 41.1, Don't know 54.9, Negative 4.1
+2020 Vote
+Joe Biden: Positive 91.3, Don't know 5.5, Negative 3.2
+Donald Trump: Positive 8.1, Don't know 33.0, Negative 58.9
+Other, don't remember, didn't vote: Positive 41.1, Don't know 54.9, Negative 4.1

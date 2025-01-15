@@ -1,0 +1,100 @@
+ Do you have a positive or negative image of the following political figures?
+Donald Trump
+
+Positive: 49%
+Don't know: 1%
+Negative: 50%
+Net: -1pp
+Kamala Harris
+
+Positive: 47%
+Don't know: 2%
+Negative: 52%
+Net: -5pp
+
+Donald Trump
+Gender
+
+Man: Positive 49.1%, Don't know 1.3%, Negative 49.6%
+Woman: Positive 48.2%, Don't know 1.2%, Negative 50.7%
+Other: Positive 50.7%, Don't know 7.3%, Negative 42.0%
+Age
+
+18-29: Positive 42.0%, Don't know 7.3%, Negative 50.7%
+30-44: Positive 44.9%, Don't know 1.3%, Negative 53.8%
+45-64: Positive 49.1%, Don't know 1.5%, Negative 49.4%
+65+: Positive 51.3%, Don't know 1.3%, Negative 47.4%
+Education
+
+College degree or higher: Positive 40.1%, Don't know 0.8%, Negative 59.1%
+All other: Positive 54.2%, Don't know 1.1%, Negative 44.7%
+Income
+
+Below $50k: Positive 47.7%, Don't know 1.1%, Negative 51.2%
+$50k - $100k: Positive 50.2%, Don't know 1.5%, Negative 48.3%
+Above $100k: Positive 52.0%, Don't know 1.1%, Negative 46.9%
+Location
+
+Urban: Positive 43.9%, Don't know 1.1%, Negative 55.0%
+Sub-urban: Positive 48.7%, Don't know 1.1%, Negative 50.2%
+Rural: Positive 58.1%, Don't know 0.7%, Negative 41.2%
+Race
+
+Asian: Positive 43.7%, Don't know 1.3%, Negative 56.3%
+Black: Positive 23.3%, Don't know 12.0%, Negative 64.7%
+Hispanic: Positive 37.7%, Don't know 10.4%, Negative 51.9%
+White: Positive 52.0%, Don't know 1.7%, Negative 46.3%
+Other: Positive 44.2%, Don't know 4.2%, Negative 51.6%
+Partisanship
+
+Democrat: Positive 5.1%, Don't know 0.2%, Negative 94.7%
+Republican: Positive 94.2%, Don't know 1.6%, Negative 4.2%
+Independent: Positive 45.3%, Don't know 3.8%, Negative 50.9%
+2020 Vote for President
+
+Joe Biden: Positive 9.1%, Don't know 0.9%, Negative 90.0%
+Donald Trump: Positive 99.1%, Don't know 0.4%, Negative 0.5%
+Other, don't remember, didn't vote: Positive 41.7%, Don't know 7.2%, Negative 51.1%
+Kamala Harris
+Gender
+
+Man: Positive 44.6%, Don't know 1.5%, Negative 53.9%
+Woman: Positive 48.8%, Don't know 1.5%, Negative 49.5%
+Other: Positive 43.0%, Don't know 2.3%, Negative 54.7%
+Age
+
+18-29: Positive 48.6%, Don't know 2.3%, Negative 49.1%
+30-44: Positive 46.8%, Don't know 1.6%, Negative 51.6%
+45-64: Positive 48.6%, Don't know 1.3%, Negative 50.1%
+65+: Positive 48.6%, Don't know 2.3%, Negative 49.1%
+Education
+
+College degree or higher: Positive 54.8%, Don't know 1.2%, Negative 44.1%
+All other: Positive 40.6%, Don't know 2.3%, Negative 57.1%
+Income
+
+Below $50k: Positive 47.7%, Don't know 2.3%, Negative 50.0%
+$50k - $100k: Positive 48.5%, Don't know 1.5%, Negative 50.0%
+Above $100k: Positive 46.1%, Don't know 1.5%, Negative 52.4%
+Location
+
+Urban: Positive 50.9%, Don't know 1.1%, Negative 48.0%
+Sub-urban: Positive 48.0%, Don't know 1.1%, Negative 50.9%
+Rural: Positive 37.7%, Don't know 1.5%, Negative 60.8%
+Race
+
+Asian: Positive 52.9%, Don't know 1.2%, Negative 46.4%
+Black: Positive 71.5%, Don't know 2.8%, Negative 25.7%
+Hispanic: Positive 47.0%, Don't know 3.8%, Negative 49.2%
+White: Positive 43.1%, Don't know 1.3%, Negative 55.6%
+Other: Positive 45.8%, Don't know 3.8%, Negative 50.4%
+Partisanship
+
+Democrat: Positive 93.5%, Don't know 0.2%, Negative 6.3%
+Republican: Positive 3.2%, Don't know 0.7%, Negative 96.1%
+Independent: Positive 40.3%, Don't know 3.8%, Negative 55.9%
+2020 Vote for President
+
+Joe Biden: Positive 87.3%, Don't know 1.1%, Negative 11.6%
+Donald Trump: Positive 2.8%, Don't know 0.9%, Negative 96.3%
+Other, don't remember, didn't vote: Positive 39.7%, Don't know 3.8%, Negative 56.5%

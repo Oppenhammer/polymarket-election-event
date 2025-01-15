@@ -1,0 +1,287 @@
+ For which of these candidates on the Wisconsin ballot will you vote for in the 
+upcoming presidential election?
+Donald Trump: 48.7%
+Kamala Harris: 48.1%
+Undecided: 1.5%
+Jill Stein: 0.6%
+Other: 0.5%
+Chase Oliver: 0.5%
+Gender
+Men
+
+Trump: 53.6%
+Harris: 42.7%
+Undecided: 1.6%
+Jill Stein: 0.2%
+Chase Oliver: 0.1%
+Other: 0.6%
+Blank/null: 0%
+Women
+
+Trump: 45%
+Harris: 53.1%
+Undecided: 1.3%
+Jill Stein: 0.1%
+Chase Oliver: 0.2%
+Other: 0.2%
+Blank/null: 0%
+Other/Prefer not to identify
+
+Trump: 29.9%
+Harris: 51%
+Undecided: 3.5%
+Jill Stein: 14.6%
+Chase Oliver: 0%
+Other: 3.1%
+Blank/null: 0%
+Education
+College degree or higher
+
+Trump: 44.6%
+Harris: 52.5%
+Undecided: 1.5%
+Jill Stein: 0.5%
+Chase Oliver: 0.1%
+Other: 0.8%
+Blank/null: 0%
+All other
+
+Trump: 52.5%
+Harris: 44.1%
+Undecided: 1.7%
+Jill Stein: 0.1%
+Chase Oliver: 0.1%
+Other: 0.5%
+Blank/null: 0%
+Age
+18-29
+
+Trump: 43.6%
+Harris: 53.5%
+Undecided: 1.7%
+Jill Stein: 0.1%
+Chase Oliver: 0.7%
+Other: 0.4%
+Blank/null: 0%
+30-44
+
+Trump: 44.9%
+Harris: 51%
+Undecided: 1.4%
+Jill Stein: 0.1%
+Chase Oliver: 0.1%
+Other: 0.7%
+Blank/null: 0%
+45-64
+
+Trump: 51.4%
+Harris: 45.7%
+Undecided: 1.4%
+Jill Stein: 0.1%
+Chase Oliver: 0.1%
+Other: 0.2%
+Blank/null: 0.1%
+65+
+
+Trump: 50.8%
+Harris: 46.5%
+Undecided: 1.9%
+Jill Stein: 0%
+Chase Oliver: 0.2%
+Other: 0.1%
+Blank/null: 0.5%
+Family Income
+Below $50k
+
+Trump: 42.7%
+Harris: 52.6%
+Undecided: 3.1%
+Jill Stein: 0.6%
+Chase Oliver: 0.4%
+Other: 0.6%
+Blank/null: 0%
+$50k - $100k
+
+Trump: 49.1%
+Harris: 48%
+Undecided: 0.9%
+Jill Stein: 0.7%
+Chase Oliver: 0.2%
+Other: 0.2%
+Blank/null: 0%
+Above $100k
+
+Trump: 54.6%
+Harris: 43.8%
+Undecided: 0.7%
+Jill Stein: 0.3%
+Chase Oliver: 0.2%
+Other: 0.4%
+Blank/null: 0%
+Race
+Asian
+
+Trump: 43.3%
+Harris: 56.7%
+Undecided: 0%
+Jill Stein: 0%
+Chase Oliver: 0%
+Other: 0%
+Blank/null: 0%
+Black
+
+Trump: 45.8%
+Harris: 54.2%
+Undecided: 0%
+Jill Stein: 0%
+Chase Oliver: 0%
+Other: 0%
+Blank/null: 0%
+Hispanic
+
+Trump: 29.6%
+Harris: 70.4%
+Undecided: 0%
+Jill Stein: 0%
+Chase Oliver: 0%
+Other: 0%
+Blank/null: 0%
+White
+
+Trump: 49.8%
+Harris: 46.9%
+Undecided: 1.6%
+Jill Stein: 0.5%
+Chase Oliver: 0.5%
+Other: 0.7%
+Blank/null: 0%
+Other
+
+Trump: 48.3%
+Harris: 44.7%
+Undecided: 4.2%
+Jill Stein: 0.6%
+Chase Oliver: 0.5%
+Other: 1.8%
+Blank/null: 0%
+Partisanship
+Democrat
+
+Trump: 2.1%
+Harris: 96.9%
+Undecided: 0.8%
+Jill Stein: 0.2%
+Chase Oliver: 0%
+Other: 0%
+Blank/null: 0%
+Republican
+
+Trump: 93.6%
+Harris: 5.8%
+Undecided: 0.3%
+Jill Stein: 0%
+Chase Oliver: 0%
+Other: 0.1%
+Blank/null: 0.2%
+Independent
+
+Trump: 44.8%
+Harris: 47.2%
+Undecided: 3.5%
+Jill Stein: 0.1%
+Chase Oliver: 1.4%
+Other: 1.2%
+Blank/null: 1.8%
+Location Type
+Urban
+
+Trump: 38.7%
+Harris: 56.9%
+Undecided: 2.1%
+Jill Stein: 0.2%
+Chase Oliver: 0.2%
+Other: 0.2%
+Blank/null: 0%
+Suburban
+
+Trump: 50.6%
+Harris: 47.8%
+Undecided: 0.6%
+Jill Stein: 0.1%
+Chase Oliver: 0.1%
+Other: 0.8%
+Blank/null: 0%
+Rural
+
+Trump: 54.6%
+Harris: 42.2%
+Undecided: 1.1%
+Jill Stein: 0.1%
+Chase Oliver: 0.5%
+Other: 0.5%
+Blank/null: 0.9%
+Vote Method
+Mail-In Ballot or Absentee Ballot
+
+Trump: 25.6%
+Harris: 71.8%
+Undecided: 0.5%
+Jill Stein: 0.1%
+Chase Oliver: 0.1%
+Other: 0.5%
+Blank/null: 1.4%
+In person, Early Voting
+
+Trump: 51.7%
+Harris: 47.3%
+Undecided: 0.1%
+Jill Stein: 0.1%
+Chase Oliver: 0.1%
+Other: 0.7%
+Blank/null: 0%
+In person, on Election Day
+
+Trump: 58.2%
+Harris: 38.3%
+Undecided: 1.5%
+Jill Stein: 0.1%
+Chase Oliver: 0.1%
+Other: 0.5%
+Blank/null: 1.3%
+Don't know
+
+Trump: 48.9%
+Harris: 27.5%
+Undecided: 5.2%
+Jill Stein: 0.5%
+Chase Oliver: 0.5%
+Other: 0.5%
+Blank/null: 16.9%
+2020 Vote
+Joe Biden
+
+Trump: 5.2%
+Harris: 92.2%
+Undecided: 1.1%
+Jill Stein: 0.1%
+Chase Oliver: 0.1%
+Other: 0.1%
+Blank/null: 1.2%
+Donald Trump
+
+Trump: 95.5%
+Harris: 3.7%
+Undecided: 0.4%
+Jill Stein: 0%
+Chase Oliver: 0%
+Other: 0.1%
+Blank/null: 0.2%
+Other, don't remember, didn't vote
+
+Trump: 35.7%
+Harris: 48.6%
+Undecided: 2.4%
+Jill Stein: 0.1%
+Chase Oliver: 0.4%
+Other: 0.4%
+Blank/null: 12.4%

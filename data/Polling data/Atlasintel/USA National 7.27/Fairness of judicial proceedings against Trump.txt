@@ -1,0 +1,135 @@
+ In your opinion, are the current judicial proceedings against Donald Trump 
+motivated mainly by political persecution or a genuine interest in applying the law?
+Political persecution: 49.1%
+Genuine interest in applying the law: 42.2%
+Don't know: 8.7%
+
+Trend Over Time
+Political persecution:
+
+Feb 24: 48.5%
+Jun 24: 50.2%
+Jul 24: 49.1%
+Genuine interest in applying the law:
+
+Feb 24: 45.8%
+Jun 24: 44.1%
+Jul 24: 42.2%
+Don't know:
+
+Feb 24: 5.7%
+Jun 24: 5.6%
+Jul 24: 8.7%
+
+Gender
+Men:
+Political persecution: 55.3%
+Genuine interest: 35.7%
+Don't know: 9.1%
+Women:
+Political persecution: 43.5%
+Genuine interest: 48.2%
+Don't know: 8.3%
+Other/Prefer not to identify:
+Political persecution: 45.2%
+Genuine interest: 38.8%
+Don't know: 16%
+Age
+18-29:
+Political persecution: 41.9%
+Genuine interest: 42.3%
+Don't know: 15.8%
+30-44:
+Political persecution: 44.9%
+Genuine interest: 45.2%
+Don't know: 9.8%
+45-64:
+Political persecution: 51.1%
+Genuine interest: 42.4%
+Don't know: 6.5%
+65+:
+Political persecution: 59%
+Genuine interest: 37.7%
+Don't know: 3.3%
+Education
+College degree or higher:
+Political persecution: 43.3%
+Genuine interest: 47.8%
+Don't know: 8.9%
+All other:
+Political persecution: 53.2%
+Genuine interest: 38.3%
+Don't know: 8.5%
+Income
+Below $50k:
+Political persecution: 53.4%
+Genuine interest: 38%
+Don't know: 8.6%
+$50k - $100k:
+Political persecution: 49.6%
+Genuine interest: 42.6%
+Don't know: 7.8%
+Above $100k:
+Political persecution: 42.7%
+Genuine interest: 47.2%
+Don't know: 10.1%
+Location
+Urban:
+Political persecution: 47.6%
+Genuine interest: 44.9%
+Don't know: 7.6%
+Sub-urban:
+Political persecution: 44.2%
+Genuine interest: 44.9%
+Don't know: 10.9%
+Rural:
+Political persecution: 59.7%
+Genuine interest: 34.2%
+Don't know: 6.1%
+Race
+Asian:
+Political persecution: 49.7%
+Genuine interest: 32.9%
+Don't know: 17.4%
+Black:
+Political persecution: 24.5%
+Genuine interest: 63.6%
+Don't know: 11.9%
+Hispanic:
+Political persecution: 36.3%
+Genuine interest: 46.6%
+Don't know: 17.1%
+White:
+Political persecution: 54.7%
+Genuine interest: 38.8%
+Don't know: 6.5%
+Other:
+Political persecution: 58.4%
+Genuine interest: 35.9%
+Don't know: 5.7%
+Partisanship
+Democrat:
+Political persecution: 12.3%
+Genuine interest: 79.5%
+Don't know: 8.2%
+Republican:
+Political persecution: 83.4%
+Genuine interest: 6.2%
+Don't know: 10.4%
+Independent:
+Political persecution: 48.8%
+Genuine interest: 43.9%
+Don't know: 7.3%
+2020 Vote for President
+Joe Biden:
+Political persecution: 11%
+Genuine interest: 80%
+Don't know: 9.1%
+Donald Trump:
+Political persecution: 88.5%
+Genuine interest: 4.9%
+Don't know: 6.6%
+Other, don't remember, didn't vote:
+Political persecution: 49.3%
+Genuine interest: 35.2%
+Don't know: 15.5%

@@ -1,0 +1,134 @@
+ In your opinion, who won the debate? [Among those who say they watched the debate]
+Kamala Harris: 47.6%
+Donald Trump: 39.1%
+Neither / not sure: 13.3%
+
+Gender
+Man:
+Kamala Harris: 52.7%
+Donald Trump: 34.8%
+Neither / not sure: 12.6%
+Woman:
+Kamala Harris: 42.5%
+Donald Trump: 43.6%
+Neither / not sure: 13.9%
+Other / prefer not to identify:
+Kamala Harris: 44.2%
+Donald Trump: 34.4%
+Neither / not sure: 21.4%
+Age
+18-29:
+Kamala Harris: 61.3%
+Donald Trump: 31.3%
+Neither / not sure: 7.5%
+30-44:
+Kamala Harris: 36.4%
+Donald Trump: 54.4%
+Neither / not sure: 9.2%
+45-64:
+Kamala Harris: 45.4%
+Donald Trump: 42%
+Neither / not sure: 12.6%
+65+:
+Kamala Harris: 51.2%
+Donald Trump: 26.9%
+Neither / not sure: 21.9%
+Education
+College degree or higher:
+Kamala Harris: 53.9%
+Donald Trump: 34.8%
+Neither / not sure: 11.3%
+All other:
+Kamala Harris: 42%
+Donald Trump: 42.9%
+Neither / not sure: 15.1%
+Income
+Below $50k:
+Kamala Harris: 41.2%
+Donald Trump: 43.9%
+Neither / not sure: 14.9%
+$50k - $100k:
+Kamala Harris: 47.6%
+Donald Trump: 39.3%
+Neither / not sure: 13.2%
+Above $100k:
+Kamala Harris: 56.3%
+Donald Trump: 32.4%
+Neither / not sure: 11.3%
+Location
+Urban:
+Kamala Harris: 51.7%
+Donald Trump: 35.1%
+Neither / not sure: 13.2%
+Sub-urban:
+Kamala Harris: 48.1%
+Donald Trump: 40.6%
+Neither / not sure: 11.3%
+Rural:
+Kamala Harris: 40.7%
+Donald Trump: 41.9%
+Neither / not sure: 17.4%
+Race
+Asian:
+Kamala Harris: 43.8%
+Donald Trump: 43.6%
+Neither / not sure: 12.6%
+Black:
+Kamala Harris: 61.5%
+Donald Trump: 34.7%
+Neither / not sure: 3.9%
+Hispanic:
+Kamala Harris: 39.4%
+Donald Trump: 55.4%
+Neither / not sure: 5.2%
+White:
+Kamala Harris: 48.2%
+Donald Trump: 37.2%
+Neither / not sure: 14.6%
+Other:
+Kamala Harris: 48.6%
+Donald Trump: 33.7%
+Neither / not sure: 17.7%
+Partisanship
+Democrat:
+Kamala Harris: 92.3%
+Donald Trump: 5.6%
+Neither / not sure: 2.1%
+Republican:
+Kamala Harris: 7.6%
+Donald Trump: 71.3%
+Neither / not sure: 21.1%
+Independent:
+Kamala Harris: 52.2%
+Donald Trump: 33.4%
+Neither / not sure: 14.3%
+2020 Vote for President
+Joe Biden:
+Kamala Harris: 90.4%
+Donald Trump: 7.7%
+Neither / not sure: 1.9%
+Donald Trump:
+Kamala Harris: 6.2%
+Donald Trump: 68.6%
+Neither / not sure: 25.2%
+Other, don't remember, didn't vote:
+Kamala Harris: 43.3%
+Donald Trump: 45.5%
+Neither / not sure: 11.3%
+Vote Intention for the 2024 Election
+Kamala Harris:
+Kamala Harris: 98.6%
+Donald Trump: 0.8%
+Neither / not sure: 0.7%
+Donald Trump:
+Kamala Harris: 5.4%
+Donald Trump: 72.1%
+Neither / not sure: 22.5%
+Blank / null / won't vote:
+Kamala Harris: 0%
+Donald Trump: 0%
+Neither / not sure: 100%
+Don't know:
+Kamala Harris: 63.2%
+Donald Trump: 0%
+Neither / not sure: 36.8%

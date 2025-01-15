@@ -1,0 +1,84 @@
+For which of these candidates on the North Carolina ballot will you vote for in the 
+upcoming presidential election?
+Kamala Harris: 48.5%
+Donald Trump: 48.4%
+Undecided: 1.2%
+Jill Stein: 0.8%
+Other: 0.5%
+Chase Oliver: 0.4%
+Gender
+Kamala Harris
+Man: 49.3%
+Woman: 47.9%
+Other/prefer not to identify: 44.6%
+Donald Trump
+Man: 48.3%
+Woman: 48.4%
+Other/prefer not to identify: 51.4%
+Education
+Kamala Harris
+College degree or higher: 54.7%
+All other: 40.6%
+Donald Trump
+College degree or higher: 41.5%
+All other: 57.4%
+Age
+Kamala Harris
+18-29: 60.6%
+30-44: 56.4%
+45-64: 45.7%
+65+: 33%
+Donald Trump
+18-29: 35.5%
+30-44: 38.2%
+45-64: 53.1%
+65+: 64.3%
+Family Income
+Kamala Harris
+Below $50k: 49.4%
+$50k - $100k: 47.6%
+Above $100k: 48.5%
+Donald Trump
+Below $50k: 45.2%
+$50k - $100k: 51.7%
+Above $100k: 48.8%
+Race
+Kamala Harris
+Asian: 69.6%
+Black: 84.7%
+Hispanic: 59.1%
+White: 38.5%
+Other: 53.2%
+Donald Trump
+Asian: 23.5%
+Black: 15.3%
+Hispanic: 36.6%
+White: 57.8%
+Other: 45.8%
+Partisanship
+Kamala Harris
+Democrat: 94.2%
+Republican: 5.3%
+Independent: 49.2%
+Donald Trump
+Democrat: 4.1%
+Republican: 93.9%
+Independent: 43.8%
+Location Type
+Kamala Harris
+Urban: 55.5%
+Sub-urban: 52.5%
+Rural: 36.4%
+Donald Trump
+Urban: 39.6%
+Sub-urban: 44.6%
+Rural: 61.6%
+2020 Vote
+Kamala Harris
+Joe Biden: 93.5%
+Donald Trump: 4.3%
+Other, don't remember, didn't vote: 53.3%
+Donald Trump
+Joe Biden: 3.5%
+Donald Trump: 94.5%
+Other, don't remember, didn't vote: 35.3%

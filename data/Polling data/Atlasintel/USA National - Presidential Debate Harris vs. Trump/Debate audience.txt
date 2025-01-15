@@ -1,0 +1,103 @@
+ Did you watch the ABC News debate between Kamala Harris and Donald Trump?
+Yes: 91.8%
+No: 8.2%
+
+Gender
+Man:
+Yes: 90.8%
+No: 9.2%
+Woman:
+Yes: 93.2%
+No: 6.8%
+Other / prefer not to identify:
+Yes: 72.1%
+No: 27.9%
+Age
+18-29:
+Yes: 94.3%
+No: 5.7%
+30-44:
+Yes: 96.4%
+No: 3.6%
+45-64:
+Yes: 91.1%
+No: 8.9%
+65+:
+Yes: 87.2%
+No: 12.8%
+Education
+College degree or higher:
+Yes: 88.2%
+No: 11.8%
+All other:
+Yes: 95.2%
+No: 4.8%
+Income
+Below $50k:
+Yes: 95%
+No: 5%
+$50k - $100k:
+Yes: 90.6%
+No: 9.4%
+Above $100k:
+Yes: 89.1%
+No: 10.9%
+Location
+Urban:
+Yes: 90.7%
+No: 9.3%
+Sub-urban:
+Yes: 92.8%
+No: 7.2%
+Rural:
+Yes: 91.3%
+No: 8.7%
+Race
+Asian:
+Yes: 100%
+No: 0%
+Black:
+Yes: 84%
+No: 16%
+Hispanic:
+Yes: 94.9%
+No: 5.1%
+White:
+Yes: 91.3%
+No: 8.7%
+Other:
+Yes: 92.1%
+No: 7.9%
+Partisanship
+Democrat:
+Yes: 94.8%
+No: 5.2%
+Republican:
+Yes: 89.4%
+No: 10.6%
+Independent:
+Yes: 92%
+No: 8%
+2020 Vote for President
+Joe Biden:
+Yes: 94.9%
+No: 5.1%
+Donald Trump:
+Yes: 88.1%
+No: 11.9%
+Other, don't remember, didn't vote:
+Yes: 95.1%
+No: 4.9%
+Vote Intention for the 2024 Election
+Kamala Harris:
+Yes: 95.1%
+No: 4.9%
+Donald Trump:
+Yes: 89.6%
+No: 10.4%
+Blank / null / won't vote:
+Yes: 79.7%
+No: 20.3%
+Don't know:
+Yes: 78.3%
+No: 21.7%

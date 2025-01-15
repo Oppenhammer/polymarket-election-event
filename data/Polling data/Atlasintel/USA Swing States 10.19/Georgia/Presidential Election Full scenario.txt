@@ -1,0 +1,85 @@
+ For which of these candidates on the Georgia ballot will you vote for in the 
+upcoming presidential election?
+Donald Trump: 49.5%
+Kamala Harris: 48.1%
+Chase Oliver: 1.3%
+Undecided: 0.6%
+Blank / null / won't vote: 0.2%
+Cornel West: 0.2%
+Jill Stein: 0.2%
+Gender
+Donald Trump:
+Man: 46.7%
+Woman: 51.7%
+Other: 65.8%
+Kamala Harris:
+Man: 50.4%
+Woman: 46.3%
+Other: 34.2%
+Education
+Donald Trump:
+College degree or higher: 44.8%
+All other: 55.8%
+Kamala Harris:
+College degree or higher: 52.2%
+All other: 42.7%
+Age
+Donald Trump:
+18-29: 43.5%
+30-44: 49.3%
+45-64: 47%
+65+: 60.5%
+Kamala Harris:
+18-29: 55.8%
+30-44: 46.6%
+45-64: 51.4%
+65+: 35.8%
+Family Income
+Donald Trump:
+Below $50k: 47.4%
+$50k-$100k: 54.7%
+Above $100k: 46.3%
+Kamala Harris:
+Below $50k: 44%
+$50k-$100k: 50.4%
+Above $100k: 50.1%
+Race
+Donald Trump:
+Asian: 33.4%
+Black: 24.6%
+Hispanic: 36.3%
+White: 61.3%
+Other: 47.9%
+Kamala Harris:
+Asian: 66.6%
+Black: 73.3%
+Hispanic: 62.8%
+White: 36.2%
+Other: 45.5%
+Partisanship
+Donald Trump:
+Democrat: 2.6%
+Republican: 93.1%
+Independent: 48.3%
+Kamala Harris:
+Democrat: 97.4%
+Republican: 6.1%
+Independent: 44.9%
+Location Type
+Donald Trump:
+Urban: 40.6%
+Sub-urban: 44.9%
+Rural: 70.6%
+Kamala Harris:
+Urban: 55.9%
+Sub-urban: 52.6%
+Rural: 28.5%
+2020 Vote
+Donald Trump:
+Joe Biden: 7.3%
+Donald Trump: 96.7%
+Other, don't remember, didn't vote: 38.9%
+Kamala Harris:
+Joe Biden: 92.4%
+Donald Trump: 2.7%
+Other, don't remember, didn't vote: 41.9%

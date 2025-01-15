@@ -1,0 +1,107 @@
+ Upon Joe Biden's endorsement of Kamala Harris, do you think the Democratic Party should 
+immediately unite to nominate Harris or organize a competitive process for choosing the 
+presidential nominee?
+ [Among those who identify as Democrats]
+Immediately unite to nominate Harris: 87.1%
+Organize a competitive process for choosing the nominee: 11%
+Don't know: 1.9%
+
+Gender
+Men:
+Unite: 80.7%
+Competitive process: 16.6%
+Don't know: 2.7%
+Women:
+Unite: 90.7%
+Competitive process: 7.9%
+Don't know: 1.5%
+Other/Prefer not to identify:
+Unite: 92.6%
+Competitive process: 7.4%
+Don't know: 0%
+Age
+18-29:
+Unite: 85.9%
+Competitive process: 12.7%
+Don't know: 1.4%
+30-44:
+Unite: 85%
+Competitive process: 15%
+Don't know: 0%
+45-64:
+Unite: 87.3%
+Competitive process: 8.1%
+Don't know: 4.6%
+65+:
+Unite: 91.1%
+Competitive process: 8.9%
+Don't know: 0%
+Education
+College degree or higher:
+Unite: 93%
+Competitive process: 4.2%
+Don't know: 2.8%
+All other:
+Unite: 83%
+Competitive process: 15.7%
+Don't know: 1.3%
+Income
+Below $50k:
+Unite: 91.5%
+Competitive process: 7.2%
+Don't know: 1.3%
+$50k - $100k:
+Unite: 83.2%
+Competitive process: 15.2%
+Don't know: 1.6%
+Above $100k:
+Unite: 86%
+Competitive process: 10.7%
+Don't know: 3.2%
+Location
+Urban:
+Unite: 86.7%
+Competitive process: 12.2%
+Don't know: 1%
+Sub-urban:
+Unite: 87.4%
+Competitive process: 11.5%
+Don't know: 1.1%
+Rural:
+Unite: 86.8%
+Competitive process: 7.7%
+Don't know: 5.5%
+Race
+Asian:
+Unite: 100%
+Competitive process: 0%
+Don't know: 0%
+Black:
+Unite: 96%
+Competitive process: 4%
+Don't know: 0%
+Hispanic:
+Unite: 88.7%
+Competitive process: 11.3%
+Don't know: 0%
+White:
+Unite: 84.3%
+Competitive process: 13.1%
+Don't know: 2.6%
+Other:
+Unite: 81.7%
+Competitive process: 12.5%
+Don't know: 5.9%
+2020 Vote for President
+Joe Biden:
+Unite: 90.6%
+Competitive process: 8.5%
+Don't know: 1%
+Donald Trump:
+Unite: 43.7%
+Competitive process: 36.3%
+Don't know: 20%
+Other, don't remember, didn't vote:
+Unite: 73.5%
+Competitive process: 23.9%
+Don't know: 2.7%

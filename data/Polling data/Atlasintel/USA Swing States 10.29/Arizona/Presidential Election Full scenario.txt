@@ -1,0 +1,84 @@
+ For which of these candidates on the Arizona ballot will you vote for in the 
+upcoming presidential election?
+Donald Trump: 50.6%
+Kamala Harris: 46.4%
+Undecided: 1.8%
+Jill Stein: 1%
+Blank / Null / Won't vote: 0.1%
+Chase Oliver: 0.1%
+Gender
+Donald Trump
+Man: 53.2%
+Woman: 48.6%
+Other: 36.1%
+Kamala Harris
+Man: 43.7%
+Woman: 48.4%
+Other: 63.9%
+Education
+Donald Trump
+College degree or higher: 44%
+All other: 57.8%
+Kamala Harris
+College degree or higher: 51.7%
+All other: 40.5%
+Age
+Donald Trump
+18-29: 51.5%
+30-44: 52.2%
+45-64: 52.4%
+65+: 46.4%
+Kamala Harris
+18-29: 47%
+30-44: 40.1%
+45-64: 45.9%
+65+: 52.2%
+Family Income
+Donald Trump
+Below $50k: 46.2%
+$50k-$100k: 52.5%
+Above $100k: 53%
+Kamala Harris
+Below $50k: 51.6%
+$50k-$100k: 45.9%
+Above $100k: 41.8%
+Race
+Donald Trump
+Asian: 47.5%
+Black: 28.4%
+Hispanic: 46.3%
+White: 51.7%
+Other: 56.7%
+Kamala Harris
+Asian: 47.6%
+Black: 71.6%
+Hispanic: 49.7%
+White: 45.5%
+Other: 39.7%
+Partisanship
+Donald Trump
+Democrat: 4.4%
+Republican: 94.3%
+Independent: 46.3%
+Kamala Harris
+Democrat: 94.4%
+Republican: 5.4%
+Independent: 44.8%
+Location Type
+Donald Trump
+Urban: 45%
+Sub-urban: 52.3%
+Rural: 54.9%
+Kamala Harris
+Urban: 52.5%
+Sub-urban: 44.6%
+Rural: 41.5%
+2020 Vote
+Donald Trump
+Joe Biden: 7.2%
+Donald Trump: 96%
+Other: 51%
+Kamala Harris
+Joe Biden: 90.7%
+Donald Trump: 3%
+Other: 29.6%

@@ -1,0 +1,172 @@
+ Do you have a positive or negative image of the following political figures?
+Donald Trump:
+
+Positive: 46%
+Don't know: 3%
+Negative: 51%
+Net: -5pp
+Kamala Harris:
+
+Positive: 48%
+Don't know: 3%
+Negative: 50%
+Net: -2pp
+
+Donald Trump
+Gender
+Man:
+Positive: 51.7%
+Don't know: 4.2%
+Negative: 44.1%
+Woman:
+Positive: 42.4%
+Don't know: 3.7%
+Negative: 55.7%
+Age
+18-29:
+Positive: 42.3%
+Don't know: 2.3%
+Negative: 55.4%
+30-44:
+Positive: 41.9%
+Don't know: 2.6%
+Negative: 55.5%
+45-64:
+Positive: 48.3%
+Don't know: 1.7%
+Negative: 50.0%
+65+:
+Positive: 50.9%
+Don't know: 1.7%
+Negative: 47.4%
+Education
+College degree or higher:
+Positive: 41.7%
+Don't know: 2.5%
+Negative: 55.8%
+All other:
+Positive: 50.9%
+Don't know: 2.0%
+Negative: 47.1%
+Income
+Below $50k:
+Positive: 50.9%
+Don't know: 2.0%
+Negative: 47.1%
+$50k-$100k:
+Positive: 54.0%
+Don't know: 1.3%
+Negative: 44.7%
+Above $100k:
+Positive: 47.8%
+Don't know: 1.7%
+Negative: 50.4%
+Location
+Urban:
+Positive: 42.7%
+Don't know: 1.7%
+Negative: 55.6%
+Sub-urban:
+Positive: 47.9%
+Don't know: 2.0%
+Negative: 50.1%
+Rural:
+Positive: 54.7%
+Don't know: 1.7%
+Negative: 43.6%
+Race
+Asian:
+Positive: 54.3%
+Don't know: 4.1%
+Negative: 41.6%
+Black:
+Positive: 20.4%
+Don't know: 0.6%
+Negative: 79.0%
+Hispanic:
+Positive: 42.3%
+Don't know: 3.6%
+Negative: 54.1%
+White:
+Positive: 52.3%
+Don't know: 1.6%
+Negative: 46.1%
+Kamala Harris
+Gender
+Man:
+Positive: 39.1%
+Don't know: 5.7%
+Negative: 55.2%
+Woman:
+Positive: 54.7%
+Don't know: 4.2%
+Negative: 41.2%
+Age
+18-29:
+Positive: 52.4%
+Don't know: 2.8%
+Negative: 44.8%
+30-44:
+Positive: 47.5%
+Don't know: 4.5%
+Negative: 48.0%
+45-64:
+Positive: 45.6%
+Don't know: 5.3%
+Negative: 49.1%
+65+:
+Positive: 50.6%
+Don't know: 4.4%
+Negative: 45.0%
+Education
+College degree or higher:
+Positive: 50.3%
+Don't know: 4.2%
+Negative: 45.5%
+All other:
+Positive: 47.5%
+Don't know: 5.3%
+Negative: 47.2%
+Income
+Below $50k:
+Positive: 42.8%
+Don't know: 5.5%
+Negative: 51.7%
+$50k-$100k:
+Positive: 53.2%
+Don't know: 4.1%
+Negative: 42.7%
+Above $100k:
+Positive: 46.8%
+Don't know: 5.0%
+Negative: 48.2%
+Location
+Urban:
+Positive: 52.0%
+Don't know: 3.3%
+Negative: 44.7%
+Sub-urban:
+Positive: 46.9%
+Don't know: 4.9%
+Negative: 48.2%
+Rural:
+Positive: 42.7%
+Don't know: 5.5%
+Negative: 51.8%
+Race
+Asian:
+Positive: 36.6%
+Don't know: 7.1%
+Negative: 56.3%
+Black:
+Positive: 71.1%
+Don't know: 4.3%
+Negative: 24.6%
+Hispanic:
+Positive: 55.6%
+Don't know: 2.4%
+Negative: 42.0%
+White:
+Positive: 42.8%
+Don't know: 5.5%
+Negative: 51.7%

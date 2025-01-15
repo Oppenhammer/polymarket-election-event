@@ -1,0 +1,84 @@
+ Provided that these were the candidates, who would you vote for in the upcoming 
+presidential election?
+Donald Trump: 50.9%
+Kamala Harris: 47.3%
+Jill Stein: 0.4%
+Cornel West: 0.2%
+Blank / null / won't vote: 0.1%
+Chase Oliver: 0.1%
+Don't know: 1.1%
+
+Gender
+Donald Trump:
+Man: 55.5%
+Woman: 47%
+Other: 43.1%
+Kamala Harris:
+Man: 42.3%
+Woman: 51.7%
+Other: 45.7%
+Age
+Donald Trump:
+18-29: 47.3%
+30-44: 55.1%
+45-64: 50.6%
+65+: 49.3%
+Kamala Harris:
+18-29: 50.9%
+30-44: 42.5%
+45-64: 48.3%
+65+: 48.5%
+Education
+Donald Trump:
+College degree or higher: 44.6%
+All other: 55.6%
+Kamala Harris:
+College degree or higher: 53.2%
+All other: 42.9%
+Income
+Donald Trump:
+Below $50k: 52.9%
+$50k - $100k: 49.8%
+Above $100k: 50.1%
+Kamala Harris:
+Below $50k: 45.7%
+$50k - $100k: 48.4%
+Above $100k: 47.7%
+Location
+Donald Trump:
+Urban: 46%
+Sub-urban: 50.3%
+Rural: 59.3%
+Kamala Harris:
+Urban: 52.2%
+Sub-urban: 47.8%
+Rural: 39.1%
+Race
+Donald Trump:
+Asian: 48.8%
+Black: 25.7%
+Hispanic: 42.2%
+White: 56.9%
+Other: 49.8%
+Kamala Harris:
+Asian: 51.2%
+Black: 73.8%
+Hispanic: 54.5%
+White: 41.5%
+Other: 45.5%
+Partisanship
+Donald Trump:
+Democrat: 7.1%
+Republican: 93.7%
+Independent: 50.5%
+Kamala Harris:
+Democrat: 90.9%
+Republican: 5.8%
+Independent: 46.6%
+2020 Vote for President
+Donald Trump:
+Joe Biden: 9.6%
+Donald Trump: 96.8%
+Kamala Harris:
+Joe Biden: 88.6%
+Donald Trump: 2.2%

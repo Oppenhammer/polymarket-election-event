@@ -1,0 +1,226 @@
+ Provided that these were the candidates, who would you vote for in the upcoming 
+presidential election?
+Donald Trump: 50.7%
+Kamala Harris: 47.6%
+Jill Stein: 0.8%
+Blank / null / won't vote: 0.2%
+Chase Oliver: 0.1%
+Cornel West: 0.1%
+Don't know: 0.5%
+
+Gender
+Man
+Donald Trump: 49.8%
+Kamala Harris: 48.1%
+Jill Stein: 0.8%
+Blank / null / won't vote: 0.5%
+Chase Oliver: 0.2%
+Cornel West: 0.1%
+Don't know: 0.6%
+Woman
+Donald Trump: 51.7%
+Kamala Harris: 47.1%
+Jill Stein: 0.7%
+Blank / null / won't vote: 0%
+Chase Oliver: 0%
+Cornel West: 0%
+Don't know: 0.3%
+Other / prefer not to identify
+Donald Trump: 48.4%
+Kamala Harris: 51%
+Jill Stein: 2.7%
+Blank / null / won't vote: 0%
+Chase Oliver: 0%
+Cornel West: 0.4%
+Don't know: 5%
+Age
+18-29
+Donald Trump: 44.9%
+Kamala Harris: 50.8%
+Jill Stein: 1.8%
+Blank / null / won't vote: 1%
+Chase Oliver: 0.4%
+Cornel West: 0.1%
+Don't know: 0.9%
+30-44
+Donald Trump: 56.4%
+Kamala Harris: 41.4%
+Jill Stein: 1.4%
+Blank / null / won't vote: 0.2%
+Chase Oliver: 0.1%
+Cornel West: 0.4%
+Don't know: 0.2%
+45-64
+Donald Trump: 49.8%
+Kamala Harris: 49.1%
+Jill Stein: 0.3%
+Blank / null / won't vote: 0.2%
+Chase Oliver: 0%
+Cornel West: 0%
+Don't know: 0.7%
+65+
+Donald Trump: 50.4%
+Kamala Harris: 49.2%
+Jill Stein: 0%
+Blank / null / won't vote: 0.1%
+Chase Oliver: 0%
+Cornel West: 0.1%
+Don't know: 0.2%
+Education
+College degree or higher
+Donald Trump: 41.7%
+Kamala Harris: 56.6%
+Jill Stein: 0.9%
+Blank / null / won't vote: 0.1%
+Chase Oliver: 0.1%
+Cornel West: 0.4%
+Don't know: 0.5%
+All other
+Donald Trump: 57.8%
+Kamala Harris: 40.6%
+Jill Stein: 0.6%
+Blank / null / won't vote: 0.3%
+Chase Oliver: 0.1%
+Cornel West: 0.1%
+Don't know: 0.5%
+Income
+Below $50k
+Donald Trump: 51.1%
+Kamala Harris: 46.4%
+Jill Stein: 1.6%
+Blank / null / won't vote: 0.4%
+Chase Oliver: 0.1%
+Cornel West: 0.1%
+Don't know: 0.3%
+$50k - $100k
+Donald Trump: 53.5%
+Kamala Harris: 45.7%
+Jill Stein: 0.2%
+Blank / null / won't vote: 0.1%
+Chase Oliver: 0.1%
+Cornel West: 0.1%
+Don't know: 0.2%
+Above $100k
+Donald Trump: 46.4%
+Kamala Harris: 51.8%
+Jill Stein: 0.6%
+Blank / null / won't vote: 0.1%
+Chase Oliver: 0%
+Cornel West: 0.2%
+Don't know: 0.7%
+Location
+Urban
+Donald Trump: 45.7%
+Kamala Harris: 51.7%
+Jill Stein: 1.7%
+Blank / null / won't vote: 0.3%
+Chase Oliver: 0.1%
+Cornel West: 0.1%
+Don't know: 0.5%
+Sub-urban
+Donald Trump: 49.3%
+Kamala Harris: 49.4%
+Jill Stein: 0.4%
+Blank / null / won't vote: 0.3%
+Chase Oliver: 0.1%
+Cornel West: 0.1%
+Don't know: 0.4%
+Rural
+Donald Trump: 62%
+Kamala Harris: 36.7%
+Jill Stein: 0.4%
+Blank / null / won't vote: 0%
+Chase Oliver: 0.1%
+Cornel West: 0.3%
+Don't know: 0.6%
+Partisanship
+Democrat
+Donald Trump: 5.5%
+Kamala Harris: 93.9%
+Jill Stein: 0.3%
+Blank / null / won't vote: 0%
+Chase Oliver: 0.2%
+Cornel West: 0.2%
+Don't know: 0.1%
+Republican
+Donald Trump: 94.8%
+Kamala Harris: 4.6%
+Jill Stein: 0.1%
+Blank / null / won't vote: 0%
+Chase Oliver: 0.1%
+Cornel West: 0.2%
+Don't know: 0.1%
+Independent
+Donald Trump: 52.2%
+Kamala Harris: 43.7%
+Jill Stein: 2%
+Blank / null / won't vote: 0.7%
+Chase Oliver: 0.1%
+Cornel West: 0.2%
+Don't know: 1%
+Race
+Asian
+Donald Trump: 46.9%
+Kamala Harris: 53.1%
+Jill Stein: 0%
+Blank / null / won't vote: 0%
+Chase Oliver: 0%
+Cornel West: 0%
+Don't know: 0%
+Black
+Donald Trump: 31.5%
+Kamala Harris: 67.4%
+Jill Stein: 1.1%
+Blank / null / won't vote: 0%
+Chase Oliver: 0%
+Cornel West: 0%
+Don't know: 0%
+Hispanic
+Donald Trump: 44.4%
+Kamala Harris: 53.3%
+Jill Stein: 1.2%
+Blank / null / won't vote: 0.2%
+Chase Oliver: 0.1%
+Cornel West: 0.3%
+Don't know: 0.4%
+White
+Donald Trump: 55%
+Kamala Harris: 43.3%
+Jill Stein: 0.7%
+Blank / null / won't vote: 0.2%
+Chase Oliver: 0.1%
+Cornel West: 0.3%
+Don't know: 0.4%
+Other
+Donald Trump: 46.2%
+Kamala Harris: 51.6%
+Jill Stein: 0.7%
+Blank / null / won't vote: 0.3%
+Chase Oliver: 0.1%
+Cornel West: 0.1%
+Don't know: 1.2%
+2020 Vote for President
+Joe Biden
+Donald Trump: 9.8%
+Kamala Harris: 88.5%
+Jill Stein: 1.4%
+Blank / null / won't vote: 0.2%
+Chase Oliver: 0%
+Cornel West: 0%
+Don't know: 0.2%
+Donald Trump
+Donald Trump: 96.9%
+Kamala Harris: 2.4%
+Jill Stein: 0.1%
+Blank / null / won't vote: 0%
+Chase Oliver: 0%
+Cornel West: 0.2%
+Don't know: 0.5%
+Other, don't remember, didn't vote
+Donald Trump: 59.1%
+Kamala Harris: 35.6%
+Jill Stein: 0.5%
+Blank / null / won't vote: 2.1%
+Chase Oliver: 0.2%
+Cornel West: 0.2%
+Don't know: 1.9%

@@ -1,0 +1,197 @@
+ In a head to head race between Kamala Harris and Donald Trump, whom would you vote for?
+Donald Trump: 50%
+Kamala Harris: 48.8%
+Blank/null/won't vote: 0.9%
+Don't know: 0.2%
+
+Donald Trump
+
+50.1% (Jul 2024)
+50.9% (Sep 2024)
+50.8% (17 Oct 2024)
+49.8% (29 Oct 2024)
+49.6% (30 Oct 2024)
+49.8% (02 Nov 2024)
+50% (04 Nov 2024)
+Kamala Harris
+
+48% (Jul 2024)
+48% (Sep 2024)
+48.1% (17 Oct 2024)
+48.1% (29 Oct 2024)
+48.2% (30 Oct 2024)
+48.3% (02 Nov 2024)
+48.8% (04 Nov 2024)
+
+Donald Trump
+Gender
+
+Man: 52.7%
+Woman: 47.6%
+Other: 38.7%
+Age
+
+18-29: 42.7%
+30-44: 50.1%
+45-64: 51.8%
+65+: 51%
+Education
+
+College degree or higher: 40.8%
+All other: 57.1%
+Income
+
+Below $50k: 48.9%
+$50k - $100k: 54.6%
+Above $100k: 44.9%
+Location
+
+Urban: 40.5%
+Sub-urban: 49.4%
+Rural: 64.9%
+Race
+
+Asian: 47.1%
+Black: 25.1%
+Hispanic: 39.6%
+White: 54.3%
+Other: 44.9%
+Partisanship
+
+Democrat: 5.3%
+Republican: 93.6%
+Independent: 49.5%
+2020 Vote for President
+
+Joe Biden: 6.7%
+Donald Trump: 96.1%
+Other: 52%
+Kamala Harris
+Gender
+
+Man: 46.3%
+Woman: 51.2%
+Other: 36.2%
+Age
+
+18-29: 55.6%
+30-44: 46.5%
+45-64: 47.5%
+65+: 49%
+Education
+
+College degree or higher: 57.8%
+All other: 42%
+Income
+
+Below $50k: 49.9%
+$50k - $100k: 44.6%
+Above $100k: 53.7%
+Location
+
+Urban: 56.9%
+Sub-urban: 49.9%
+Rural: 35.1%
+Race
+
+Asian: 51.5%
+Black: 72.2%
+Hispanic: 59%
+White: 44.8%
+Other: 51.3%
+Partisanship
+
+Democrat: 93.6%
+Republican: 6.3%
+Independent: 48%
+2020 Vote for President
+
+Joe Biden: 91.8%
+Donald Trump: 3.6%
+Other: 44.2%
+Blank / Null / Won't Vote
+Gender
+
+Man: 0.8%
+Woman: 1%
+Other: 2.8%
+Age
+
+18-29: 0.9%
+30-44: 3.2%
+45-64: 0.5%
+65+: 0
+Education
+
+College degree or higher: 1.3%
+All other: 0.6%
+Income
+
+Below $50k: 1.1%
+$50k - $100k: 0.6%
+Above $100k: 1.2%
+Location
+
+Urban: 2.3%
+Sub-urban: 0.4%
+Rural: 0.1%
+Race
+
+Asian: 0%
+Black: 2.6%
+Hispanic: 1.4%
+White: 0.7%
+Other: 3.3%
+Partisanship
+
+Democrat: 1%
+Republican: 0%
+Independent: 1.8%
+2020 Vote for President
+
+Joe Biden: 1.4%
+Donald Trump: 0.1%
+Other: 2.8%
+Don't Know
+Gender
+
+Man: 0.2%
+Woman: 0.1%
+Other: 22.4%
+Age
+
+18-29: 0.8%
+30-44: 0.2%
+45-64: 0.2%
+65+: 0
+Education
+
+College degree or higher: 0.1%
+All other: 0.3%
+Income
+
+Below $50k: 0.2%
+$50k - $100k: 0.3%
+Above $100k: 0.2%
+Location
+
+Urban: 0.3%
+Sub-urban: 0.2%
+Rural: 0
+Race
+
+Asian: 1.4%
+Black: 0.1%
+Hispanic: 0%
+White: 0.2%
+Other: 0.5%
+Partisanship
+
+Democrat: 0.1%
+Republican: 0.2%
+Independent: 0.6%
+2020 Vote for President
+
+Joe Biden: 0.1%
+Donald Trump: 0.1%
+Other: 1%

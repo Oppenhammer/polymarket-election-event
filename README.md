@@ -56,9 +56,10 @@ The crawler for the polymarket event is organized under the Crawler/ directory:
 - `Raw Comments`: `raw_comments.json`        
 - `Preprocessed Data`:  `wallet_betting.json` `cleaned_wallet_betting.json` 
 - `wallets`:`user_wallets.json`  
-- `Polling data`:  
-`270towin/ JSON ：Data from pollsters in each state`  
-`realclearpolitics ：All incidents reported from 7.27-11.10`
+- `Polling data`: `The file formats are all(.txt)`   
+`270towin/ JSON ：Data from pollsters in each state`   
+`realclearpolitics ：All incidents reported from 7.27-11.10`  
+`Atlasintel:Extracted data from a PDF obtained from the Atlasintel website.`
 
   
   ____

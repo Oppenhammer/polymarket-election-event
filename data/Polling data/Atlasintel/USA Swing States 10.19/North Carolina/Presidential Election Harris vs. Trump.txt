@@ -1,0 +1,55 @@
+ In a head to head race between Kamala Harris and Donald Trump, whom would you vote for?
+Kamala Harris: 50.5%
+Donald Trump: 48.8%
+Blank / null / won't vote: 0.7%
+Undecided: 0%
+Kamala Harris
+
+Sep 2024: 50.5%
+Oct 2024: 50.5%
+Donald Trump
+
+Sep 2024: 48.1%
+Oct 2024: 48.8%
+Kamala Harris
+Gender
+Man: 52.9%
+Woman: 48.4%
+Education
+College degree or higher: 57.6%
+Age
+18-29: 58.5%
+30-44: 55.5%
+Family Income
+Below $50k: 48.5%
+Above $100k: 55.3%
+Race
+Asian: 70.7%
+Black: 77.3%
+Partisanship
+Democrat: 93.3%
+Location Type
+Urban: 55.5%
+Sub-urban: 55.7%
+2020 Vote
+Joe Biden: 93.2%
+Donald Trump
+Gender
+Man: 45.8%
+Woman: 51.5%
+Education
+College degree or higher: 41.8%
+Age
+45-64: 51.2%
+65+: 57.5%
+Family Income
+Below $50k: 51.2%
+$50k-$100k: 50.1%
+Race
+White: 56.8%
+Partisanship
+Republican: 91.9%
+Location Type
+Rural: 61.7%
+2020 Vote
+Donald Trump: 92.8%

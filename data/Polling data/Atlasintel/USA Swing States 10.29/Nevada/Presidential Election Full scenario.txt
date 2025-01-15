@@ -1,0 +1,82 @@
+ For which of these candidates on the Nevada ballot will you vote for in the 
+upcoming presidential election?
+Donald Trump: 48.4%
+Kamala Harris: 47.5%
+Undecided: 3.5%
+Other: 0.6%
+Gender
+Donald Trump
+Man: 50.7%
+Woman: 45.6%
+Other: 68.5%
+Kamala Harris
+Man: 47.9%
+Woman: 48.1%
+Other: 11.6%
+Education
+Donald Trump
+College degree or higher: 43.3%
+All other: 51.3%
+Kamala Harris
+College degree or higher: 52.4%
+All other: 45.1%
+Age
+Donald Trump
+18-29: 41.6%
+30-44: 42.8%
+45-64: 52.7%
+65+: 47.3%
+Kamala Harris
+18-29: 50.1%
+30-44: 44.5%
+45-64: 44.5%
+65+: 52%
+Family Income
+Donald Trump
+Below $50k: 53%
+$50k - $100k: 47.7%
+Above $100k: 44.6%
+Kamala Harris
+Below $50k: 40.5%
+$50k - $100k: 47.8%
+Above $100k: 54.2%
+Race
+Donald Trump
+Asian: 47.9%
+Black: 33.5%
+Hispanic: 45.3%
+White: 50.4%
+Other: 70.2%
+Kamala Harris
+Asian: 52.1%
+Black: 53.8%
+Hispanic: 51.4%
+White: 45.9%
+Other: 29.2%
+Partisanship
+Donald Trump
+Democrat: 4.3%
+Republican: 95.7%
+Independent: 48.4%
+Kamala Harris
+Democrat: 93.7%
+Republican: 4%
+Independent: 40.6%
+Location Type
+Donald Trump
+Urban: 45.1%
+Sub-urban: 48.4%
+Rural: 61.9%
+Kamala Harris
+Urban: 49.7%
+Sub-urban: 48.2%
+Rural: 36.8%
+2020 Vote
+Donald Trump
+Joe Biden: 7.2%
+Donald Trump: 96.9%
+Other: 32%
+Kamala Harris
+Joe Biden: 89.1%
+Donald Trump: 3.1%
+Other: 39.9%

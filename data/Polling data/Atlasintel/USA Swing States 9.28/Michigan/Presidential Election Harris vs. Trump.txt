@@ -1,0 +1,108 @@
+ In a head to head race between Kamala Harris and Donald Trump, whom would you vote for?
+Donald Trump: 50.6%
+Kamala Harris: 47.2%
+Blank / null / won't vote: 2.2%
+
+Gender
+Men
+Donald Trump: 46.7%
+Kamala Harris: 50.2%
+Blank / null / won't vote: 3.1%
+Women
+Donald Trump: 54.3%
+Kamala Harris: 45.7%
+Other / Prefer not to identify
+Donald Trump: 40.4%
+Kamala Harris: 4.8%
+Blank / null / won't vote: 54.8%
+Education
+College degree or higher
+Donald Trump: 41.4%
+Kamala Harris: 53.3%
+Blank / null / won't vote: 5.3%
+All other
+Donald Trump: 56.7%
+Kamala Harris: 43.1%
+Age
+18-29
+Donald Trump: 49.9%
+Kamala Harris: 49.7%
+Blank / null / won't vote: 0.4%
+30-44
+Donald Trump: 54.4%
+Kamala Harris: 39.5%
+Blank / null / won't vote: 6.1%
+45-64
+Donald Trump: 46.4%
+Kamala Harris: 51.4%
+Blank / null / won't vote: 2.1%
+65+
+Donald Trump: 53.9%
+Kamala Harris: 46.1%
+Family Income
+Below $50k
+Donald Trump: 51.1%
+Kamala Harris: 43.4%
+Blank / null / won't vote: 5.5%
+$50k - $100k
+Donald Trump: 53.2%
+Kamala Harris: 46.5%
+Blank / null / won't vote: 0.3%
+Above $100k
+Donald Trump: 47%
+Kamala Harris: 53%
+Race
+Asian
+Donald Trump: 45.2%
+Kamala Harris: 51%
+Blank / null / won't vote: 3.8%
+Black
+Donald Trump: 22.7%
+Kamala Harris: 77.3%
+Hispanic
+Donald Trump: 34.5%
+Kamala Harris: 52.6%
+Blank / null / won't vote: 12.9%
+White
+Donald Trump: 56.9%
+Kamala Harris: 41.2%
+Blank / null / won't vote: 1.9%
+Other
+Donald Trump: 64.7%
+Kamala Harris: 35.3%
+Partisanship
+Democrat
+Donald Trump: 1.1%
+Kamala Harris: 98.9%
+Republican
+Donald Trump: 96.6%
+Kamala Harris: 3.4%
+Independent
+Donald Trump: 48%
+Kamala Harris: 46.1%
+Blank / null / won't vote: 5.9%
+Location Type
+Urban
+Donald Trump: 39.3%
+Kamala Harris: 60.4%
+Blank / null / won't vote: 0.3%
+Sub-urban
+Donald Trump: 54%
+Kamala Harris: 44.3%
+Blank / null / won't vote: 1.4%
+Rural
+Donald Trump: 55%
+Kamala Harris: 38.2%
+Blank / null / won't vote: 6.8%
+2020 Vote
+Joe Biden
+Donald Trump: 8%
+Kamala Harris: 89.7%
+Blank / null / won't vote: 2.3%
+Donald Trump
+Donald Trump: 96.7%
+Kamala Harris: 3.3%
+Other, don't remember, didn't vote
+Donald Trump: 47.3%
+Kamala Harris: 41.5%
+Blank / null / won't vote: 11.1%

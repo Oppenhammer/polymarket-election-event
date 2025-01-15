@@ -1,0 +1,79 @@
+ Between Donald Trump and Kamala Harris, which candidate do you reject more?
+Kamala Harris: 50.9%
+Donald Trump: 47.5%
+Neither / don't know: 1.6%
+
+Gender
+I reject Harris:
+Man: 52.2%
+Woman: 50.1%
+Other: 42.5%
+I reject Trump:
+Man: 45.1%
+Woman: 49.3%
+Other: 41.3%
+Age
+I reject Harris:
+18-29: 38.6%
+30-44: 60.2%
+45-64: 50.3%
+65+: 50.4%
+I reject Trump:
+18-29: 57.6%
+30-44: 39%
+45-64: 48.1%
+65+: 49.3%
+Education
+I reject Harris:
+College degree or higher: 45.6%
+All other: 55.9%
+I reject Trump:
+College degree or higher: 52.5%
+All other: 42.8%
+Income
+I reject Harris:
+Below $50k: 51.4%
+$50k - $100k: 51.4%
+Above $100k: 49.4%
+I reject Trump:
+Below $50k: 46.9%
+$50k - $100k: 47.6%
+Above $100k: 48.4%
+Location
+I reject Harris:
+Urban: 46.1%
+Sub-urban: 52.2%
+Rural: 54.9%
+I reject Trump:
+Urban: 51.1%
+Sub-urban: 47.6%
+Rural: 42.5%
+Race
+I reject Harris:
+Asian: 44.4%
+Black: 29.3%
+Hispanic: 53.8%
+White: 53.6%
+Other: 49.1%
+I reject Trump:
+Asian: 55.6%
+Black: 69.9%
+Hispanic: 40.7%
+White: 46%
+Other: 39.3%
+Partisanship
+I reject Harris:
+Democrat: 4.9%
+Republican: 96%
+Independent: 50.4%
+I reject Trump:
+Democrat: 92.9%
+Republican: 3.3%
+Independent: 47.8%
+2020 Vote for President
+I reject Harris:
+Joe Biden: 11.8%
+Donald Trump: 94.9%
+I reject Trump:
+Joe Biden: 86.8%
+Donald Trump: 3.3%

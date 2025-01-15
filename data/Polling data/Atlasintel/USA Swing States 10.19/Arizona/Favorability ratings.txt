@@ -1,0 +1,100 @@
+Do you have a positive or negative image of the following political figures?
+Kamala Harris
+
+Positive: 53%
+Don't know: 1%
+Negative: 46%
+Net: +7pp
+Donald Trump
+
+Positive: 43%
+Don't know: 0%
+Negative: 57%
+Net: -14pp
+
+Kamala Harris
+Gender
+
+Man: Positive 54.1%, Negative 45.2%
+Woman: Positive 50.2%, Negative 48.1%
+Other / prefer not to identify: Positive 86.5%, Negative 13.5%
+Education
+
+College degree or higher: Positive 50.5%, Negative 47.9%
+All other: Positive 47.3%, Negative 51.2%
+Age
+
+18-29: Positive 60.3%, Negative 39.2%
+30-44: Positive 48.2%, Negative 51.3%
+45-64: Positive 40.5%, Negative 58.6%
+65+: Positive 50.6%, Negative 48.2%
+Family Income
+
+Below $50k: Positive 55.6%, Negative 44.4%
+$50k - $100k: Positive 44.4%, Negative 55.2%
+Above $100k: Positive 42.3%, Negative 56.9%
+Race
+
+Asian: Positive 93.3%, Negative 6.7%
+Black: Positive 70.1%, Negative 29.9%
+Hispanic: Positive 44.7%, Negative 55.3%
+White: Positive 51%, Negative 48.1%
+Other: Positive 37.4%, Negative 62.6%
+Partisanship
+
+Democrat: Positive 94.8%, Negative 2.9%
+Republican: Positive 5.8%, Negative 91.4%
+Independent: Positive 46.8%, Negative 52.5%
+Location Type
+
+Urban: Positive 55.1%, Negative 43.8%
+Suburban: Positive 48.8%, Negative 50.3%
+Rural: Positive 20.3%, Negative 79.7%
+2020 Vote
+
+Joe Biden: Positive 93.1%, Negative 3.1%
+Donald Trump: Positive 3.1%, Negative 96.9%
+Other, don't remember, didn't vote: Positive 65.2%, Negative 34.8%
+Donald Trump
+Gender
+
+Man: Positive 43.3%, Negative 56.7%
+Woman: Positive 42.2%, Negative 57.4%
+Other / prefer not to identify: Positive 0%, Negative 86.5%
+Education
+
+College degree or higher: Positive 36.4%, Negative 63.3%
+All other: Positive 47.9%, Negative 52.6%
+Age
+
+18-29: Positive 27.4%, Negative 72.6%
+30-44: Positive 30.4%, Negative 69.6%
+45-64: Positive 55.4%, Negative 44.4%
+65+: Positive 42.7%, Negative 56.9%
+Family Income
+
+Below $50k: Positive 42.7%, Negative 56.9%
+$50k - $100k: Positive 41%, Negative 58.6%
+Above $100k: Positive 48.6%, Negative 51.2%
+Race
+
+Asian: Positive 0%, Negative 100%
+Black: Positive 0%, Negative 100%
+Hispanic: Positive 49.4%, Negative 50.6%
+White: Positive 44.4%, Negative 55.6%
+Other: Positive 60.7%, Negative 39.3%
+Partisanship
+
+Democrat: Positive 3%, Negative 93.8%
+Republican: Positive 93.8%, Negative 3%
+Independent: Positive 38.1%, Negative 60.8%
+Location Type
+
+Urban: Positive 38.1%, Negative 60.8%
+Suburban: Positive 55.3%, Negative 43.2%
+Rural: Positive 60.1%, Negative 38.1%
+2020 Vote
+
+Joe Biden: Positive 3.8%, Negative 96.2%
+Donald Trump: Positive 96.6%, Negative 3.4%
+Other, don't remember, didn't vote: Positive 61.5%, Negative 38.5%

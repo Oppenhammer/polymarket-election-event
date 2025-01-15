@@ -1,0 +1,134 @@
+Between Donald Trump and Kamala Harris, which candidate do you reject more?
+I reject Harris: 50.1%
+I reject Trump: 48.6%
+Neither / don't know: 1.3%
+
+I Reject Harris
+Gender
+
+Man: 51.4%
+Woman: 49%
+Other: 45.7%
+Age
+
+18-29: 46.3%
+30-44: 50.7%
+45-64: 50.8%
+65+: 51.1%
+Education
+
+College degree or higher: 41.2%
+All other: 56.9%
+Income
+
+Below $50k: 48.1%
+$50k - $100k: 54.9%
+Above $100k: 44.1%
+Location
+
+Urban: 44.1%
+Sub-urban: 48.5%
+Rural: 61.4%
+Race
+
+Asian: 46%
+Black: 28.5%
+Hispanic: 42.1%
+White: 55%
+Other: 47.7%
+Partisanship
+
+Democrat: 6.4%
+Republican: 92.2%
+Independent: 47.8%
+2020 Vote for President
+
+Joe Biden: 8.8%
+Donald Trump: 96.9%
+Other, don't remember, didn't vote: 49.3%
+I Reject Trump
+Gender
+
+Man: 47.2%
+Woman: 49.9%
+Other: 46.3%
+Age
+
+18-29: 52.1%
+30-44: 45.6%
+45-64: 48.2%
+65+: 48.9%
+Education
+
+College degree or higher: 56.8%
+All other: 42.3%
+Income
+
+Below $50k: 49.2%
+$50k - $100k: 44.5%
+Above $100k: 53.6%
+Location
+
+Urban: 53.6%
+Sub-urban: 50%
+Rural: 38.1%
+Race
+
+Asian: 52.4%
+Black: 66%
+Hispanic: 55.9%
+White: 44.5%
+Other: 49.4%
+Partisanship
+
+Democrat: 93.3%
+Republican: 7.6%
+Independent: 48.4%
+2020 Vote for President
+
+Joe Biden: 89.6%
+Donald Trump: 2.7%
+Other, don't remember, didn't vote: 46.3%
+Neither / Don't Know
+Gender
+
+Man: 1.5%
+Woman: 1.1%
+Other: 8%
+Age
+
+18-29: 3.1%
+30-44: 3.1%
+45-64: 1.9%
+65+: 0.7%
+Education
+
+College degree or higher: 2.1%
+All other: 0.7%
+Income
+
+Below $50k: 2.7%
+$50k - $100k: 0.6%
+Above $100k: 0.7%
+Location
+
+Urban: 2.1%
+Sub-urban: 1.7%
+Rural: 0.7%
+Race
+
+Asian: 1.6%
+Black: 5.6%
+Hispanic: 2%
+White: 0.5%
+Other: 2.9%
+Partisanship
+
+Democrat: 0.3%
+Republican: 0.2%
+Independent: 3.7%
+2020 Vote for President
+
+Joe Biden: 1.5%
+Donald Trump: 0.4%
+Other, don't remember, didn't vote: 4.4%

@@ -1,0 +1,53 @@
+ For which of these candidates on the North Carolina ballot will you vote for in the 
+upcoming presidential election?
+Kamala Harris: 49.5%
+Donald Trump: 48.8%
+Jill Stein: 1.1%
+Other: 0.3%
+Chase Oliver: 0.1%
+Cornel West: 0.1%
+Undecided: 0.1%
+Blank / null / won't vote: 0%
+
+Kamala Harris
+Gender
+Man: 52.5%
+Woman: 46.9%
+Education
+College degree or higher: 56.1%
+Age
+18-29: 58.5%
+30-44: 54.9%
+Family Income
+Below $50k: 48.4%
+Above $100k: 54.3%
+Race
+Asian: 63%
+Black: 73.5%
+Partisanship
+Democrat: 91.2%
+Location Type
+Urban: 55.4%
+Sub-urban: 55.3%
+2020 Vote
+Joe Biden: 91%
+Donald Trump
+Gender
+Man: 45.7%
+Woman: 51.4%
+Education
+College degree or higher: 41.7%
+Age
+45-64: 51.1%
+65+: 57.5%
+Family Income
+Below $50k: 51.2%
+$50k-$100k: 50.1%
+Race
+White: 56.7%
+Partisanship
+Republican: 91%
+Location Type
+Rural: 61.6%
+2020 Vote
+Donald Trump: 92.6%

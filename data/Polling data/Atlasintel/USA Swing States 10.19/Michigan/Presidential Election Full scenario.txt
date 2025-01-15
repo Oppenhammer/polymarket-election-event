@@ -1,0 +1,82 @@
+ For which of these candidates on the Michigan ballot will you vote for in the 
+upcoming presidential election?
+Donald Trump: 49.6%
+Kamala Harris: 46.8%
+Jill Stein: 1.1%
+Undecided: 1%
+Robert F. Kennedy Jr.: 0.7%
+Blank / null / won't vote: 0.3%
+Chase Oliver: 0.2%
+Other: 0.2%
+Cornel West: 0.1%
+
+Donald Trump
+Gender
+Man: 45.8%
+Woman: 53.2%
+Other: 35.2%
+Education
+College degree or higher: 47.6%
+All other: 51%
+Age
+18-29: 50%
+30-44: 52.4%
+45-64: 47.4%
+65+: 49.7%
+Family Income
+Below $50k: 42.9%
+$50k-$100k: 57%
+Above $100k: 48.7%
+Race
+Asian: 15.5%
+Black: 47.9%
+Hispanic: 43.7%
+White: 51%
+Other: 59.6%
+Partisanship
+Democrat: 13.5%
+Republican: 97.7%
+Independent: 44%
+Location Type
+Urban: 50.3%
+Sub-urban: 47.5%
+Rural: 52.9%
+2020 Vote
+Joe Biden: 14.6%
+Donald Trump: 92.4%
+Other, don't remember, didn't vote: 38.2%
+Kamala Harris
+Gender
+Man: 49.3%
+Woman: 45.1%
+Other: 32.6%
+Education
+College degree or higher: 49%
+All other: 45.3%
+Age
+18-29: 42.8%
+30-44: 44.6%
+45-64: 49.2%
+65+: 48.7%
+Family Income
+Below $50k: 51.7%
+$50k-$100k: 40%
+Above $100k: 49%
+Race
+Asian: 84.5%
+Black: 52.1%
+Hispanic: 53.2%
+White: 44.7%
+Other: 30.4%
+Partisanship
+Democrat: 86.3%
+Republican: 1.7%
+Independent: 47.3%
+Location Type
+Urban: 48.2%
+Sub-urban: 47.4%
+Rural: 44.8%
+2020 Vote
+Joe Biden: 82.7%
+Donald Trump: 4.6%
+Other, don't remember, didn't vote: 50.9%

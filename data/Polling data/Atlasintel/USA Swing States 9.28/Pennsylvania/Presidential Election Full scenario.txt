@@ -1,0 +1,126 @@
+ For which of these candidates on the Pennsylvania ballot will you vote for in the 
+upcoming presidential election?
+Donald Trump: 50.6%
+Kamala Harris: 48%
+Undecided: 1%
+Chase Oliver: 0.4%
+Jill Stein: 0%
+Blank / null / won't vote: 0%
+
+Gender
+Men
+Donald Trump: 48.9%
+Kamala Harris: 48.3%
+Undecided: 2%
+Chase Oliver: 0.8%
+Women
+Donald Trump: 53.1%
+Kamala Harris: 46.9%
+Other / Prefer not to identify
+Donald Trump: 16.2%
+Kamala Harris: 81%
+Other: 2.8%
+Education
+College degree or higher
+Donald Trump: 37.6%
+Kamala Harris: 59.8%
+Undecided: 1.8%
+Chase Oliver: 0.7%
+All other
+Donald Trump: 65.2%
+Kamala Harris: 34.7%
+Undecided: 0.1%
+Other: 0.1%
+Age
+18-29
+Donald Trump: 54.7%
+Kamala Harris: 45.3%
+30-44
+Donald Trump: 36.3%
+Kamala Harris: 61.2%
+Undecided: 2.5%
+45-64
+Donald Trump: 55%
+Kamala Harris: 42.8%
+Undecided: 1.1%
+65+
+Donald Trump: 52.7%
+Kamala Harris: 47.2%
+Undecided: 0.1%
+Family Income
+Below $50k
+Donald Trump: 57.6%
+Kamala Harris: 42.4%
+$50k - $100k
+Donald Trump: 53.5%
+Kamala Harris: 45.9%
+Undecided: 0.6%
+Above $100k
+Donald Trump: 42.4%
+Kamala Harris: 54.3%
+Undecided: 2.2%
+Other: 0.1%
+Race
+Asian
+Donald Trump: 60.8%
+Kamala Harris: 39.2%
+Black
+Donald Trump: 46.2%
+Kamala Harris: 53.8%
+Hispanic
+Donald Trump: 39.5%
+Kamala Harris: 51.4%
+Undecided: 9.1%
+White
+Donald Trump: 51.7%
+Kamala Harris: 47.3%
+Undecided: 0.6%
+Chase Oliver: 0.5%
+Other
+Donald Trump: 45.9%
+Kamala Harris: 52.8%
+Other: 1.3%
+Partisanship
+Democrat
+Donald Trump: 9.2%
+Kamala Harris: 90.8%
+Republican
+Donald Trump: 94.4%
+Kamala Harris: 4.9%
+Undecided: 0.7%
+Independent
+Donald Trump: 65.6%
+Kamala Harris: 27.9%
+Undecided: 4.2%
+Chase Oliver: 2.2%
+Other: 0.2%
+Location Type
+Urban
+Donald Trump: 39.5%
+Kamala Harris: 59.6%
+Undecided: 0.9%
+Sub-urban
+Donald Trump: 49.2%
+Kamala Harris: 49.1%
+Undecided: 1%
+Chase Oliver: 0.6%
+Rural
+Donald Trump: 63.9%
+Kamala Harris: 34.7%
+Undecided: 1.2%
+Other: 0.2%
+2020 Vote
+Joe Biden
+Donald Trump: 9.8%
+Kamala Harris: 89%
+Undecided: 1.2%
+Donald Trump
+Donald Trump: 98.3%
+Kamala Harris: 1.1%
+Undecided: 0.6%
+Other, don't remember, didn't vote
+Donald Trump: 54.6%
+Kamala Harris: 37.2%
+Undecided: 2.7%
+Chase Oliver: 5.1%
+Other: 0.5%

@@ -1,0 +1,135 @@
+ In your opinion, should Donald Trump be disqualified from running for office due to 
+the January 6th invasion of the Capitol?
+No, he shouldn't be disqualified: 51.5%
+Yes, he should be disqualified: 46.4%
+Don't know: 2.1%
+
+Trend Over Time on Disqualifying Donald Trump
+Yes, he should be disqualified:
+
+February 24: 52.4%
+June 24: 47.2%
+July 24: 46.4%
+No, he shouldn't be disqualified:
+
+February 24: 45.5%
+June 24: 48.9%
+July 24: 51.5%
+Don't know:
+
+February 24: 2.1%
+June 24: 3.9%
+July 24: 2.1%
+
+Gender
+Man:
+No: 58.7%
+Yes: 40.2%
+Don't know: 1.1%
+Woman:
+No: 44.9%
+Yes: 52.2%
+Don't know: 2.9%
+Other / prefer not to identify:
+No: 55.7%
+Yes: 33.7%
+Don't know: 10.6%
+Age
+18-29:
+No: 46.1%
+Yes: 51.2%
+Don't know: 2.7%
+30-44:
+No: 53.6%
+Yes: 44.9%
+Don't know: 1.5%
+45-64:
+No: 49.1%
+Yes: 49.7%
+Don't know: 1.2%
+65+:
+No: 59.1%
+Yes: 37.3%
+Don't know: 3.6%
+Education
+College degree or higher:
+No: 47.4%
+Yes: 50.9%
+Don't know: 1.7%
+All other:
+No: 54.4%
+Yes: 43.3%
+Don't know: 2.3%
+Income
+Below $50k:
+No: 53.7%
+Yes: 44.4%
+Don't know: 1.9%
+$50k - $100k:
+No: 51.4%
+Yes: 45.2%
+Don't know: 3.4%
+Above $100k:
+No: 48.9%
+Yes: 50.9%
+Don't know: 0.2%
+Location
+Urban:
+No: 50.2%
+Yes: 48.4%
+Don't know: 1.4%
+Sub-urban:
+No: 45.1%
+Yes: 51.9%
+Don't know: 3.0%
+Rural:
+No: 64.3%
+Yes: 34.3%
+Don't know: 1.4%
+Race
+Asian:
+No: 47.9%
+Yes: 40.6%
+Don't know: 11.5%
+Black:
+No: 27.2%
+Yes: 70.2%
+Don't know: 2.6%
+Hispanic:
+No: 42.2%
+Yes: 56.5%
+Don't know: 1.2%
+White:
+No: 57.3%
+Yes: 40.9%
+Don't know: 1.9%
+Other:
+No: 48.4%
+Yes: 49.4%
+Don't know: 2.2%
+Partisanship
+Democrat:
+No: 7.3%
+Yes: 89.8%
+Don't know: 2.9%
+Republican:
+No: 93.9%
+Yes: 5.0%
+Don't know: 1.0%
+Independent:
+No: 49.9%
+Yes: 47.6%
+Don't know: 2.4%
+2020 Vote for President
+Joe Biden:
+No: 8.4%
+Yes: 89.4%
+Don't know: 2.2%
+Donald Trump:
+No: 95.9%
+Yes: 3.3%
+Don't know: 0.8%
+Other, don't remember, didn't vote:
+No: 52.4%
+Yes: 40.8%
+Don't know: 6.8%

@@ -1,0 +1,129 @@
+For which of these candidates on the Nevada ballot will you vote for in the 
+upcoming presidential election?
+Kamala Harris: 50.6%
+Donald Trump: 47.7%
+Jill Stein: 1%
+Undecided: 0.4%
+Blank / null / won't vote: 0.3%
+
+Gender
+Men
+Kamala Harris: 47.6%
+Donald Trump: 50.8%
+Jill Stein: 0%
+Undecided: 0.9%
+Blank / null / won't vote: 0.7%
+Women
+Kamala Harris: 53.8%
+Donald Trump: 44.3%
+Jill Stein: 1.9%
+Other / Prefer not to identify
+Kamala Harris: 26.7%
+Donald Trump: 73.3%
+Education
+College degree or higher
+Kamala Harris: 66.7%
+Donald Trump: 30.4%
+Jill Stein: 0.4%
+Undecided: 1.4%
+All other
+Kamala Harris: 43.5%
+Donald Trump: 55.3%
+Jill Stein: 1.2%
+Age
+18-29
+Kamala Harris: 59.3%
+Donald Trump: 38.6%
+Undecided: 2%
+30-44
+Kamala Harris: 56.6%
+Donald Trump: 42.3%
+Undecided: 0.3%
+45-64
+Kamala Harris: 45.2%
+Donald Trump: 52%
+Jill Stein: 2.5%
+Undecided: 0.3%
+65+
+Kamala Harris: 44.9%
+Donald Trump: 54.7%
+Undecided: 0.2%
+Blank / null / won't vote: 0.2%
+Family Income
+Below $50k
+Kamala Harris: 59.2%
+Donald Trump: 40.8%
+$50k - $100k
+Kamala Harris: 50.8%
+Donald Trump: 45.2%
+Jill Stein: 3%
+Undecided: 1%
+Above $100k
+Kamala Harris: 40.7%
+Donald Trump: 57.9%
+Jill Stein: 0.4%
+Race
+Asian
+Kamala Harris: 52.7%
+Donald Trump: 47.3%
+Black
+Kamala Harris: 73.8%
+Donald Trump: 26.2%
+Hispanic
+Kamala Harris: 54.5%
+Donald Trump: 41.4%
+Jill Stein: 3.8%
+Undecided: 0.4%
+White
+Kamala Harris: 42.3%
+Donald Trump: 56.3%
+Jill Stein: 0.2%
+Undecided: 0.6%
+Other
+Kamala Harris: 78.1%
+Donald Trump: 21.9%
+Partisanship
+Democrat
+Kamala Harris: 94.7%
+Donald Trump: 5%
+Jill Stein: 0.3%
+Republican
+Kamala Harris: 0.6%
+Donald Trump: 99.4%
+Independent
+Kamala Harris: 47.1%
+Donald Trump: 47.2%
+Jill Stein: 3.1%
+Undecided: 1.5%
+Blank / null / won't vote: 1.1%
+Location Type
+Urban
+Kamala Harris: 56%
+Donald Trump: 43.3%
+Undecided: 0.3%
+Blank / null / won't vote: 0.3%
+Sub-urban
+Kamala Harris: 43.4%
+Donald Trump: 54.1%
+Jill Stein: 1.8%
+Undecided: 0.6%
+Blank / null / won't vote: 0.1%
+Rural
+Kamala Harris: 72.3%
+Donald Trump: 26.1%
+Jill Stein: 1.5%
+2020 Vote
+Joe Biden
+Kamala Harris: 94.5%
+Donald Trump: 4.4%
+Jill Stein: 0.3%
+Undecided: 0.8%
+Donald Trump
+Kamala Harris: 1.1%
+Donald Trump: 97%
+Jill Stein: 1.9%
+Other, don't remember, didn't vote
+Kamala Harris: 62.1%
+Donald Trump: 33.6%
+Jill Stein: 1%
+Blank / null / won't vote: 3.3%

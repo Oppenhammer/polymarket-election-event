@@ -1,0 +1,80 @@
+For which of these candidates on the Michigan ballot will you vote for in the upcoming presidential election?
+Donald Trump: 49.3%
+Kamala Harris: 47.8%
+Jill Stein: 1.7%
+Chase Oliver: 0.4%
+Other: 0.4%
+Undecided: 0.3%
+Blank / null / won't vote: 0.1%
+Gender
+Donald Trump
+Man: 55.6%
+Woman: 44%
+Other / prefer not to identify: 32.7%
+Kamala Harris
+Man: 40.5%
+Woman: 54.1%
+Other / prefer not to identify: 62.4%
+Education
+Donald Trump
+College degree or higher: 41.4%
+All other: 54.7%
+Kamala Harris
+College degree or higher: 53.4%
+All other: 46.1%
+Age
+Donald Trump
+18-29: 44%
+30-44: 43.8%
+45-64: 57.7%
+65+: 44.2%
+Kamala Harris
+18-29: 50.6%
+30-44: 52.9%
+45-64: 38.2%
+65+: 55.8%
+Family Income
+Donald Trump
+Below $50k: 55%
+$50k - $100k: 48%
+Above $100k: 44.5%
+Kamala Harris
+Below $50k: 43.3%
+$50k - $100k: 50.2%
+Above $100k: 50.4%
+Partisanship
+Donald Trump
+Democrat: 6.2%
+Republican: 96.3%
+Independent: 45.7%
+Kamala Harris
+Democrat: 91.9%
+Republican: 3.7%
+Independent: 47.9%
+Location Type
+Donald Trump
+Urban: 45.7%
+Sub-urban: 49.6%
+Rural: 54.4%
+Kamala Harris
+Urban: 47.9%
+Sub-urban: 48.7%
+Rural: 42.2%
+Race
+Donald Trump
+Asian: 42.2%
+Black: 38.6%
+Hispanic: 41.2%
+White: 51%
+Kamala Harris
+Asian: 42.2%
+Black: 55.3%
+Hispanic: 58.8%
+White: 47%
+2020 Vote
+Donald Trump
+Joe Biden: 7.3%
+Donald Trump: 94.7%
+Kamala Harris
+Joe Biden: 88.3%
+Donald Trump: 3.4%

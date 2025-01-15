@@ -1,0 +1,98 @@
+ For which of these candidates on the Wisconsin ballot will you vote for in the upcoming presidential election?
+Donald Trump: 49.3%
+Kamala Harris: 48%
+Undecided: 1.5%
+Jill Stein: 0.7%
+Other: 0.5%
+Blank / null / won't vote: 0%
+Chase Oliver: 0%
+Gender
+Donald Trump
+
+Man: 54.7%
+Woman: 45.1%
+Other / prefer not to identify: 21.4%
+Kamala Harris
+
+Man: 43.7%
+Woman: 51.9%
+Other / prefer not to identify: 49.8%
+Education
+Donald Trump
+
+College degree or higher: 41.2%
+All other: 56.3%
+Kamala Harris
+
+College degree or higher: 55%
+All other: 42%
+Age
+Donald Trump
+
+18-29: 50.3%
+30-44: 41%
+45-64: 57.5%
+65+: 42%
+Kamala Harris
+
+18-29: 47.6%
+30-44: 55.5%
+45-64: 39.3%
+65+: 57.1%
+Family Income
+Donald Trump
+
+Below $50k: 38%
+$50k-$100k: 55.6%
+Above $100k: 55%
+Kamala Harris
+
+Below $50k: 57.7%
+$50k-$100k: 42.4%
+Above $100k: 43.3%
+Partisanship
+Donald Trump
+
+Democrat: 1.9%
+Republican: 95.3%
+Independent: 45.6%
+Kamala Harris
+
+Democrat: 96.5%
+Republican: 4.4%
+Independent: 47.9%
+Location Type
+Donald Trump
+
+Urban: 42%
+Sub-urban: 50.2%
+Rural: 53.5%
+Kamala Harris
+
+Urban: 53.4%
+Sub-urban: 48.3%
+Rural: 43.6%
+Race
+Donald Trump
+
+Asian: 48.6%
+Black: 64.8%
+Hispanic: 23.9%
+White: 50.1%
+Kamala Harris
+
+Asian: 51.4%
+Black: 35.2%
+Hispanic: 76.1%
+White: 47.2%
+2020 Vote
+Donald Trump
+
+Joe Biden: 3.2%
+Donald Trump: 97.2%
+Other, don't remember, didn't vote: 41.3%
+Kamala Harris
+
+Joe Biden: 92.9%
+Donald Trump: 1.8%
+Other, don't remember, didn't vote: 53.5%

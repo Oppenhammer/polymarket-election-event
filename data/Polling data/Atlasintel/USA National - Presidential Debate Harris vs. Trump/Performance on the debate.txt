@@ -1,0 +1,86 @@
+ How would you grade each candidate's performance on the debate?
+All voters:
+
+Donald Trump: C+
+Kamala Harris: B-
+Democrats:
+
+Donald Trump: D
+Kamala Harris: A-
+Independents:
+
+Donald Trump: C
+Kamala Harris: B-
+Republicans:
+
+Donald Trump: B+
+Kamala Harris: C-
+Trump voters:
+
+Donald Trump: B+
+Kamala Harris: C-
+Kamala voters:
+
+Donald Trump: D
+Kamala Harris: A-
+
+Gender
+Man:
+Donald Trump: C+
+Kamala Harris: B-
+Woman:
+Donald Trump: C+
+Kamala Harris: C+
+Age
+18-29:
+Donald Trump: C
+Kamala Harris: B
+30-44:
+Donald Trump: B-
+Kamala Harris: C+
+45-64:
+Donald Trump: C+
+Kamala Harris: C+
+60+:
+Donald Trump: C
+Kamala Harris: B-
+Educational Level
+College degree or higher:
+Donald Trump: C+
+Kamala Harris: B-
+All other:
+Donald Trump: C+
+Kamala Harris: C+
+Family Income
+Below $50k:
+Donald Trump: C+
+Kamala Harris: C+
+$50k-$100k:
+Donald Trump: C+
+Kamala Harris: B-
+Above $100k:
+Donald Trump: C
+Kamala Harris: B-
+Location Type
+Rural:
+Donald Trump: C+
+Kamala Harris: C+
+Sub-urban:
+Donald Trump: C+
+Kamala Harris: B-
+Urban:
+Donald Trump: C
+Kamala Harris: B-
+Race
+Asian:
+Donald Trump: B+
+Kamala Harris: B-
+Black:
+Donald Trump: C
+Kamala Harris: B-
+Hispanic:
+Donald Trump: C+
+Kamala Harris: B-
+White:
+Donald Trump: C
+Kamala Harris: B-

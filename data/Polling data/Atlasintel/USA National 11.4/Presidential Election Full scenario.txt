@@ -1,0 +1,317 @@
+ Provided that these were the candidates, who would you vote for in the upcoming presidential election?
+Donald Trump: 49.2%
+Kamala Harris: 48.1%
+Jill Stein: 1.1%
+Blank/null/won't vote: 0.4%
+Cornel West: 0.3%
+Chase Oliver: 0.1%
+Don't know: 0.8%
+
+Donald Trump
+Gender
+
+Man: 51.6%
+Woman: 47%
+Other: 36.7%
+Age
+
+18-29: 40%
+30-44: 49.8%
+45-64: 51.1%
+65+: 50.3%
+Education
+
+College degree or higher: 39.2%
+All other: 56.8%
+Income
+
+Below $50k: 48.9%
+$50k - $100k: 52.7%
+Above $100k: 44.3%
+Location
+
+Urban: 39.1%
+Sub-urban: 48.4%
+Rural: 65%
+Partisanship
+
+Democrat: 4.2%
+Republican: 93.1%
+Independent: 48.6%
+Race
+
+Asian: 35.9%
+Black: 23%
+Hispanic: 39.6%
+White: 53.9%
+Other: 44.6%
+2020 Vote for President
+
+Mail-in Ballot or Absentee Ballot: 32.6%
+In person, Early Voting: 52.9%
+In person, on Election Day: 59.7%
+Don't know: 56.2%
+Kamala Harris
+Gender
+
+Man: 45.7%
+Woman: 50.3%
+Other: 34.2%
+Age
+
+18-29: 53.1%
+30-44: 45.4%
+45-64: 47.4%
+65+: 48.4%
+Education
+
+College degree or higher: 56.7%
+All other: 41.5%
+Income
+
+Below $50k: 48.5%
+$50k - $100k: 44.3%
+Above $100k: 53%
+Location
+
+Urban: 55.9%
+Sub-urban: 49.1%
+Rural: 34.7%
+Partisanship
+
+Democrat: 93.2%
+Republican: 6.2%
+Independent: 46.1%
+Race
+
+Asian: 51.5%
+Black: 71%
+Hispanic: 58.4%
+White: 44%
+Other: 51.3%
+2020 Vote for President
+
+Mail-in Ballot or Absentee Ballot: 63%
+In person, Early Voting: 45.9%
+In person, on Election Day: 36.7%
+Don't know: 42.4%
+Jill Stein
+Gender
+
+Man: 1.2%
+Woman: 1%
+Other: 2.8%
+Age
+
+18-29: 3.9%
+30-44: 1.8%
+45-64: 0.7%
+65+: 0
+Education
+
+College degree or higher: 1.8%
+All other: 0.6%
+Income
+
+Below $50k: 1.2%
+$50k - $100k: 1.3%
+Above $100k: 0.7%
+Location
+
+Urban: 2.8%
+Sub-urban: 0.5%
+Rural: 0.4%
+Partisanship
+
+Democrat: 1.5%
+Republican: 0.1%
+Independent: 1.5%
+Race
+
+Asian: 9.6%
+Black: 0.7%
+Hispanic: 1.7%
+White: 0.7%
+Other: 0.3%
+2020 Vote for President
+
+Mail-in Ballot or Absentee Ballot: 2.1%
+In person, Early Voting: 1%
+In person, on Election Day: 0.5%
+Don't know: 1.1%
+Blank / Null / Won't Vote
+Gender
+
+Man: 0.4%
+Woman: 0.4%
+Other: 1.1%
+Age
+
+18-29: 0.1%
+30-44: 0.1%
+45-64: 0.2%
+65+: 0
+Education
+
+College degree or higher: 0.9%
+All other: 0.9%
+Income
+
+Below $50k: 0%
+$50k - $100k: 0.4%
+Above $100k: 0.4%
+Location
+
+Urban: 0.7%
+Sub-urban: 0.4%
+Rural: 0.4%
+Partisanship
+
+Democrat: 0.6%
+Republican: 0%
+Independent: 0.6%
+Race
+
+Asian: 0%
+Black: 2.6%
+Hispanic: 0.3%
+White: 0.3%
+Other: 0.1%
+2020 Vote for President
+
+Mail-in Ballot or Absentee Ballot: 0.5%
+In person, Early Voting: 0.1%
+In person, on Election Day: 0.1%
+Don't know: 0.3%
+Cornel West
+Gender
+
+Man: 0.2%
+Woman: 0.3%
+Other: 0.4%
+Age
+
+18-29: 0.1%
+30-44: 0.1%
+45-64: 0.2%
+65+: 0.3%
+Education
+
+College degree or higher: 0.4%
+All other: 0.2%
+Income
+
+Below $50k: 0.2%
+$50k - $100k: 0.3%
+Above $100k: 0.3%
+Location
+
+Urban: 0.3%
+Sub-urban: 0.4%
+Rural: 0.4%
+Partisanship
+
+Democrat: 0.5%
+Republican: 0%
+Independent: 0.5%
+Race
+
+Asian: 0%
+Black: 0.2%
+Hispanic: 0.2%
+White: 0.2%
+Other: 0.1%
+2020 Vote for President
+
+Mail-in Ballot or Absentee Ballot: 0.5%
+In person, Early Voting: 0.1%
+In person, on Election Day: 0.1%
+Don't know: 0.3%
+Chase Oliver
+Gender
+
+Man: 0.3%
+Woman: 0%
+Other: 0.4%
+Age
+
+18-29: 0%
+30-44: 0%
+45-64: 0.8%
+65+: 0.4%
+Education
+
+College degree or higher: 0.1%
+All other: 0.2%
+Income
+
+Below $50k: 0%
+$50k - $100k: 0.3%
+Above $100k: 0.3%
+Location
+
+Urban: 0.3%
+Sub-urban: 0.4%
+Rural: 0.4%
+Partisanship
+
+Democrat: 0.5%
+Republican: 0%
+Independent: 0.5%
+Race
+
+Asian: 0%
+Black: 0.3%
+Hispanic: 0.3%
+White: 0.2%
+Other: 0.1%
+2020 Vote for President
+
+Mail-in Ballot or Absentee Ballot: 0.5%
+In person, Early Voting: 0.1%
+In person, on Election Day: 0.1%
+Don't know: 0.3%
+Don't Know
+Gender
+
+Man: 0.6%
+Woman: 0.9%
+Other: 24.5%
+Age
+
+18-29: 2.6%
+30-44: 0.4%
+45-64: 0.4%
+65+: 0.4%
+Education
+
+College degree or higher: 0.8%
+All other: 0.8%
+Income
+
+Below $50k: 1.2%
+$50k - $100k: 0.6%
+Above $100k: 0.8%
+Location
+
+Urban: 1%
+Sub-urban: 1.1%
+Rural: 0.2%
+Partisanship
+
+Democrat: 0.1%
+Republican: 0.6%
+Independent: 1.9%
+Race
+
+Asian: 3%
+Black: 0.5%
+Hispanic: 0.5%
+White: 1.1%
+Other: 0.3%
+2020 Vote for President
+
+Mail-in Ballot or Absentee Ballot: 1.1%
+In person, Early Voting: 1.8%
+In person, on Election Day: 0.3%
+Don't know: 0.3%

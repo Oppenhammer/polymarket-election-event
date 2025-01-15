@@ -1,0 +1,232 @@
+ For which of these candidates on the Ohio ballot will you vote for in the upcoming 
+presidential election?
+Donald Trump: 53.5%
+Kamala Harris: 44.6%
+Jill Stein: 1%
+Blank / null / won't vote: 0.3%
+Chase Oliver: 0.3%
+Undecided: 0.2%
+Gender
+
+Man:
+
+Donald Trump: 61.2%
+Kamala Harris: 37%
+Jill Stein: 1%
+Blank / null / won't vote: 0.2%
+Chase Oliver: 0.5%
+Undecided: 0.2%
+Woman:
+
+Donald Trump: 47.3%
+Kamala Harris: 51%
+Jill Stein: 0.1%
+Blank / null / won't vote: 0.4%
+Chase Oliver: 0%
+Undecided: 0.2%
+Other / prefer not to identify:
+
+Donald Trump: 29.7%
+Kamala Harris: 62.7%
+Jill Stein: 0%
+Blank / null / won't vote: 0%
+Chase Oliver: 1%
+Undecided: 1.5%
+Education
+
+College degree or higher:
+
+Donald Trump: 52.4%
+Kamala Harris: 44.5%
+Jill Stein: 0.1%
+Blank / null / won't vote: 0.4%
+Chase Oliver: 0.7%
+Undecided: 1.5%
+All other:
+
+Donald Trump: 54.6%
+Kamala Harris: 44.7%
+Jill Stein: 0.2%
+Blank / null / won't vote: 0.1%
+Chase Oliver: 0.3%
+Undecided: 0.1%
+Age
+
+18-29:
+
+Donald Trump: 48.9%
+Kamala Harris: 46.6%
+Jill Stein: 2.7%
+Blank / null / won't vote: 0%
+Chase Oliver: 1.7%
+Undecided: 0.1%
+30-44:
+
+Donald Trump: 46.9%
+Kamala Harris: 47.5%
+Jill Stein: 0.5%
+Blank / null / won't vote: 0.5%
+Chase Oliver: 0.8%
+Undecided: 0.1%
+45-64:
+
+Donald Trump: 59.7%
+Kamala Harris: 39.4%
+Jill Stein: 0.2%
+Blank / null / won't vote: 0%
+Chase Oliver: 0%
+Undecided: 0.4%
+65+:
+
+Donald Trump: 50.6%
+Kamala Harris: 49.2%
+Jill Stein: 0%
+Blank / null / won't vote: 0%
+Chase Oliver: 0%
+Undecided: 0.2%
+Family Income
+
+Below $50k:
+
+Donald Trump: 50.1%
+Kamala Harris: 48.2%
+Jill Stein: 0.1%
+Blank / null / won't vote: 0%
+Chase Oliver: 0.7%
+Undecided: 0%
+$50k - $100k:
+
+Donald Trump: 55.4%
+Kamala Harris: 43.8%
+Jill Stein: 0.6%
+Blank / null / won't vote: 0%
+Chase Oliver: 0.1%
+Undecided: 0.1%
+Above $100k:
+
+Donald Trump: 55.7%
+Kamala Harris: 41.1%
+Jill Stein: 1.5%
+Blank / null / won't vote: 0%
+Chase Oliver: 0.6%
+Undecided: 1.1%
+Partisanship
+
+Democrat:
+
+Donald Trump: 5.1%
+Kamala Harris: 93.2%
+Jill Stein: 0.1%
+Blank / null / won't vote: 0%
+Chase Oliver: 0%
+Undecided: 1.6%
+Republican:
+
+Donald Trump: 94.8%
+Kamala Harris: 4.3%
+Jill Stein: 0.1%
+Blank / null / won't vote: 0%
+Chase Oliver: 0.1%
+Undecided: 0.6%
+Independent:
+
+Donald Trump: 49.9%
+Kamala Harris: 48.6%
+Jill Stein: 0.2%
+Blank / null / won't vote: 0%
+Chase Oliver: 0.5%
+Undecided: 0.9%
+Location type
+
+Urban:
+
+Donald Trump: 45%
+Kamala Harris: 49.9%
+Jill Stein: 2%
+Blank / null / won't vote: 0.9%
+Chase Oliver: 1.3%
+Undecided: 0.9%
+Sub-urban:
+
+Donald Trump: 49.4%
+Kamala Harris: 48.6%
+Jill Stein: 1%
+Blank / null / won't vote: 0.6%
+Chase Oliver: 0.3%
+Undecided: 0.2%
+Rural:
+
+Donald Trump: 61.8%
+Kamala Harris: 37.4%
+Jill Stein: 0.3%
+Blank / null / won't vote: 0%
+Chase Oliver: 0%
+Undecided: 0.5%
+Race
+
+Asian:
+
+Donald Trump: 18.2%
+Kamala Harris: 81.8%
+Jill Stein: 0%
+Blank / null / won't vote: 0%
+Chase Oliver: 0%
+Undecided: 0%
+Black:
+
+Donald Trump: 27.9%
+Kamala Harris: 72.1%
+Jill Stein: 0%
+Blank / null / won't vote: 0%
+Chase Oliver: 0%
+Undecided: 0%
+Hispanic:
+
+Donald Trump: 41.8%
+Kamala Harris: 58.2%
+Jill Stein: 0%
+Blank / null / won't vote: 0%
+Chase Oliver: 0%
+Undecided: 0%
+White:
+
+Donald Trump: 57.4%
+Kamala Harris: 40.5%
+Jill Stein: 0.1%
+Blank / null / won't vote: 0%
+Chase Oliver: 0%
+Undecided: 2%
+Other:
+
+Donald Trump: 57.3%
+Kamala Harris: 42.7%
+Jill Stein: 0%
+Blank / null / won't vote: 0%
+Chase Oliver: 0%
+Undecided: 0%
+2020 vote
+
+Joe Biden:
+
+Donald Trump: 4.5%
+Kamala Harris: 94.4%
+Jill Stein: 0.3%
+Blank / null / won't vote: 0%
+Chase Oliver: 0%
+Undecided: 0.8%
+Donald Trump:
+
+Donald Trump: 96.3%
+Kamala Harris: 3.3%
+Jill Stein: 0%
+Blank / null / won't vote: 0%
+Chase Oliver: 0%
+Undecided: 0.4%
+Other, don't remember, didn't vote:
+
+Donald Trump: 36.7%
+Kamala Harris: 50%
+Jill Stein: 3.1%
+Blank / null / won't vote: 0.1%
+Chase Oliver: 0.6%
+Undecided: 1.5%

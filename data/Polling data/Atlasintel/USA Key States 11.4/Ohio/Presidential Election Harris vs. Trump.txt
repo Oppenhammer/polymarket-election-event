@@ -1,0 +1,81 @@
+ In a head to head race between Kamala Harris and Donald Trump, whom would you vote for?
+Donald Trump: 53.7%
+Kamala Harris: 45.2%
+Blank/null/won't vote: 0.9%
+Undecided: 0.2%
+Gender
+Donald Trump
+Man: 61.4%
+Woman: 47.2%
+Other/prefer not to identify: 35.8%
+Kamala Harris
+Man: 38%
+Woman: 51.2%
+Other/prefer not to identify: 62.7%
+Education
+Donald Trump
+College degree or higher: 45.2%
+All other: 54.6%
+Kamala Harris
+College degree or higher: 52.7%
+All other: 45.2%
+Age
+Donald Trump
+18-29: 49.4%
+30-44: 47.8%
+45-64: 59.5%
+65+: 50.6%
+Kamala Harris
+18-29: 48.2%
+30-44: 50.3%
+45-64: 39.6%
+65+: 49.2%
+Family Income
+Donald Trump
+Below $50k: 50.5%
+$50k-$100k: 55.4%
+Above $100k: 55.8%
+Kamala Harris
+Below $50k: 49.1%
+$50k-$100k: 43%
+Above $100k: 41.5%
+Partisanship
+Donald Trump
+Democrat: 5.1%
+Republican: 94.9%
+Independent: 45.5%
+Kamala Harris
+Democrat: 93.4%
+Republican: 5.1%
+Independent: 52.1%
+Location Type
+Donald Trump
+Urban: 45.5%
+Sub-urban: 49.7%
+Rural: 61.8%
+Kamala Harris
+Urban: 52.1%
+Sub-urban: 50.3%
+Rural: 37.7%
+Race
+Donald Trump
+Asian: 18.2%
+Black: 27.9%
+Hispanic: 41.8%
+White: 57.5%
+Other: 53.3%
+Kamala Harris
+Asian: 81.8%
+Black: 72.1%
+Hispanic: 58.2%
+White: 41.3%
+Other: 46.7%
+2020 Vote
+Donald Trump
+Joe Biden: 3.7%
+Donald Trump: 95.1%
+Other/didn't vote: 38.4%
+Kamala Harris
+Joe Biden: 96.2%
+Donald Trump: 3.4%
+Other/didn't vote: 53.1%

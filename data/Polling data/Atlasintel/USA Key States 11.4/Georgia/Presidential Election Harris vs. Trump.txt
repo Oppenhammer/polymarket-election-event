@@ -1,0 +1,193 @@
+ In a head to head race between Kamala Harris and Donald Trump, whom would you vote for?
+Donald Trump: 49.9%
+Kamala Harris: 48.3%
+Blank / null / won't vote: 1.1%
+Undecided: 0.7%
+Donald Trump
+
+25 Sep 2024: 49.6%
+17 Oct 2024: 50.1%
+29 Oct 2024: 50.9%
+30 Oct 2024: 50.1%
+2 Nov 2024: 50.1%
+4 Nov 2024: 49.9%
+Kamala Harris
+
+25 Sep 2024: 49%
+17 Oct 2024: 48.4%
+29 Oct 2024: 47.5%
+30 Oct 2024: 47.8%
+2 Nov 2024: 47.6%
+4 Nov 2024: 48.3%
+Gender
+
+Man:
+
+Donald Trump: 50.8%
+Kamala Harris: 45.8%
+Blank / null / won't vote: 2.1%
+Undecided: 1.2%
+Woman:
+
+Donald Trump: 48.8%
+Kamala Harris: 50.8%
+Blank / null / won't vote: 0.2%
+Undecided: 0.3%
+Other / prefer not to identify:
+
+Donald Trump: 61.2%
+Kamala Harris: 38.8%
+Blank / null / won't vote: 0%
+Undecided: 0%
+Education
+
+College degree or higher:
+
+Donald Trump: 47.6%
+Kamala Harris: 50.7%
+Blank / null / won't vote: 0.3%
+Undecided: 1.4%
+All other:
+
+Donald Trump: 52.3%
+Kamala Harris: 45.8%
+Blank / null / won't vote: 1.9%
+Undecided: 0%
+Age
+
+18-29:
+
+Donald Trump: 42%
+Kamala Harris: 56.7%
+Blank / null / won't vote: 1.2%
+Undecided: 0.1%
+30-44:
+
+Donald Trump: 45.1%
+Kamala Harris: 54.5%
+Blank / null / won't vote: 0.4%
+Undecided: 0%
+45-64:
+
+Donald Trump: 52%
+Kamala Harris: 45.3%
+Blank / null / won't vote: 1.1%
+Undecided: 1.5%
+65+:
+
+Donald Trump: 56.1%
+Kamala Harris: 41.9%
+Blank / null / won't vote: 1.6%
+Undecided: 0.5%
+Family Income
+
+Below $50k:
+
+Donald Trump: 53.4%
+Kamala Harris: 44.6%
+Blank / null / won't vote: 2%
+Undecided: 0%
+$50k - $100k:
+
+Donald Trump: 52.5%
+Kamala Harris: 47%
+Blank / null / won't vote: 0.1%
+Undecided: 0.4%
+Above $100k:
+
+Donald Trump: 42.4%
+Kamala Harris: 54.6%
+Blank / null / won't vote: 1.1%
+Undecided: 2%
+Partisanship
+
+Democrat:
+
+Donald Trump: 1.4%
+Kamala Harris: 97.9%
+Blank / null / won't vote: 0.6%
+Undecided: 0%
+Republican:
+
+Donald Trump: 96.1%
+Kamala Harris: 3.5%
+Blank / null / won't vote: 0.3%
+Undecided: 0%
+Independent:
+
+Donald Trump: 40.5%
+Kamala Harris: 54.3%
+Blank / null / won't vote: 2.2%
+Undecided: 3%
+Location type
+
+Urban:
+
+Donald Trump: 42.5%
+Kamala Harris: 54.4%
+Blank / null / won't vote: 3.1%
+Undecided: 0%
+Sub-urban:
+
+Donald Trump: 45.3%
+Kamala Harris: 52.7%
+Blank / null / won't vote: 0.8%
+Undecided: 1.2%
+Rural:
+
+Donald Trump: 71.2%
+Kamala Harris: 28.8%
+Blank / null / won't vote: 0%
+Undecided: 0%
+2020 vote
+
+Joe Biden:
+
+Donald Trump: 2.1%
+Kamala Harris: 97.7%
+Blank / null / won't vote: 0.1%
+Undecided: 0%
+Donald Trump:
+
+Donald Trump: 95.4%
+Kamala Harris: 3.3%
+Blank / null / won't vote: 1%
+Undecided: 0.2%
+Other, don't remember, didn't vote:
+
+Donald Trump: 51.1%
+Kamala Harris: 37.5%
+Blank / null / won't vote: 5.9%
+Undecided: 5.5%
+Race
+
+Asian:
+
+Donald Trump: 48.4%
+Kamala Harris: 51.6%
+Blank / null / won't vote: 0%
+Undecided: 0%
+Black:
+
+Donald Trump: 24.9%
+Kamala Harris: 72.8%
+Blank / null / won't vote: 0.3%
+Undecided: 2%
+Hispanic:
+
+Donald Trump: 39.5%
+Kamala Harris: 53.2%
+Blank / null / won't vote: 0.9%
+Undecided: 6.3%
+White:
+
+Donald Trump: 61.6%
+Kamala Harris: 37%
+Blank / null / won't vote: 0.5%
+Undecided: 0.9%
+Other:
+
+Donald Trump: 59.2%
+Kamala Harris: 40.8%
+Blank / null / won't vote: 0%
+Undecided: 0%

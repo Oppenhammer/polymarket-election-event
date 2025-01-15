@@ -1,0 +1,84 @@
+ For which of these candidates on the Pennsylvania ballot will you vote for in the 
+upcoming presidential election?
+Donald Trump: 48.7%
+Kamala Harris: 46.6%
+Undecided: 2.9%
+Jill Stein: 0.9%
+Chase Oliver: 0.6%
+Blank/null/won't vote: 0.3%
+Gender
+Donald Trump
+Man: 51%
+Woman: 47.3%
+Other/prefer not to identify: 36.2%
+Kamala Harris
+Man: 42.8%
+Woman: 49.7%
+Other/prefer not to identify: 49.1%
+Education
+Donald Trump
+College degree or higher: 37.8%
+All other: 61.7%
+Kamala Harris
+College degree or higher: 55.6%
+All other: 35.9%
+Age
+Donald Trump
+18-29: 46.5%
+30-44: 36.7%
+45-64: 55.1%
+65+: 54.4%
+Kamala Harris
+18-29: 37.4%
+30-44: 59.1%
+45-64: 41.9%
+65+: 45.6%
+Family Income
+Donald Trump
+Below $50k: 52.3%
+$50k - $100k: 52.7%
+Above $100k: 42.4%
+Kamala Harris
+Below $50k: 41.2%
+$50k - $100k: 42.2%
+Above $100k: 55%
+Race
+Donald Trump
+Asian: 42.8%
+Black: 21.2%
+Hispanic: 40.6%
+White: 53.9%
+Other: 48.5%
+Kamala Harris
+Asian: 55.2%
+Black: 68.2%
+Hispanic: 57%
+White: 42.5%
+Other: 37.8%
+Partisanship
+Donald Trump
+Democrat: 9.8%
+Republican: 88.3%
+Independent: 41.2%
+Kamala Harris
+Democrat: 89.3%
+Republican: 8.9%
+Independent: 40.4%
+Location Type
+Donald Trump
+Urban: 31.9%
+Sub-urban: 50.3%
+Rural: 59.6%
+Kamala Harris
+Urban: 59.4%
+Sub-urban: 47%
+Rural: 35%
+2020 Vote
+Donald Trump
+Joe Biden: 6.6%
+Donald Trump: 95.9%
+Other, don't remember, didn't vote: 38.2%
+Kamala Harris
+Joe Biden: 90%
+Donald Trump: 1.1%
+Other, don't remember, didn't vote: 43%

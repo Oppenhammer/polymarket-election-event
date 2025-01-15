@@ -1,0 +1,191 @@
+In your opinion, what is the likelihood that Donald Trump will be disqualified from the presidential race?
+
+Low: 34.4%
+None: 24.1%
+High: 20.1%
+Very high: 11.6%
+Don't know: 9.8%
+
+Gender
+Man
+
+Low: 38.5
+None: 24.9
+High: 12.3
+Very high: 8.4
+Don't know: 15.9
+Woman
+
+Low: 31
+None: 23.7
+High: 26.6
+Very high: 14
+Don't know: 4.7
+Age
+18-29
+
+Low: 47.2
+None: 33.7
+High: 0
+Very high: 19.1
+Don't know: 0
+30-44
+
+Low: 23.3
+None: 17.1
+High: 34.4
+Very high: 13
+Don't know: 12.2
+45-64
+
+Low: 33.2
+None: 27.9
+High: 20.5
+Very high: 13.8
+Don't know: 4.6
+65+
+
+Low: 42.3
+None: 24.9
+High: 10.8
+Very high: 13.8
+Don't know: 8.3
+Education
+College degree or higher
+
+Low: 27.5
+None: 27.5
+High: 23.6
+Very high: 12
+Don't know: 12.3
+All other
+
+Low: 39.8
+None: 23.6
+High: 17.4
+Very high: 11.3
+Don't know: 7.8
+Income
+Below $50k
+
+Low: 14.5
+None: 29.1
+High: 39.7
+Very high: 6.7
+Don't know: 9.9
+$50k - $100k
+
+Low: 28
+None: 29.2
+High: 11.9
+Very high: 13.3
+Don't know: 17.6
+Above $100k
+
+Low: 63
+None: 12.7
+High: 9
+Very high: 14.6
+Don't know: 0.6
+Location
+Urban
+
+Low: 28.2
+None: 19.7
+High: 25.3
+Very high: 15.6
+Don't know: 11.3
+Sub-urban
+
+Low: 34
+None: 35.7
+High: 23.2
+Very high: 3.7
+Don't know: 3.4
+Rural
+
+Low: 44.2
+None: 14.5
+High: 12.9
+Very high: 16.4
+Don't know: 11.6
+Race
+Asian
+
+Low: 0
+None: 21.3
+High: 0
+Very high: 78.7
+Don't know: 0
+Black
+
+Low: 7.7
+None: 0
+High: 72
+Very high: 20.1
+Don't know: 0.3
+Hispanic
+
+Low: 21.5
+None: 32.7
+High: 38.5
+Very high: 6.7
+Don't know: 0.6
+White
+
+Low: 43.2
+None: 23.5
+High: 13.8
+Very high: 7.5
+Don't know: 12
+Other
+
+Low: 4.6
+None: 72.2
+High: 1.4
+Very high: 0
+Don't know: 21.8
+Partisanship
+Democrat
+
+Low: 27.5
+None: 10.8
+High: 21.7
+Very high: 25.7
+Don't know: 14.3
+Republican
+
+Low: 34.2
+None: 51.8
+High: 8.4
+Very high: 0.5
+Don't know: 5
+Independent
+
+Low: 40.5
+None: 9.8
+High: 27.5
+Very high: 9.2
+Don't know: 12.9
+2020 Vote for President
+Joe Biden
+
+Low: 34.7
+None: 25.4
+High: 25.4
+Very high: 12.1
+Don't know: 2.4
+Donald Trump
+
+Low: 37.3
+None: 40.9
+High: 16.3
+Very high: 0.2
+Don't know: 5.2
+Other, don't remember, didn't vote
+
+Low: 14.9
+None: 40
+High: 14.8
+Very high: 1.2
+Don't know: 29

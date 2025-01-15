@@ -1,0 +1,154 @@
+ In your opinion, should Donald Trump be disqualified from running for office due to 
+the January 6th invasion of the Capitol?
+No, he shouldn't be disqualified: 51.2%
+Yes, he should be disqualified: 47.3%
+Don't know: 1.5%
+
+No, he shouldn't be disqualified:
+
+Feb 24: 45.5%
+Jun 24: 48.9%
+Jul 24: 51.5%
+Sep 24: 51.2%
+Yes, he should be disqualified:
+
+Feb 24: 52.4%
+Jun 24: 47.2%
+Jul 24: 46.4%
+Sep 24: 47.3%
+Don't know:
+
+Feb 24: 2.1%
+Jun 24: 3.9%
+Jul 24: 2.1%
+Sep 24: 1.5%
+
+Gender
+Man
+No: 58.3%
+Yes: 40.7%
+Don't know: 1.1%
+Woman
+No: 45.3%
+Yes: 52.9%
+Don't know: 1.7%
+Other / prefer not to identify
+No: 40.4%
+Yes: 52.7%
+Don't know: 6.9%
+Age
+18-29
+No: 53.2%
+Yes: 45.2%
+Don't know: 1.6%
+30-44
+No: 51.8%
+Yes: 45.1%
+Don't know: 3.1%
+45-64
+No: 49.9%
+Yes: 49.5%
+Don't know: 0.6%
+65+
+No: 52%
+Yes: 47.3%
+Don't know: 0.7%
+Education
+College degree or higher
+No: 43.7%
+Yes: 54.7%
+Don't know: 1.6%
+All other
+No: 56.3%
+Yes: 42.3%
+Don't know: 1.4%
+Income
+Below $50k
+No: 53.7%
+Yes: 44.5%
+Don't know: 1.8%
+$50k - $100k
+No: 48.5%
+Yes: 50.5%
+Don't know: 0.9%
+Above $100k
+No: 52%
+Yes: 46.2%
+Don't know: 1.8%
+Location
+Urban
+No: 45.7%
+Yes: 52.4%
+Don't know: 1.9%
+Sub-urban
+No: 50.9%
+Yes: 48%
+Don't know: 1.1%
+Rural
+No: 59.7%
+Yes: 38.6%
+Don't know: 1.7%
+Race
+Asian
+No: 41.3%
+Yes: 58.7%
+Don't know: 0%
+Black
+No: 30.6%
+Yes: 69.4%
+Don't know: 0%
+Hispanic
+No: 36.5%
+Yes: 62.3%
+Don't know: 1.2%
+White
+No: 58.9%
+Yes: 39.1%
+Don't know: 1.9%
+Other
+No: 47.9%
+Yes: 51.6%
+Don't know: 0.5%
+Partisanship
+Democrat
+No: 10.1%
+Yes: 88.4%
+Don't know: 1.5%
+Republican
+No: 93.1%
+Yes: 5.9%
+Don't know: 1%
+Independent
+No: 52.4%
+Yes: 45.8%
+Don't know: 1.8%
+2020 Vote for President
+Joe Biden
+No: 11.3%
+Yes: 86.9%
+Don't know: 1.8%
+Donald Trump
+No: 96.9%
+Yes: 2.5%
+Don't know: 0.6%
+Other, don't remember, didn't vote
+No: 61%
+Yes: 35.5%
+Don't know: 3.4%
+Vote intention for the 2024 Election
+Kamala Harris
+No: 4.4%
+Yes: 93.8%
+Don't know: 1.8%
+Donald Trump
+No: 98.3%
+Yes: 1.1%
+Don't know: 0.6%
+Blank / null / won't vote
+No: 49.6%
+Yes: 50.4%
+Don't know: 0
+Don't know
+No: 40%
+Yes: 51.7%
+Don't know: 8.3%

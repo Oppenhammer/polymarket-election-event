@@ -1,0 +1,79 @@
+For which of these candidates on the Nevada ballot will you vote for in the 
+upcoming presidential election?
+Donald Trump: 48.4%
+Kamala Harris: 48.1%
+Jill Stein: 1.7%
+Other: 0.8%
+Undecided: 0.8%
+Blank / null / won't vote: 0%
+Chase Oliver: 0%
+Donald Trump
+Gender
+Man: 47.2%
+Woman: 49.1%
+Other: 69.5%
+Education
+College degree or higher: 40.6%
+All other: 55%
+Age
+18-29: 47.9%
+30-44: 43.8%
+45-64: 49.7%
+65+: 52.2%
+Family Income
+Below $50k: 55.3%
+$50k-$100k: 42.7%
+Above $100k: 47%
+Race
+Asian: 39.6%
+Black: 34%
+Hispanic: 46.5%
+White: 52.3%
+Other: 51.6%
+Partisanship
+Democrat: 6.9%
+Republican: 92.8%
+Independent: 48.6%
+Location Type
+Urban: 47%
+Sub-urban: 45%
+Rural: 69.6%
+2020 Vote
+Joe Biden: 5.6%
+Donald Trump: 96.4%
+Other, don't remember, didn't vote: 45.5%
+Kamala Harris
+Gender
+Man: 52.3%
+Woman: 44.5%
+Other: 26.5%
+Education
+College degree or higher: 55%
+All other: 45%
+Age
+18-29: 42%
+30-44: 52.5%
+45-64: 48%
+65+: 47.5%
+Family Income
+Below $50k: 39.5%
+$50k-$100k: 52.8%
+Above $100k: 52.5%
+Race
+Asian: 60.4%
+Black: 52.9%
+Hispanic: 49.7%
+White: 45.6%
+Other: 47.4%
+Partisanship
+Democrat: 89.3%
+Republican: 7.1%
+Independent: 43.8%
+Location Type
+Urban: 51.3%
+Sub-urban: 49.9%
+Rural: 28.5%
+2020 Vote
+Joe Biden: 90.6%
+Donald Trump: 3.6%
+Other, don't remember, didn't vote: 37.2%

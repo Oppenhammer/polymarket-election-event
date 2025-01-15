@@ -1,0 +1,143 @@
+ In your opinion, are the current judicial proceedings against Donald Trump 
+motivated mainly by political persecution or a genuine interest in applying the law?
+Political persecution: 47.7%
+Genuine interest in applying the law: 45.1%
+Don't know: 7.2%
+
+Trends Over Time
+Political persecution
+
+Feb 24: 48.5%
+Jun 24: 50.2%
+Jul 24: 49.1%
+Sep 24: 47.7%
+Genuine interest in applying the law
+
+Feb 24: 45.8%
+Jun 24: 44.1%
+Jul 24: 42.2%
+Sep 24: 45.1%
+Don't know
+
+Feb 24: 5.7%
+Jun 24: 5.6%
+Jul 24: 8.7%
+Sep 24: 7.2%
+
+Gender
+Political persecution
+Man: 54.6%
+Woman: 41.8%
+Other: 48%
+Genuine interest in applying the law
+Man: 40.2%
+Woman: 49.3%
+Other: 46%
+Don't know
+Man: 5.2%
+Woman: 8.9%
+Other: 6%
+Age
+Political persecution
+18-29: 48%
+30-44: 44.2%
+45-64: 47.5%
+65+: 46.8%
+Genuine interest in applying the law
+18-29: 46%
+30-44: 50.4%
+45-64: 47.4%
+65+: 51.3%
+Don't know
+18-29: 6%
+30-44: 9.2%
+45-64: 5.2%
+65+: 1.9%
+Education
+Political persecution
+College degree or higher: 42.3%
+All other: 51.3%
+Genuine interest in applying the law
+College degree or higher: 50.3%
+All other: 41.6%
+Don't know
+College degree or higher: 7.4%
+All other: 7.1%
+Income
+Political persecution
+Below $50k: 47.2%
+$50k - $100k: 47%
+Above $100k: 49.3%
+Genuine interest in applying the law
+Below $50k: 43.4%
+$50k - $100k: 46.8%
+Above $100k: 44.9%
+Don't know
+Below $50k: 9.4%
+$50k - $100k: 6.2%
+Above $100k: 5.8%
+Location
+Political persecution
+Urban: 45.4%
+Sub-urban: 45.7%
+Rural: 55.6%
+Genuine interest in applying the law
+Urban: 49.8%
+Sub-urban: 46.1%
+Rural: 36.2%
+Don't know
+Urban: 4.8%
+Sub-urban: 8.2%
+Rural: 8.1%
+Race
+Political persecution
+Asian: 36.9%
+Black: 24.8%
+Hispanic: 33.9%
+White: 55.5%
+Other: 48.6%
+Genuine interest in applying the law
+Asian: 64.2%
+Black: 64.2%
+Hispanic: 54.9%
+White: 39.1%
+Other: 49.4%
+Don't know
+Asian: 0%
+Black: 11%
+Hispanic: 11.2%
+White: 5.4%
+Other: 2%
+Partisanship
+Political persecution
+Democrat: 10.7%
+Republican: 85.4%
+Independent: 48.7%
+Genuine interest in applying the law
+Democrat: 78.9%
+Republican: 8.8%
+Independent: 46.1%
+Don't know
+Democrat: 10.4%
+Republican: 5.8%
+Independent: 5.2%
+2020 Vote for President
+Political persecution
+Joe Biden: 11.3%
+Donald Trump: 90.4%
+Genuine interest in applying the law
+Joe Biden: 80.6%
+Donald Trump: 4.3%
+Don't know
+Joe Biden: 8.1%
+Donald Trump: 5.3%
+Vote intention for the 2024 Election
+Political persecution
+Kamala Harris: 5%
+Donald Trump: 90.5%
+Genuine interest in applying the law
+Kamala Harris: 86.7%
+Donald Trump: 3.3%
+Don't know
+Kamala Harris: 8.3%
+Donald Trump: 6.2%

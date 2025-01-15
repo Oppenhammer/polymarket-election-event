@@ -1,0 +1,48 @@
+ For which of these candidates on the Pennsylvania ballot will you vote for in the 
+upcoming presidential election?
+Donald Trump: 49.8%
+Kamala Harris: 46.5%
+Jill Stein: 1.9%
+Undecided: 0.9%
+Chase Oliver: 0.5%
+Blank / null / won't vote: 0.2%
+Other: 0.1%
+Donald Trump
+Gender
+Man: 51.4%
+Woman: 48.4%
+Education
+College degree or higher: 38.8%
+Age
+45-64: 54.5%
+65+: 49.4%
+Family Income
+Below $50k: 50.2%
+$50k-$100k: 57.1%
+Race
+White: 54.4%
+Partisanship
+Republican: 92.6%
+Location Type
+Rural: 61.8%
+2020 Vote
+Donald Trump: 95.1%
+Kamala Harris
+Gender
+Man: 44%
+Woman: 49.3%
+Education
+College degree or higher: 56.9%
+Age
+18-29: 47.4%
+30-44: 48.4%
+Family Income
+Above $100k: 53.4%
+Race
+Black: 67.1%
+Partisanship
+Democrat: 89.3%
+Location Type
+Urban: 54.2%
+2020 Vote
+Joe Biden: 87%

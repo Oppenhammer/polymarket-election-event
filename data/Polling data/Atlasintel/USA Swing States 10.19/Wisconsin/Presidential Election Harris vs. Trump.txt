@@ -1,0 +1,83 @@
+ In a head to head race between Kamala Harris and Donald Trump, whom would you vote for?
+Kamala Harris: 49%
+Donald Trump: 48.4%
+Undecided: 1.8%
+Blank/null/won't vote: 0.8%
+Kamala Harris:
+
+49.7% (Sep 2024)
+49% (Oct 2024)
+Donald Trump:
+
+48.2% (Sep 2024)
+48.4% (Oct 2024)
+Kamala Harris
+Gender
+Man: 44%
+Woman: 53.7%
+Other/prefer not to identify: 40.2%
+Education
+College degree or higher: 55.5%
+All other: 43.5%
+Age
+18-29: 43.3%
+30-44: 52.2%
+45-64: 47.8%
+65+: 47.1%
+Family Income
+Below $50k: 50.5%
+$50k-$100k: 50.7%
+Above $100k: 45.2%
+Race
+Asian: 53.6%
+Black: 72.5%
+Hispanic: 63.5%
+White: 47.8%
+Other: 41%
+Partisanship
+Democrat: 97.8%
+Republican: 6.6%
+Independent: 47.5%
+Location Type
+Urban: 58.3%
+Sub-urban: 49.2%
+Rural: 40.2%
+2020 Vote
+Joe Biden: 94.8%
+Donald Trump: 4.1%
+Other/don't remember/didn't vote: 37.2%
+Donald Trump
+Gender
+Man: 52%
+Woman: 45.2%
+Other/prefer not to identify: 54.2%
+Education
+College degree or higher: 43.5%
+All other: 52.8%
+Age
+18-29: 52.8%
+30-44: 45.2%
+45-64: 50.1%
+65+: 49.6%
+Family Income
+Below $50k: 44.9%
+$50k-$100k: 47.3%
+Above $100k: 53.6%
+Race
+Asian: 46.4%
+Black: 27.5%
+Hispanic: 36.5%
+White: 49.4%
+Other: 56.4%
+Partisanship
+Democrat: 1.8%
+Republican: 92.5%
+Independent: 45.8%
+Location Type
+Urban: 38.9%
+Sub-urban: 48.3%
+Rural: 57.4%
+2020 Vote
+Joe Biden: 4.6%
+Donald Trump: 94.9%
+Other/don't remember/didn't vote: 44.5%
